@@ -65,11 +65,13 @@ Would you like to see the game in your language? I would like that too! Help me 
 
 ### Spread the word
 
-Let others know that you like this game by giving link to this page or the play store:
+Let others know that you like this game by sharing a link 
 
-http://minecraft-sweeper.misiunas.com
+`http://minecraft-sweeper.com `
 
-http://goo.gl/MRh1M
+or direct link to the Play Store
+
+`http://goo.gl/MRh1M`
 
 <!-- todo: what are popular social media channels across the world -->
 
