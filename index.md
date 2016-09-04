@@ -8,7 +8,7 @@ permalink: /
 Puzzle game based on minesweeper game with a new twist. We also have MineCraft theme since we love the original game!
 
 
-**Disclaimer**: This game is developed independently from Microsoft and Mojang. This game is also not related to [the Minecraft game](http://todo.com) apart from similar theme.
+**Disclaimer**: This game is developed independently from Microsoft and Mojang. This game is also not related to [the Minecraft game](https://play.google.com/store/apps/details?id=com.mojang.minecraftpe&hl=en_GB) apart from similar theme.
 
 The game include three game modes:
 
@@ -37,13 +37,14 @@ Other features:
 You can install game from Google Play Store
 
 <ul class="actions">
-	<li><a href="#" class="button special icon fa-android">Install via Play Store</a></li>
+	<li><a href="https://play.google.com/store/apps/details?id=com.misiunas.mcs
+" class="button special icon fa-android">Install via Play Store</a></li>
 </ul>
 
-However, after legal issue with Microsoft that went unresolved the game is not available on European Play store. Instead, you can install it directly via APK file. You can find [instructions here](http://todo.com) on how to install APK files
+However, after legal issue with Microsoft that went unresolved the game is not available on European Play store. Instead, you can install it directly via APK file. You can find [instructions here](http://www.ubergizmo.com/how-to/how-to-install-apk-files-sideloading-on-android/) on how to install APK files
 
 <ul class="actions">
-  <li><a href="#" class="button special icon fa-download">Download .APK file</a></li>
+  <li><a href="https://dl.dropboxusercontent.com/u/12073958/MC-Sweeper-release.apk" class="button special icon fa-download">Download .APK file</a></li>
 </ul>
 
 
@@ -54,13 +55,13 @@ Want to help? Awesome! Fan contributions make this game great!
 ### Give feedback
 
 <ul class="actions">
-    <li><a href="#" class="button icon fa-email">Email me</a></li>
-    <li><a href="#" class="button icon fa-github">via GitHub</a></li>
+    <li><a href="mailto:support+mcs@misiunas.com" class="button icon fa-email">Email me</a></li>
+    <li><a href="https://github.com/kmisiunas/minecraft-sweeper/issues" class="button icon fa-github">via GitHub</a></li>
 </ul>
 
 ### Translate to your language
 
-Would you like to see the game in your language? I would like that too! Help me translate this game to your language. [I wrote brief instructions on how to do this](http://todo.com). 
+Would you like to see the game in your language? I would like that too! Help me translate this game to your language. [I wrote brief instructions on how to do this](https://github.com/kmisiunas/minecraft-sweeper). 
 
 ### Spread the word
 
@@ -68,9 +69,9 @@ Let others know that you like this game by giving link to this page or the play 
 
 http://minecraft-sweeper.misiunas.com
 
-http://play.google.com/...
+http://goo.gl/MRh1M
 
-todo: what are popular social media channels across the world
+<!-- todo: what are popular social media channels across the world -->
 
 <ul class="actions">
     <li><a href="#" class="button icon fa-twitter">Tweet</a></li>
@@ -80,7 +81,7 @@ todo: what are popular social media channels across the world
 
 # Publicity
 
-
+ - [Kotaku magazine article](http://kotaku.com/5878388/when-minesweeper-met-minecraft-a-gaming-app-love-story)
 
 # Authors
 
