@@ -67,7 +67,7 @@ Would you like to see the game in your language? I would like that too! Help me 
 
 Let others know that you like this game by sharing a link 
 
-`http://minecraft-sweeper.com `
+`http://minecraft-sweeper.com`
 
 or direct link to the Play Store
 
@@ -76,9 +76,9 @@ or direct link to the Play Store
 <!-- todo: what are popular social media channels across the world -->
 
 <ul class="actions">
-    <li><a href="#" class="button icon fa-twitter">Tweet</a></li>
-    <li><a href="#" class="button icon fa-facebook">Facebook</a></li>
-    <li><a href="#" class="button icon fa-google-plus">Google+</a></li>
+    <li><a href="https://twitter.com/home?status=Try%20this%20awesome%20puzzle%20game%20for%20Android%3A%20www.minecraft-sweeper.com" class="button icon fa-twitter">Tweet</a></li>
+    <li><a href="https://www.facebook.com/sharer/sharer.php?u=http%3A//minecraft-sweeper.com" class="button icon fa-facebook">Facebook</a></li>
+    <li><a href="https://plus.google.com/share?url=minecraft-sweeper.com" class="button icon fa-google-plus">Google+</a></li>
 </ul>
 
 # Publicity
