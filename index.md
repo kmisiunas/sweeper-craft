@@ -23,18 +23,12 @@ Other features:
  - Multiple themes 
  - No bullshit 
 
-<ul class="actions">
-    <li><span class="image fit"><img src="images/pic01.jpg" alt="" /></span></li>
-    <li><span class="image fit"><img src="images/pic02.jpg" alt="" /></span></li>
-    <li><span class="image fit"><img src="images/pic03.jpg" alt="" /></span></li>
-</ul>
-
 
 <div class="box alt">
 <div class="row uniform 50%">
-    <div class="4u"><span class="image fit"><img src="images/pic01.jpg" alt="" /></span></div>
-    <div class="4u"><span class="image fit"><img src="images/pic02.jpg" alt="" /></span></div>
-    <div class="4u"><span class="image fit"><img src="images/pic03.jpg" alt="" /></span></div>
+    <div class="4u 12u$(small)"><span class="image fit"><img src="images/pic01.jpg" alt="" /></span></div>
+    <div class="4u 12u$(small)"><span class="image fit"><img src="images/pic02.jpg" alt="" /></span></div>
+    <div class="4u 12u$(small)"><span class="image fit"><img src="images/pic03.jpg" alt="" /></span></div>
 </div>
 </div>
 
