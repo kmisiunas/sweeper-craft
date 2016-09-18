@@ -21,7 +21,7 @@ Other features:
  - Highsores via Google Play - compete wit your friends
  - Pinch to zoom
  - Multiple themes 
- - No bullshit 
+ - Frustration free  
 
 
 <div class="box alt">
@@ -42,7 +42,7 @@ You can install game from Google Play Store
 " class="button special icon fa-android">Install via Play Store</a></li>
 </ul>
 
-However, after legal issue with Microsoft that went unresolved the game is not available on European Play store. Instead, you can install it directly via APK file. You can find [instructions here](http://www.ubergizmo.com/how-to/how-to-install-apk-files-sideloading-on-android/) on how to install APK files
+However, after legal issue with Microsoft that went unresolved the game is not available on European Play store. Instead, you can install it directly via APK file. Download the game below and you can follow these [instructions](http://www.ubergizmo.com/how-to/how-to-install-apk-files-sideloading-on-android/) on  installing the APK files
 
 <ul class="actions">
   <li><a href="https://dl.dropboxusercontent.com/u/12073958/MC-Sweeper-release.apk" class="button special icon fa-download">Download .APK file</a></li>
@@ -51,7 +51,7 @@ However, after legal issue with Microsoft that went unresolved the game is not a
 
 # Contribute
 
-Want to help? Awesome! Fan contributions make this game great!
+Want to help? Awesome! Contributions make this game great!
 
 ### Give feedback
 
@@ -88,7 +88,7 @@ or direct link to the Play Store
 
 # Authors
 
-My name is Karolis Misiunas and I created the initial game after getting my first Android phone. It was a fun project that helped me learn to code. Since then the game had contributions from other people and I would like to acknowledge them:
+My name is **Karolis Misiunas** and I created the initial game after getting my first Android phone. It was a fun project that helped me learn to code. Since then the game had contributions from other people and I would like to acknowledge them:
 
  - **Tautvydas Misiunas** developed the highscore system for v2 and continuously advised on technical aspects. Thanks, bro!
  - **JelleWho** made countless suggestions for the v3. The game looks much better because of you!
