@@ -92,3 +92,4 @@ My name is **Karolis Misiunas** and I created the initial game after getting my 
 
  - **Tautvydas Misiunas** developed the highscore system for v2 and continuously advised on technical aspects. Thanks, bro!
  - **JelleWho** made countless suggestions for the v3. The game looks much better because of you!
+ - **Artem Kuzentsov** who kindly translated the game into Russian.
