@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+
+    <string name="settings_gameplay">Game play</string>
+
+    <string name="settings_zoom_default">128</string>
+    <string name="settings_global">Global</string>
+
+    <string name="settings_show_grid">Show grid</string>
+    <string name="settings_show_grid_explanation">black wire grid will be shown to clearly indicate tiles</string>
+    <string name="settings_vibrate">Vibrate on touch</string>
+    <string name="settings_vibrate_explanation">turn off vibration feedback to save battery life</string>
+    <string name="settings_calibrate_touch">Calibrate touch input</string>
+    <string name="settings_other">Other</string>
+    <string name="settings_help">Help and F.A.Q.</string>
+
+    <string name="settings_theme">Theme</string>
+    <string name="settings_theme_summary">Game comes in multiple themes</string>
+
+    <string name="settings_contribute">Contribute</string>
+
+    <string name="settings_rate_app">Rate the app</string>
+    <string name="settings_rate_app_summary">If you like the app, gives us a 5 star rating on android market:)</string>
+
+    <string name="settings_spread_the_word">Spread the word</string>
+    <string name="settings_spread_the_word_summary">Tell your friends about this app via social media!</string>
+
+    <string name="settings_premium">Buy Premium</string>
+    <string name="settings_premium_summary">If you really like this app, get us a cup of coffee. In return, you will get two new themes and no more ads</string>
+
+    <string name="settings_information">Information</string>
+
+    <string name="settings_tutorial">Tutorial</string>
+    <string name="settings_tutorial_summary">Open tutorial guide on how to play</string>
+
+    <string name="settings_bug">Report a bug</string>
+    <string name="settings_bug_summary">Click here to report a bug in a game or make an improvement suggestion. </string>
+
+    <string name="settings_webpage">Webpage</string>
+    <string name="settings_webpage_summary">Credits, contributions and other info can be found on our website.</string>
+
+    <string name="settings_show_badges">Show badges</string>
+    <string name="settings_show_badges_explanation">You can hide badges dialog from appearing</string>
+
+    <string name="settings_language">Choose language</string>
+    <string name="settings_language_explanation">Ignore local language settings and use language of your choice</string>
+    <string-array name="settings_language_list">
+        <item>Automatic</item>
+        <item>English</item>
+        <item>German</item>
+        <item>Russian</item>
+        <item>French</item>
+        <item>Spanish</item>
+        <item>Portuguese</item>
+        <item>Dutch</item>
+        <item>Lithuanian</item>
+        <item>Korean</item>
+        <item>Japanese</item>
+        <item>Hindi</item>
+        <item>Thai</item>
+        <item>English (Classic)</item>
+    </string-array>
+    <string-array name="settings_language_values">
+        <item>Automatic</item>
+        <item>en</item>
+        <item>de</item>
+        <item>ru</item>
+        <item>fr</item>
+        <item>es</item>
+        <item>pt</item>
+        <item>nl</item>
+        <item>lt</item>
+        <item>ko</item>
+        <item>ja</item>
+        <item>hi</item>
+        <item>th</item>
+        <item>en-rMU</item>
+    </string-array>
+    <string name="settings_language_default">Automatic</string>
+    
+    <string name="settings_highscore">Highscore</string>
+    <string name="settings_login">Sign in with Google</string>
+    <string name="settings_login_explanation">Use Google Leaderboard to track your highest scores</string>
+    <string name="settings_logout">Sign out</string>
+    <string name="settings_logout_explanation">Tracking of your scores will be turned off. It will be restored once you sign in again</string>
+    <string name="settings_in_progress">In progress. You can leave settings now.</string>
+
+
+    <string name="settings_about">About</string>
+    <string name="settings_about_summary">Game version: [versionName] ([versionCode]). Developed by Karolis Misiunas with lots of help from others. We are independent developers and not affiliated to Mojang or Microsoft. </string>
+
+</resources>

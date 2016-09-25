@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">MineCraft Sweeper</string>
+
+
+    <!-- Main Menu -->
+
+    <string name="continue_game">Continue Game</string>
+    <string name="new_game">New Game</string>
+    <string name="settings">Settings</string>
+    <string name="high_score">Highscores</string>
+    <!-- Settings defined automatically by android? -->
+
+    <!-- New Game Activity -->
+
+    <string name="map_size">Map Size:</string>
+    <string name="game_mode">Game Mode:</string>
+    <string name="difficulty">Difficulty:</string>
+    <string name="start_game">Start the game!</string>
+    <string-array name="game_modes">
+        <item>Adventure</item>
+        <item>Rescue</item>
+        <item>Classic</item>
+    </string-array>
+    <string-array name="map_sizes">
+        <item>Small</item>
+        <item>Medium</item>
+        <item>Large</item>
+        <item>Infinite</item>
+    </string-array>
+    <string-array name="difficulties">
+        <item>Easy</item>
+        <item>Medium</item>
+        <item>Hard</item>
+    </string-array>
+    <string name="mode_adventure_exp">The mine is filled with hidden treasures: swords to kill the monsters and food to heal you. You start with 4 lives.</string>
+    <string name="mode_rescue_exp">Honeydew got lost in the mine! Your goal is to find a special tile hidden in the map before your score reaches zero. You have treasures hidden in the map to help you on the way.</string>
+    <string name="mode_classic_exp">Good old minesweeper. One life, no treasures.</string>
+    <string name="loading">Loading. Please wait...</string>
+
+
+    <!-- Game -->
+
+    <string name="mine">Mine</string>
+    <string name="flag">Flag</string>
+    <string name="protect_button">Protect</string>
+
+    <!-- Game: Interactions -->
+
+    <string name="won_adventure">You Won!</string>
+    <string name="won_adventure_extended">You emptied the mine. Go and build something great!</string>
+    <string name="won_rescue">Honeydew!</string>
+    <string name="won_rescue_extended">You rescued your friend. Well done!</string>
+    <string name="won_classic">You Won!</string>
+    <string name="won_classic_extended">That was a classy(ic) game.</string>
+
+    <string name="lost_out_of_time">Sooo Slooow</string>
+    <string name="lost_out_of_time_extended">Your friend starved waiting for you. Hurry the next time!</string>
+    <string name="lost_died">Whoops.. you died</string>
+    <string name="lost_died_zombie">A zombie ate your delicious brains!</string>
+    <string name="lost_died_creeper">pssss... boom!</string>
+    <string name="lost_died_enderman">You shouldn\'t have gazed upon the Enderman</string>
+    <string name="lost_died_rabbit">and all your stuff got eaten by a giant rabbit!</string>
+
+
+
+    <string name="mistake_flag">Ouch! Flag in a wrong place</string>
+
+    <string name="found_zombie">Zombie wantz your brainzz</string>
+    <string name="found_creeper">Psss... boom! Creeper crept up on you</string>
+    <string name="found_enderman">Ouch... should not have gaze upon the Enderman</string>
+    <string name="ate_pie">Delicious pie. Yum!</string>
+    <string name="ate_steak">Meal restored your vitality</string>
+    <string name="found_gold">Getting rich</string>
+    <string name="found_diamond">You collected one diamond</string>
+    <string name="found_treasure_sword">You found a sword!</string>
+    <string name="found_treasure_map">You found a treasure map!</string>
+    <string name="found_treasure_gold">You found a treasure!</string>
+    <string name="found_treasure_empty">The chest was empty. unlucky.</string>
+    <string name="found_sword">Go slay the monsters!</string>
+    <string name="explosives_boom">Boom!</string>
+    <string name="found_goal">Honeydew! you found him</string>
+    <string name="uncovered_all_tiles">You explored the entire mine!</string>
+    <string name="died">Your dead.</string> <!-- unused -->
+
+    <string name="no0_diamond_ore">Diamond Sword was consumed.</string>
+    <string name="no1_diamond_ore">Collect one more diamond ore to get a sword.</string>
+    <string name="no2_diamond_ore">You have crafted a diamond sword!</string>
+    <string name="have_tnt">You have killed a creeper and crafted a TNT!! Be careful.</string>
+    <string name="found_gold_ore">You are getting rich!</string>
+    <string name="treasure_map">You found a map! An area close to you was uncovered.</string>
+    <string name="treasure_gold">It was full of gold!</string>
+    <string name="treasure_nether">...run</string>
+
+    <string name="treasure_diamond_sword">You found a sword!</string>
+    <string name="found_beef">You found some beef and had a feast!</string>
+    <string name="found_cake">You found some cake. It was very sweet.</string>
+
+
+    <string name="diamond_sword_kill_zombie">You killed a zombie. He was no match for you.</string>
+    <string name="diamond_sword_kill_creeper">You killed a creeper and made a TNT out of the gunpowder it dropped.</string>
+    <string name="diamond_sword_kill_enderman">You slayed an Enderman with a sword.</string>
+    <string name="diamond_sword_mine_rock">Sword is not a pickaxe, thus it broke.</string>
+
+
+    <!-- Game: Tutorial -->
+
+    <string name="guide">Guide</string>
+    <string name="guide_next">Next</string>
+    <string name="guide_skip">Skip</string>
+    <string name="guide_finish">Finish</string>
+    <string name="guide_title_first">Guide: First Steps</string>
+    <string name="guide_title_mode_classic">Guide: Classic Mode</string>
+    <string name="guide_title_mode_with_food">Guide: With Food Mode</string>
+    <string name="guide_title_mode_adventure">Guide: Adventure Mode</string>
+    <string name="guide_title_final">Guide: Good Luck!</string>
+
+    <!-- Social -->
+
+    <string name="please_review_this_app">Please Review this app</string>
+    <string name="review_this_app_explained">If you like this app you can motivate us by giving a 5 star rating and a comment in Android Market. Thank you!</string>
+    <string name="button_later">Later</string>
+    <string name="button_review_now">Review now!</string>
+
+    <string name="tweet_share_title">Share</string>
+    <string name="tweet_message">Got [score] while playing www.minecraft-sweeper.com on Android. Beat that!</string>
+    <string name="tweet_message_rescue">I rescued Honeydew in [minutes] on an Android game www.minecraft-sweeper.com</string>
+    <string name="tweet_message_share">Try a new puzzle game for Android: www.minecraft-sweeper.com</string>
+
+
+    <!-- Settings -->
+
+    <string name="menu_calibrate">Calibrate touch</string>
+    <string name="reset_calibration">Restore default</string>
+    <string name="calibrate_click">Touch the cross</string>
+    <string name="theme_minecraft">Minecraft</string>
+    <string name="theme_classic">Classic</string>
+
+
+
+    <!-- HighScore -->
+
+    <string name="highscores_go_online"> You must be online for this </string>
+    <string name="highscores_sign_in"> Click to sign in using Google </string>
+    <string name="google_services_sign_in">Highscores are kept online on Google servers. You will need to login to use this feature.</string>
+
+
+
+    <!-- Google Login -->
+
+    <string name="sign_in_failed">Failed to sign in. Please check your network connection and try again.</string>
+    <string name="app_misconfigured">The application is incorrectly configured. Check that the package name and signing certificate match the client ID created in Developer Console. Also, if the application is not yet published, check that the account you are trying to sign in with is listed as a tester account. See logs for more information.</string>
+    <string name="license_failed">License check failed.</string>
+    <string name="unknown_error">Unknown error.</string>
+    <string name="gamehelper_sign_in_failed">Failed to sign in. Please check your network connection and try again.</string>
+    <string name="gamehelper_app_misconfigured">The application is incorrectly configured. Check that the package name and signing certificate match the client ID created in Developer Console. Also, if the application is not yet published, check that the account you are trying to sign in with is listed as a tester account. See logs for more information.</string>
+    <string name="gamehelper_license_failed">License check failed.</string>
+    <string name="gamehelper_unknown_error">Unknown error.</string>
+
+    <string name="sign_in">Sign In</string>
+
+    <!--Where is it used?-->
+
+    <string name="title_activity_new_game">ToDo</string>
+
+    <!-- Google Play Store -->
+
+    <string name="store_description">
+        Puzzle game based on minesweeper game with a new twist. We also have MineCraft theme since we love the original game!
+
+        Disclaimer: This game is developed independently from Microsoft and Mojang. This game is also not related to the Minecraft game apart from similar theme.
+
+        The game include three game modes:
+         - Classic for the lovers of original minesweeper game.
+         - Adventure explore very large map where we hidden treasures through the map. You have four lives and can replenish them by discovering food. Your goal is to open all the hidden tiles, but it will not be easy.
+         - Rescue you have to save your friend lost somewhere in the map before the time runs out. Hurry!
+        
+        Other features:
+         - Highsores via Google Play - compete wit your friends
+         - Pinch to zoom
+         - Multiple themes
+         - Frustration free
+
+    </string>
+
+    <string name="translated_by">Your Name</string>
+
+</resources>
