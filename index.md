@@ -8,7 +8,7 @@ permalink: /
 Puzzle game based on minesweeper game with a new twist. We also have MineCraft theme since we love the original game!
 
 
-**Disclaimer**: This game is developed independently from Microsoft and Mojang. This game is also not related to [the Minecraft game](https://play.google.com/store/apps/details?id=com.mojang.minecraftpe&hl=en_GB) apart from similar theme.
+We (changed the name)[http://sweepercraft.com/minecraft-sweeper/] from **MineCraft Sweeper** to **Sweeper Craft**. 
 
 The game include three game modes:
 
@@ -62,13 +62,13 @@ Want to help? Awesome! Contributions make this game great!
 
 ### Translate to your language
 
-Would you like to see the game in your language? I would like that too! Help me translate this game to your language. [I wrote brief instructions on how to do this](https://github.com/kmisiunas/minecraft-sweeper). 
+Would you like to see the game in your language? I would like that too! Help me translate this game to your language. [I wrote brief instructions on how to do this](https://github.com/kmisiunas/sweeper-craft). 
 
 ### Spread the word
 
 Let others know that you like this game by sharing a link 
 
-`http://minecraft-sweeper.com`
+`http://SweeperCraft.com`
 
 or direct link to the Play Store
 
@@ -77,9 +77,9 @@ or direct link to the Play Store
 <!-- todo: what are popular social media channels across the world -->
 
 <ul class="actions">
-    <li><a href="https://twitter.com/home?status=Try%20this%20awesome%20puzzle%20game%20for%20Android%3A%20www.minecraft-sweeper.com" class="button icon fa-twitter">Tweet</a></li>
-    <li><a href="https://www.facebook.com/sharer/sharer.php?u=http%3A//minecraft-sweeper.com" class="button icon fa-facebook">Facebook</a></li>
-    <li><a href="https://plus.google.com/share?url=minecraft-sweeper.com" class="button icon fa-google-plus">Google+</a></li>
+    <li><a href="https://twitter.com/home?status=Try%20this%20awesome%20puzzle%20game%20for%20Android%3A%20www.SweeperCraft.com" class="button icon fa-twitter">Tweet</a></li>
+    <li><a href="https://www.facebook.com/sharer/sharer.php?u=http%3A//SweeperCraft.com" class="button icon fa-facebook">Facebook</a></li>
+    <li><a href="https://plus.google.com/share?url=SweeperCraft.com" class="button icon fa-google-plus">Google+</a></li>
 </ul>
 
 # Publicity
