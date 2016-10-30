@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+	<string name="app_name">Sweeper Craft</string>
+
+	<string name="continue_game">Continuar el juego</string>
+	<string name="new_game">Nuevo juego</string>
+	<string name="settings">Configuración</string>
+	<string name="high_score">Puntuaciones más altas</string>
+	<string name="map_size">Tamaño del mapa:</string>
+	<string name="game_mode">Modo de juego:</string>
+	<string name="difficulty">Dificultad:</string>
+	<string name="start_game">¡Inicia el juego!</string>
+	<string name="mode_adventure_exp">Su objetivo es abrir todas las fichas. Tienes cuatro vidas. Hay tesoros y vive escondido en el mapa.</string>
+	<string name="mode_rescue_exp">Su objetivo es encontrar la ficha de meta especial. Tiempo le quita su puntuación. Usted va a perder, si la puntuación llega a cero.</string>
+	<string name="mode_classic_exp">Juego clásico Buscaminas</string>
+	<string name="loading">Cargando. Espera...</string>
+	<string name="mine">Abierto</string>
+	<string name="flag">Marca</string>
+	<string name="protect_button">Proteger</string>
+	<string name="won_adventure">¡Has ganado!</string>
+	<string name="won_adventure_extended">Todas las fichas están abiertas</string>
+	<string name="won_rescue">¡Has ganado!</string>
+	<string name="won_rescue_extended">Has encontrado el azulejo especial</string>
+	<string name="won_classic">¡Has ganado!</string>
+	<string name="won_classic_extended">Todas las fichas están abiertas</string>
+	<string name="lost_out_of_time">Tiempo funcionó hacia fuera</string>
+	<string name="lost_out_of_time_extended">Su tiempo se agotó. Debe ser más rápido.</string>
+	<string name="lost_died">Tu muerte</string>
+	<string name="lost_died_zombie"></string>
+	<string name="lost_died_creeper"></string>
+	<string name="lost_died_enderman"></string>
+	<string name="lost_died_rabbit"></string>
+	<string name="mistake_flag">Marcaste una baldosa mal</string>
+	<string name="found_zombie">Has perdido una vida</string>
+	<string name="found_creeper">Se perdieron dos vidas</string>
+	<string name="found_enderman">Se perdieron tres vidas</string>
+	<string name="ate_pie">Usted ganó una vida</string>
+	<string name="ate_steak">Usted ganó tres vida</string>
+	<string name="found_gold">+ 5 puntos</string>
+	<string name="found_diamond">Abrir cualquier azulejo</string>
+	<string name="found_treasure_sword">Abrir cualquier azulejo</string>
+	<string name="found_treasure_map">Nueva área descubierta</string>
+	<string name="found_treasure_gold">Más puntos</string>
+	<string name="found_treasure_empty">Nada</string>
+	<string name="found_sword">Abrir cualquier azulejo</string>
+	<string name="explosives_boom">¡Boom!</string>
+	<string name="found_goal">Fount de la loseta de meta especial</string>
+	<string name="uncovered_all_tiles">Descubrieron todas las fichas</string>
+	<string name="diamond_sword_kill_zombie"></string>
+	<string name="diamond_sword_kill_creeper"></string>
+	<string name="diamond_sword_kill_enderman"></string>
+	<string name="diamond_sword_mine_rock"></string>
+	<string name="guide">Guía de</string>
+	<string name="guide_next">Siguiente</string>
+	<string name="guide_skip">SKIP</string>
+	<string name="guide_finish">Acabado</string>
+	<string name="guide_title_first">Guía: Primeros pasos</string>
+	<string name="guide_title_mode_classic">Guía: El modo clásico</string>
+	<string name="guide_title_mode_with_food">Guía: Con el modo de alimentación</string>
+	<string name="guide_title_mode_adventure">Guía: Modo de aventura</string>
+	<string name="guide_title_final">Guía: ¡Buena suerte!</string>
+	<string name="please_review_this_app">Por favor, revise esta aplicación</string>
+	<string name="review_this_app_explained">Si te gusta esta aplicación nos puede motivar dando un 5 estrellas y un Comentario en Android Market. ¡Gracias!</string>
+	<string name="button_later">Más tarde</string>
+	<string name="button_review_now">¡Revise ahora!</string>
+	<string name="tweet_share_title">Compartir</string>
+	<string name="highscores_go_online">Usted debe estar en línea para esto</string>
+	<string name="highscores_sign_in">Haz clic para firmar en el uso de Google</string>
+	<string name="google_services_sign_in">Puntuaciones más altas se encuentran en línea en servidores de Google. Usted tendrá que iniciar sesión para utilizar esta función.</string>
+	<string name="sign_in_failed">Error al iniciar sesión en. Por favor, compruebe su conexión de red e inténtelo de nuevo.</string>
+	<string name="app_misconfigured">La aplicación está configurada incorrectamente. Verifique que el nombre del paquete y el certificado de firma coinciden con el ID de cliente que creó en la consola de desarrollador. Además, si la aplicación no está aún publicada, verifique que la cuenta de que está tratando de firmar con aparece como una cuenta de probador. Ver los registros para obtener más información.</string>
+	<string name="license_failed">Verificación de la licencia no.</string>
+	<string name="unknown_error">Error desconocido.</string>
+	<string name="gamehelper_sign_in_failed">Error al iniciar sesión en. Por favor, compruebe su conexión de red e inténtelo de nuevo.</string>
+	<string name="gamehelper_app_misconfigured">La aplicación está configurada incorrectamente. Verifique que el nombre del paquete y el certificado de firma coinciden con el ID de cliente que creó en la consola de desarrollador. Además, si la aplicación no está aún publicada, verifique que la cuenta de que está tratando de firmar con aparece como una cuenta de probador. Ver los registros para obtener más información.</string>
+	<string name="gamehelper_license_failed">Verificación de la licencia no.</string>
+	<string name="gamehelper_unknown_error">Error desconocido.</string>
+	<string name="sign_in">Inicia sesión</string>
+	<string name="store_description">Juego basado en juego de buscaminas con un nuevo toque de Puzzle. También tenemos tema de MineCraft ya que nos encanta el juego original!
+
+Descargo de responsabilidad: Este juego se desarrolla independientemente de Microsoft y Mojang. Este juego también no está relacionado con el juego de Minecraft aparte de tema similar.
+
+El juego incluye tres modos de juego:
+        -Clásico para los amantes del juego Buscaminas original.
+        -Aventura explorar gran mapa donde hemos escondido tesoros a través del mapa. Tienes cuatro vidas y pueden recargar descubriendo alimentos. Su objetivo es abrir todas las fichas ocultas, pero no será fácil.
+        -Rescate que tienes que salvar a su amigo perdido en algún lugar en el mapa antes de que acabe el tiempo. ¡Date prisa!
+
+Otras características:
+        -Highsores a través de Google Play - competir ingenio tus amigos
+        -Pellizcar para ampliar
+        -Varios temas
+        -Frustración gratis</string>
+	<string name="translated_by">Te llamas</string>
+	<string name="menu_calibrate">Calibrar touch</string>
+	<string name="reset_calibration">Restaurar por defecto</string>
+	<string name="calibrate_click">Tocar la Cruz</string>
+	<string name="theme_minecraft">Minecraft</string>
+	<string name="theme_classic">Clásico</string>
+	<string name="settings_gameplay">Juego</string>
+	<string name="settings_global">Global</string>
+	<string name="settings_show_grid">Mostrar cuadrícula</string>
+	<string name="settings_show_grid_explanation">rejilla de alambre negro aparecerá para indicar claramente los azulejos</string>
+	<string name="settings_vibrate">Vibrar en el touch</string>
+	<string name="settings_vibrate_explanation">desactivar la vibración para salvar la vida de la batería</string>
+	<string name="settings_calibrate_touch">Calibrar la entrada táctil</string>
+	<string name="settings_other">Otros</string>
+	<string name="settings_help">Ayuda y preguntas frecuentes</string>
+	<string name="settings_theme">Tema</string>
+	<string name="settings_theme_summary">El juego viene en múltiples temas</string>
+	<string name="settings_contribute">Contribuir</string>
+	<string name="settings_rate_app">La aplicación de la tarifa</string>
+	<string name="settings_rate_app_summary">Si te gusta la aplicación, nos da una calificación de 5 estrellas en android market:)</string>
+	<string name="settings_spread_the_word">Corra la voz</string>
+	<string name="settings_spread_the_word_summary">¡Dile a tus amigos acerca de esta aplicación a través de las redes sociales!</string>
+	<string name="settings_premium">Comprar Premium</string>
+	<string name="settings_premium_summary">Si realmente te gusta esta aplicación, nos conseguir una taza de café. A cambio, obtendrá dos nuevos temas y no más anuncios</string>
+	<string name="settings_information">Información</string>
+	<string name="settings_tutorial">Tutorial</string>
+	<string name="settings_tutorial_summary">Abrir guía tutorial sobre cómo jugar</string>
+	<string name="settings_bug">Notificar un error</string>
+	<string name="settings_bug_summary">Haga clic aquí para informar de un fallo en un juego o hacer una sugerencia de mejora.</string>
+	<string name="settings_webpage">Página Web</string>
+	<string name="settings_webpage_summary">Créditos, aportes y otras informaciones pueden encontrarse en nuestro sitio Web.</string>
+	<string name="settings_show_badges">Mostrar insignias</string>
+	<string name="settings_show_badges_explanation">Puede ocultar diálogo insignias de la aparición</string>
+	<string name="settings_language_explanation">Omitir la configuración de idioma local y usar el lenguaje de su elección</string>
+	<string name="settings_highscore">Puntuación más alta</string>
+	<string name="settings_login">Inicia sesión con Google</string>
+	<string name="settings_login_explanation">Uso Google Leaderboard para realizar un seguimiento de tus puntuaciones más altas</string>
+	<string name="settings_logout">Cerrar sesión</string>
+	<string name="settings_logout_explanation">Seguimiento de tus puntuaciones se desactivará. Se restablecerá una vez que inicie sesión en otra vez</string>
+	<string name="settings_in_progress">En progreso. Puede dejar configuración ahora.</string>
+	<string name="badge_e1_title">Utilizando el extremo derecho de la pala</string>
+	<string name="badge_e1_message">Ganó los primeros 200 puntos en Easy.</string>
+	<string name="badge_e2_title">Sabes usar el pico</string>
+	<string name="badge_e2_message">Ganó los primeros 1000 puntos en Easy.</string>
+	<string name="badge_m1_title">Agujero de diggy Diggy</string>
+	<string name="badge_m1_message">Ganó los primeros 200 puntos en medio.</string>
+	<string name="badge_m2_title">Suficiente piedra para la primera casa</string>
+	<string name="badge_m2_message">Ganó los primeros 1000 puntos en medio.</string>
+	<string name="badge_m3_title">No hay mucho izquierda aquí</string>
+	<string name="badge_m3_message">Ganó los primeros 20000 puntos en medio.</string>
+	<string name="badge_h1_title">Están mejorando</string>
+	<string name="badge_h1_message">Ganó los primeros 200 puntos en el nivel difícil.</string>
+	<string name="badge_h2_title">Es un agujero profundo</string>
+	<string name="badge_h2_message">Ganó los primeros 2000 puntos en el nivel difícil.</string>
+	<string name="badge_h3_title">¡Ahora puede construir un castillo!</string>
+	<string name="badge_h3_message">Ganó los primeros 5000 puntos en el nivel difícil.</string>
+	<string name="badge_h4_title">Muesca estaría orgullosa</string>
+	<string name="badge_h4_message">Ganó los primeros 20000 puntos en el nivel difícil.</string>
+	<string name="badge_to_arms_title">¡A las armas!</string>
+	<string name="badge_to_arms_message">Hizo una espada de diamante</string>
+	<string name="badge_tnt_title">dará steve 46 1</string>
+	<string name="badge_tnt_message">Mató de una enredadera y tiene pólvora para su primer TNT.</string>
+	<string name="badge_lucky_loot_title">¡Se preparan!</string>
+	<string name="badge_lucky_loot_message">Una espada de diamante. Suerte</string>
+	<string name="badge_gold_fever_title">¡Rico!</string>
+	<string name="badge_gold_fever_message">Usted encontró el cofre lleno de oro</string>
+	<string name="badge_treasure_hunt_title">Mapa del tesoro</string>
+	<string name="badge_treasure_hunt_message">Encontraras un mapa para ubicación inexplorada.</string>
+	<string name="badge_zombie_slayer_title">Asesino de zombies</string>
+	<string name="badge_zombie_slayer_message">Matar a 20 zombis.</string>
+	<string name="badge_braveness_title">Bravura</string>
+	<string name="badge_braveness_message">Miró fijamente Enderman 5 en los ojos y vivió para contar la historia</string>
+	<string name="badge_diamond_title">Engranaje de diamante</string>
+	<string name="badge_diamond_message">Recoge suficientes diamantes para arte completo diamante engranaje</string>
+	<string name="badge_boom_title">¡Boom!!!!!!</string>
+	<string name="badge_boom_message">Minería como un profesional: con TNT</string>
+	<string name="badge_honeydew_appetite_title">Apetito de melaza</string>
+	<string name="badge_honeydew_appetite_message">Estás 20 tartas hasta ahora. Num num num</string>
+	<string name="badge_addictive_title">Tan adictivo como Minecraft</string>
+	<string name="badge_addictive_message">¡Ganaste 20 + juegos!</string>
+	<string name="badge_quick_title">¡Un minero rápido!</string>
+	<string name="badge_quick_message">Que recabó más de 2 puntos por segundo. Sigue asi.</string>
+	<string name="badge_adventurer_title">¡Un aventurero!</string>
+	<string name="badge_adventurer_message">Usted completó su primer juego difícil.</string>
+	<string name="badge_lord_of_unknown_title">Señor desconocido</string>
+	<string name="badge_lord_of_unknown_message">Han explorado todo el mundo. ¡Un logro verdaderamente sorprendente!</string>
+	<string name="badge_pure_awesome_title">Puro impresionante!</string>
+	<string name="badge_pure_awesome_message">Explorado un infinito mío en el nivel difícil. El logro más raro</string>
+
+</resources>

@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="app_name">扫雷卡夫</string>
+	<string name="app_name_full">扫雷卡夫</string>
+
+	<string name="continue_game">继续游戏</string>
+	<string name="new_game">新的游戏</string>
+	<string name="settings">设置</string>
+	<string name="high_score">排行榜</string>
+	<string name="map_size">地图大小︰</string>
+	<string name="game_mode">游戏模式︰</string>
+	<string name="difficulty">难度︰</string>
+	<string name="start_game">开始游戏</string>
+
+    <string-array name="game_modes">
+        <item>冒险</item>
+        <item>救援</item>
+        <item>经典</item>
+    </string-array>
+    <string-array name="map_sizes">
+        <item>小</item>
+        <item>中</item>
+        <item>大</item>
+        <item>无限</item>
+    </string-array>
+    <string-array name="difficulties">
+        <item>简单</item>
+        <item>中级</item>
+        <item>硬</item>
+    </string-array>
+
+	<string name="mode_adventure_exp">你的目标是要打开所有的瓷砖。你有四个生活。有宝藏和隐藏在图中的生活。</string>
+	<string name="mode_rescue_exp">你的目标是要找到特殊的目标瓷砖。时间带走了你的分数。您将松散，如果分数达到零。</string>
+	<string name="mode_classic_exp">经典扫雷游戏</string>
+	<string name="loading">正在加载。请稍候。。。</string>
+	<string name="mine">开放</string>
+	<string name="flag">马克</string>
+	<string name="protect_button">保护</string>
+	<string name="won_adventure">你赢了 </string>
+	<string name="won_adventure_extended">所有的瓦片都打开</string>
+	<string name="won_rescue">你赢了</string>
+	<string name="won_rescue_extended">你发现专用瓷砖</string>
+	<string name="won_classic">你赢了 </string>
+	<string name="won_classic_extended">所有的瓦片都打开</string>
+	<string name="lost_out_of_time">时间跑出去</string>
+	<string name="lost_out_of_time_extended">你的时间跑了出去。你必须更快。</string>
+	<string name="lost_died">你死了</string>
+	<string name="lost_died_zombie"></string>
+	<string name="lost_died_creeper"></string>
+	<string name="lost_died_enderman"></string>
+	<string name="lost_died_rabbit"></string>
+	<string name="mistake_flag">您标记错误的瓷砖</string>
+	<string name="found_zombie">你失去了一次生命</string>
+	<string name="found_creeper">你失去了两条生命</string>
+	<string name="found_enderman">你失去了三个生命</string>
+	<string name="ate_pie">你获得了一次生命</string>
+	<string name="ate_steak">你获得了三个生命</string>
+	<string name="found_gold">+ 5 点</string>
+	<string name="found_diamond">打开任何瓷砖</string>
+	<string name="found_treasure_sword">打开任何瓷砖</string>
+	<string name="found_treasure_map">新的地区发现了</string>
+	<string name="found_treasure_gold">更多的积分</string>
+	<string name="found_treasure_empty">什么都不</string>
+	<string name="found_sword">打开任何瓷砖</string>
+	<string name="explosives_boom">经济繁荣 ！</string>
+	<string name="found_goal">来源特别目标瓷砖</string>
+	<string name="uncovered_all_tiles">你发现所有的麻将牌</string>
+	<string name="diamond_sword_kill_zombie"></string>
+	<string name="diamond_sword_kill_creeper"></string>
+	<string name="diamond_sword_kill_enderman"></string>
+	<string name="diamond_sword_mine_rock"></string>
+	<string name="guide">指南</string>
+	<string name="guide_next">下一个</string>
+	<string name="guide_skip">跳过</string>
+	<string name="guide_finish">完成</string>
+	<string name="guide_title_first">指南︰ 第一步</string>
+	<string name="guide_title_mode_classic">指南︰ 经典模式</string>
+	<string name="guide_title_mode_with_food">指南︰ 与食品模式</string>
+	<string name="guide_title_mode_adventure">指南︰ 冒险模式</string>
+	<string name="guide_title_final">指南︰ 祝你好运 </string>
+	<string name="please_review_this_app">请查看此应用程序</string>
+	<string name="review_this_app_explained">如果你喜欢这个应用程序你可以激励我们通过给 5 星评级和安卓市场中的注释。谢谢！</string>
+	<string name="button_later">后来</string>
+	<string name="button_review_now">回顾 </string>
+	<string name="tweet_share_title">共享</string>
+	<string name="highscores_go_online">你必须为此联机</string>
+	<string name="highscores_sign_in">单击登录使用谷歌</string>
+	<string name="google_services_sign_in">排行榜在谷歌服务器上保持联机。您将需要登录才能使用此功能。</string>
+	<string name="sign_in_failed">未能登录。请检查您的网络连接，然后重试。</string>
+	<string name="app_misconfigured">应用程序配置不正确。检查软件包的名称和签名证书匹配在开发人员控制台中创建的客户端 ID。此外，如果应用程序尚未发布，检查您试图用登录的帐户被列为一个测试帐户。请参见日志以了解更多信息。</string>
+	<string name="license_failed">许可检查失败。</string>
+	<string name="unknown_error">出现未知的错误。</string>
+	<string name="gamehelper_sign_in_failed">未能登录。请检查您的网络连接，然后重试。</string>
+	<string name="gamehelper_app_misconfigured">应用程序配置不正确。检查软件包的名称和签名证书匹配在开发人员控制台中创建的客户端 ID。此外，如果应用程序尚未发布，检查您试图用登录的帐户被列为一个测试帐户。请参见日志以了解更多信息。</string>
+	<string name="gamehelper_license_failed">许可检查失败。</string>
+	<string name="gamehelper_unknown_error">出现未知的错误。</string>
+	<string name="sign_in">登录</string>
+	<string name="store_description">益智游戏基于扫雷游戏的一个新的转折。我们也有 MineCraft 主题，因为我们爱原来的游戏 ！
+
+免责声明︰ 此游戏自主开发从微软和 Mojang。这场比赛也不涉及 Minecraft 游戏除了类似的主题。
+
+游戏包含三种游戏模式︰
+        -最初的扫雷游戏爱好者的经典。
+        -冒险探索非常大地图在哪里我们隐藏宝藏通过地图。你有四个的生活，可以补充他们所发现的食物。你的目标是要打开所有隐藏的瓷砖，但它并不容易。
+        -你一定要救你的朋友的救援迷失地图在时间耗尽之前。快点 ！
+
+其他功能︰
+        -通过谷歌播放-Highsores 竞争智慧你的朋友
+        -捏放大
+        -多个主题
+        -免费的挫折</string>
+	<string name="translated_by">您的姓名</string>
+	<string name="menu_calibrate">校准触摸</string>
+	<string name="reset_calibration">还原默认设置</string>
+	<string name="calibrate_click">触摸十字架</string>
+	<string name="theme_minecraft">Minecraft</string>
+	<string name="theme_classic">经典</string>
+	<string name="settings_gameplay">游戏玩法</string>
+	<string name="settings_global">全球</string>
+	<string name="settings_show_grid">显示网格</string>
+	<string name="settings_show_grid_explanation">黑丝网格将显示，清楚表明瓷砖</string>
+	<string name="settings_vibrate">振动对触摸</string>
+	<string name="settings_vibrate_explanation">关闭的震动反馈要节约电池寿命</string>
+	<string name="settings_calibrate_touch">校准触摸屏输入</string>
+	<string name="settings_other">其他</string>
+	<string name="settings_help">帮助和常见问题</string>
+	<string name="settings_theme">主题</string>
+	<string name="settings_theme_summary">游戏有多个主题</string>
+	<string name="settings_contribute">贡献</string>
+	<string name="settings_rate_app">率的应用程序</string>
+	<string name="settings_rate_app_summary">如果你喜欢的应用程序，使我们在安卓市场上的 5 星级评级:)</string>
+	<string name="settings_spread_the_word">传播一词</string>
+	<string name="settings_spread_the_word_summary">关于这个应用程序通过社会媒体告诉你的朋友 ！</string>
+	<string name="settings_premium">买保费</string>
+	<string name="settings_premium_summary">如果你真的喜欢这款应用程序，让我们一杯咖啡。作为回报，你会得到两个新主题，没有更多的广告</string>
+	<string name="settings_information">信息</string>
+	<string name="settings_tutorial">教程</string>
+	<string name="settings_tutorial_summary">如何发挥开放教程指南</string>
+	<string name="settings_bug">报告错误</string>
+	<string name="settings_bug_summary">单击此处可在游戏中的错误报告或提出改进建议。</string>
+	<string name="settings_webpage">网页</string>
+	<string name="settings_webpage_summary">我们的网站上发现了学分、 捐款和其他信息。</string>
+	<string name="settings_show_badges">显示徽章</string>
+	<string name="settings_show_badges_explanation">您可以隐藏徽章从出现的对话框</string>
+	<string name="settings_language_explanation">忽略本地语言设置，并使用您选择的语言</string>
+	<string name="settings_highscore">高分</string>
+	<string name="settings_login">登录谷歌</string>
+	<string name="settings_login_explanation">使用谷歌排行榜来跟踪您最高的分数</string>
+	<string name="settings_logout">签出</string>
+	<string name="settings_logout_explanation">跟踪你的分数将被关闭。它将恢复一旦你重新登录</string>
+	<string name="settings_in_progress">在取得进展。你现在可以离开设置。</string>
+	<string name="badge_e1_title">使用右端的铲子</string>
+	<string name="badge_e1_message">你赚了上容易的第一次 200 点。</string>
+	<string name="badge_e2_title">你知道如何利用了鹤嘴锄</string>
+	<string name="badge_e2_message">你赚了上容易的第一次 1000 点。</string>
+	<string name="badge_m1_title">Diggy diggy 孔</string>
+	<string name="badge_m1_message">你获得了第一次 200 点在介质上。</string>
+	<string name="badge_m2_title">足够的石头为第一栋房子的</string>
+	<string name="badge_m2_message">你获得了第一次 1000 点在介质上。</string>
+	<string name="badge_m3_title">还有不多离开这里</string>
+	<string name="badge_m3_message">你获得了第一的 20000 点在介质上。</string>
+	<string name="badge_h1_title">你越来越好</string>
+	<string name="badge_h1_message">你赚了硬盘上的第一次的 200 点。</string>
+	<string name="badge_h2_title">这是一个深洞</string>
+	<string name="badge_h2_message">你赚了上硬盘的第一个 2000 点。</string>
+	<string name="badge_h3_title">您现在可以构建一座城堡 ！</string>
+	<string name="badge_h3_message">你赚了硬盘上的第一次的 5000 点。</string>
+	<string name="badge_h4_title">缺口会感到自豪</string>
+	<string name="badge_h4_message">你赚了硬盘上的第一次的 20000 点。</string>
+	<string name="badge_to_arms_title">武器 ！</string>
+	<string name="badge_to_arms_message">你造剑的钻石</string>
+	<string name="badge_tnt_title">给史蒂夫 46 1</string>
+	<string name="badge_tnt_message">你杀一根攀缘植物，给你第一次的 TNT 火药。</string>
+	<string name="badge_lucky_loot_title">齿轮起来 ！</string>
+	<string name="badge_lucky_loot_message">钻石的剑。幸运你</string>
+	<string name="badge_gold_fever_title">富 ！</string>
+	<string name="badge_gold_fever_message">你发现箱子装满了金子</string>
+	<string name="badge_treasure_hunt_title">藏宝图</string>
+	<string name="badge_treasure_hunt_message">你发现到未知位置的地图。</string>
+	<string name="badge_zombie_slayer_title">僵尸杀手</string>
+	<string name="badge_zombie_slayer_message">杀死 20 僵尸。</string>
+	<string name="badge_braveness_title">勇敢</string>
+	<string name="badge_braveness_message">你 5 Enderman 盯着眼睛和活着的故事</string>
+	<string name="badge_diamond_title">钻石齿轮</string>
+	<string name="badge_diamond_message">你收集足够的钻石到工艺充分钻石齿轮</string>
+	<string name="badge_boom_title">繁荣!!!</string>
+	<string name="badge_boom_message">像专家一样挖掘︰ 与 TNT</string>
+	<string name="badge_honeydew_appetite_title">蜜瓜食欲</string>
+	<string name="badge_honeydew_appetite_message">你是那么远 20 馅饼。Num 记民民</string>
+	<string name="badge_addictive_title">作为游戏一样让人上瘾</string>
+	<string name="badge_addictive_message">你赢了 20 + 的游戏 ！</string>
+	<string name="badge_quick_title">一个快速的矿工 ！</string>
+	<string name="badge_quick_message">你收集了超过 2 点每秒。坚持下去。</string>
+	<string name="badge_adventurer_title">冒险家 ！</string>
+	<string name="badge_adventurer_message">你完成你的第一场艰苦的比赛。</string>
+	<string name="badge_lord_of_unknown_title">未知的主</string>
+	<string name="badge_lord_of_unknown_message">你已经探索了整个世界。真正了不起的成就 ！</string>
+	<string name="badge_pure_awesome_title">纯真棒 ！</string>
+	<string name="badge_pure_awesome_message">探讨了无限我在硬盘上。最难得的成就</string>
+
+</resources>

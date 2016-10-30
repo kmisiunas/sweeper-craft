@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="continue_game">Continuer une partie</string>
+    <string name="new_game">Nouvelle partie</string>
+    <string name="high_score">Meilleur Score</string>
+    <string name="mine">Miner</string>
+    <string name="flag">Drapeau</string>
+    <string name="map_size">Taille de la carte:</string>
+    <string name="game_mode">Mode de jeu:</string>
+    <string name="difficulty">Difficulté:</string>
+    <string name="start_game">Commencer le jeu!</string>
+
+
+    <string-array name="map_sizes">
+        <item>Petit</item>
+        <item>Moyen</item>
+        <item>Grand</item>
+        <item>Infini</item>
+    </string-array>
+    <string-array name="difficulties">
+        <item>Facile</item>
+        <item>Moyen</item>
+        <item>Difficile</item>
+    </string-array>
+
+    <!--<string name="help_faq">Aide et F.A.Q.</string>-->
+    <!--<string name="in_time">en</string>-->
+    <!--<string name="top_score">Top score:</string>-->
+    <!--<string name="game_over_small">Oups.. vous êtes mort!</string>-->
+    <!--<string name="game_won_small">Vous gagnez!</string>-->
+    <!--<string name="game_won_exp">Vous avez épuisé cette mine. Partez et allez construire quelque chose de luxueux!</string>-->
+    <!--<string name="game_over_exp">et tous vos objets ont été mangés par un lapin géant!</string>-->
+    <!--<string name="turn_vibrations">Mettre vibrations</string>-->
+    <!--<string name="on">Marche</string>-->
+    <!--<string name="off">Eteint</string>-->
+    <!--<string name="please_review_this_app">SVP notez cette application</string>-->
+    <!--<string name="review_this_app_explained">Si vous aimez cette app vous pouvez nous soutenir en donnant une évaluation de 5 étoiles et un commentaire sur l\'Android Market. Merci!</string>-->
+    <!--<string name="button_later">Plus Tard</string>-->
+    <!--<string name="button_review_now">Evaluez maintenant!</string>-->
+    <!--<string name="tweet_hard">difficile</string>-->
+    <!--<string name="tweet_medium">moyen</string>-->
+    <!--<string name="tweet_easy">facile</string>-->
+    <!--<string name="tweet1">J\'ai joué à &quot;Minecraft sweeper&quot; sur mon Android et obtenu un score de</string>-->
+    <!--<string name="tweet2">difficulté</string>-->
+    <!--<string name="tweet3">Battez ça!</string>-->
+    <!--<string name="loading">Chargement. Veuillez Patienter...</string>-->
+    <!--<string name="comparative_score">Score Comparatif:</string>-->
+    <!--<string name="zoom_in">Zoomer</string>-->
+    <!--<string name="zoom_out">Dézoomer</string>-->
+    <!--<string name="center_view">Centrer Vue</string>-->
+    <!--<string name="help_url">help-fr</string>-->
+    <!--&lt;!&ndash; Version 1.4: experimental mode &ndash;&gt;-->
+    <!--<string name="experimental_mode">Mode Expérimental</string>-->
+    <!--<string name="experimental_mode_exp">Ceci est en mode Beta, il est en cour de développement. Vos suggestions sont les bienvenue à support@misiunas.com. Règles Courantes: Nourriture est consommé en cliquant dessus; taper sur 3 or ou diamant vous donnera une pioche; le meilleur score n\'est pas sauvegardé, parce que c\'est encore en Beta.</string>-->
+    <!--<string name="ok">OK</string>-->
+    <!--<string name="use_menu_button">Utiliser le bouton MENU (Bouton Physique) pour accéder au zoom, et à d\'autres paramètres de jeu. Bonne chance!</string>-->
+    <!--<string name="share_using">Partager avec...</string>-->
+    <!--<string name="lets_play">Jouons</string>-->
+    <!--&lt;!&ndash; Version 1.5: experimental mode &ndash;&gt;-->
+    <!--<string name="no0_diamond_ore">Diamant Épée a été consommé.</string>-->
+    <!--<string name="no1_diamond_ore">Recueillir un ou plusieurs diamants pour obtenir une épée.</string>-->
+    <!--<string name="no2_diamond_ore">Vous avez créé une épée de diamants!</string>-->
+    <!--<string name="have_tnt">Vous avez tué une liane et conçu une TNT! Soyez prudent.</string>-->
+    <!--<string name="found_gold_ore">Vous êtes devenir riche!</string>-->
+    <!--<string name="treasure_map">Vous avez trouvé une carte! Une zone proche de vous a été découvert.</string>-->
+    <!--<string name="treasure_gold">Il était plein d\'or!</string>-->
+    <!--<string name="treasure_nether">...courir</string>-->
+    <!--<string name="adventure_mode">Adventure</string>-->
+    <!--<string name="adventure_mode_size_restriction">Vous pouvez seulement jouer la carte d\'aventure sur de grandes cartes ou infini</string>-->
+    <!---->
+
+    <!--<string name="explain_modes">\&quot;Adventure\&quot; mode vous donne les caractéristiques amusantes que vous pouvez interagir avec (nourriture, des épées et des trésors). Dans le mode \&quot;Avec nourriture\&quot; vous pouvez récupérer de la vie, ce qui rend le jeu plus facile. Et le mode \&quot;Classique\&quot; vous donne une seule vie, donc chaque ennemi est mortel - c\'est le mode démineur classique.</string>-->
+    <!--<string name="current_game">Statut de jeu actuelle</string>-->
+    <!--<string name="menu_calibrate">Calibrer interface tactile</string>-->
+    <!--<string name="reset_calibration">Restaurer par défaut</string>-->
+    <!--<string name="calibrate_click">Touchez la croix</string>-->
+    <!--<string name="text_toggle_grid">Basculer la grille</string>-->
+
+    <!--&lt;!&ndash; v2.0 &ndash;&gt;-->
+    <!--<string name="treasure_diamond_sword"> Vous avez trouvé une épée!</string>-->
+    <!--<string name="found_beef">Vous avez trouvé un peu de bœuf et avait une fête!</string>-->
+    <!--<string name="found_cake">Vous avez trouvé un peu de gâteau. Il était très doux.</string>-->
+    <!--<string name="guide_next">Next</string>-->
+    <!--<string name="guide_skip">Skip</string>-->
+    <!--<string name="guide_finish">Terminer</string>-->
+    <!--<string name="guide_title_first">Guide: Premières étapes</string>-->
+    <!--<string name="guide_title_mode_classic">Guide: le mode classique</string>-->
+    <!--<string name="guide_title_mode_with_food">Guide: Avec le mode alimentaire</string>-->
+    <!--<string name="guide_title_mode_adventure">Guide: Mode Aventure</string>-->
+    <!--<string name="guide_title_final">Guide: Good Luck!</string>-->
+    <!--<string name="game_over_zombie">Un zombi a mangé votre cerveau délicieuses! </string>-->
+    <!--<string name="game_over_creeper">pssss... boom!</string>-->
+    <!--<string name="game_over_enderman">Vous ne devriez pas avoir contemplé l\'Enderman</string>-->
+    <!--<string name="game_over_rabbit">et tous vos trucs me suis mangé par un lapin géant!</string>-->
+    <!--<string name="diamond_sword_kill_zombie">Vous avez tué un zombie. Il n\'était mach pour vous.</string>-->
+    <!--<string name="diamond_sword_kill_creeper">Vous avez tué une liane et a fait une TNT sur de la poudre laissé tomber.</string>-->
+    <!--<string name="diamond_sword_kill_enderman"> Vous slayed un Enderman avec une épée.</string>-->
+    <!--<string name="diamond_sword_mine_rock">épée n\'est pas une pioche, ce qui le rompit.</string>-->
+    <!--<string name="guide">Guide</string>-->
+    <!--<string name="local_score_title">Scores locales</string>-->
+    <!--<string name="online_score_title">Online scores</string>-->
+    <!--<string name="achievement_title">Réalisations</string>-->
+    <!--<string name="online_score_empty_list">Base de données n\'est pas accessible.</string>-->
+    <!--<string name="no_achievement">Vous n\'avez pas obtenu toutes les réalisations encore. Commencez à jouer!</string>-->
+    <!--<string name="rank">Rank:</string>-->
+    <!--<string name="you">Vous</string>-->
+    <!---->
+
+
+</resources>

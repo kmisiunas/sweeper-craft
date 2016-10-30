@@ -1,0 +1,202 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+	<string name="app_name">माइनस्वीपर क्राफ्ट</string>
+	<string name="app_name_full">माइनस्वीपर क्राफ्ट</string>
+
+	<string name="continue_game">गेम जारी रखें</string>
+	<string name="new_game">नए खेल</string>
+	<string name="settings">सेटिंग्स</string>
+	<string name="high_score">अधिकतमअंक</string>
+	<string name="map_size">मैप का आकार:</string>
+	<string name="game_mode">खेल मोड:</string>
+	<string name="difficulty">कठिनाई:</string>
+	<string name="start_game">खेल शुरू करो!</string>
+
+	<string-array name="game_modes">
+		<item>साहसिक कार्य</item>
+		<item> बचाव</item>
+		<item> क्लासिक</item>
+	</string-array>
+	<string-array name="map_sizes">
+		<item>लघु </item>
+		<item>मीडियम</item>
+		<item>बड़े</item>
+		<item>अनंत</item>
+	</string-array>
+	<string-array name="difficulties">
+		<item>आराम</item>
+		<item>इंटरमीडिएट</item>
+		<item>हार्ड</item>
+	</string-array>
+
+	<string name="mode_adventure_exp">आपका लक्ष्य सभी टाइलों को खोलने के लिए है। तुम चार रहता है। खजाने और जीवन को मैप में छिपे हुए हैं।</string>
+	<string name="mode_rescue_exp">आपका लक्ष्य विशेष लक्ष्य टाइल खोजने के लिए है। आपका स्कोर समय दूर लगता है। आप ढीला होगा, यदि स्कोर शून्य तक पहुँच जाता।</string>
+	<string name="mode_classic_exp">क्लासिक खेल</string>
+	<string name="loading">लोड हो रहा है। कृपया प्रतीक्षा करो...</string>
+	<string name="mine">खुला</string>
+	<string name="flag">मार्क</string>
+	<string name="protect_button">की रक्षा</string>
+	<string name="won_adventure">आप जीत गए!</string>
+	<string name="won_adventure_extended">सभी टाइल्स खुली हैं</string>
+	<string name="won_rescue">आप जीत गए!</string>
+	<string name="won_rescue_extended">तुम विशेष टाइल पाया</string>
+	<string name="won_classic">आप जीत गए!</string>
+	<string name="won_classic_extended">सभी टाइल्स खुली हैं</string>
+	<string name="lost_out_of_time">समय बाहर भाग गया</string>
+	<string name="lost_out_of_time_extended">अपने समय के बाहर भाग गया। आप तेजी से होना चाहिए।</string>
+	<string name="lost_died">आप मर गया</string>
+	<string name="lost_died_zombie"></string>
+	<string name="lost_died_creeper"></string>
+	<string name="lost_died_enderman"></string>
+	<string name="lost_died_rabbit"></string>
+	<string name="mistake_flag">आप एक गलत टाइल के रूप में चिह्नित</string>
+	<string name="found_zombie">आप एक जीवन खो दिया</string>
+	<string name="found_creeper">आप दोनों के जीवन को खो दिया</string>
+	<string name="found_enderman">तुम तीन जीवन खो दिया</string>
+	<string name="ate_pie">आप एक जीवन प्राप्त की</string>
+	<string name="ate_steak">तुम तीन जीवन प्राप्त की</string>
+	<string name="found_gold">+ 5 अंक</string>
+	<string name="found_diamond">किसी भी टाइल को खोलने</string>
+	<string name="found_treasure_sword">किसी भी टाइल को खोलने</string>
+	<string name="found_treasure_map">नया क्षेत्र खुला</string>
+	<string name="found_treasure_gold">अधिक अंक</string>
+	<string name="found_treasure_empty">कुछ भी नहीं</string>
+	<string name="found_sword">किसी भी टाइल को खोलने</string>
+	<string name="explosives_boom">बूम!</string>
+	<string name="found_goal">स्रोत विशेष लक्ष्य टाइल</string>
+	<string name="uncovered_all_tiles">आप सभी टाइल्स का पर्दाफाश किया है</string>
+	<string name="diamond_sword_kill_zombie"></string>
+	<string name="diamond_sword_kill_creeper"></string>
+	<string name="diamond_sword_kill_enderman"></string>
+	<string name="diamond_sword_mine_rock"></string>
+	<string name="guide">गाइड</string>
+	<string name="guide_next">अगले</string>
+	<string name="guide_skip">छोड़ें</string>
+	<string name="guide_finish">समाप्त</string>
+	<string name="guide_title_first">गाइड: पहला कदम</string>
+	<string name="guide_title_mode_classic">गाइड: क्लासिक मोड</string>
+	<string name="guide_title_mode_with_food">गाइड: खाद्य मोड के साथ</string>
+	<string name="guide_title_mode_adventure">गाइड: साहसिक मोड</string>
+	<string name="guide_title_final">गाइड: गुड लक!</string>
+	<string name="please_review_this_app">कृपया इस app की समीक्षा करें</string>
+	<string name="review_this_app_explained">यदि आप इस app की तरह आप एक 5 स्टार रेटिंग और Android बाजार में एक टिप्पणी देकर हमें प्रेरित कर सकते हैं। धन्यवाद!</string>
+	<string name="button_later">बाद में</string>
+	<string name="button_review_now">अब की समीक्षा!</string>
+	<string name="tweet_share_title">साझा करें</string>
+	<string name="highscores_go_online">आप इस के लिए ऑनलाइन होना आवश्यक है</string>
+	<string name="highscores_sign_in">गूगल का उपयोग में साइन इन करने के लिए क्लिक करें</string>
+	<string name="google_services_sign_in">अधिकतमअंक Google सर्वर पर ऑनलाइन रखा जाता है। आप इस सुविधा का उपयोग करने के लिए लॉग इन करने की आवश्यकता होगी।</string>
+	<string name="sign_in_failed">साइन इन करने में विफल रहा। कृपया अपने नेटवर्क कनेक्शन की जाँच करें और पुन: प्रयास करें।</string>
+	<string name="app_misconfigured">अनुप्रयोग ग़लत तरीके से कॉन्फ़िगर किया गया है। कि पैकेज का नाम और हस्ताक्षर प्रमाण पत्र क्लाइंट डेवलपर कंसोल में बनाई गई ID से मेल की जाँच करें। यदि अनुप्रयोग अभी तक प्रकाशित नहीं है, भी, कि खाते के साथ में साइन इन करने के लिए आप प्रयास कर रहे हैं एक परीक्षक खाते के रूप में सूचीबद्ध है की जाँच करें। अधिक जानकारी के लिए लॉग देखें।</string>
+	<string name="license_failed">लाइसेंस जाँच विफल हुई।</string>
+	<string name="unknown_error">अज्ञात त्रुटि।</string>
+	<string name="gamehelper_sign_in_failed">साइन इन करने में विफल रहा। कृपया अपने नेटवर्क कनेक्शन की जाँच करें और पुन: प्रयास करें।</string>
+	<string name="gamehelper_app_misconfigured">अनुप्रयोग ग़लत तरीके से कॉन्फ़िगर किया गया है। कि पैकेज का नाम और हस्ताक्षर प्रमाण पत्र क्लाइंट डेवलपर कंसोल में बनाई गई ID से मेल की जाँच करें। यदि अनुप्रयोग अभी तक प्रकाशित नहीं है, भी, कि खाते के साथ में साइन इन करने के लिए आप प्रयास कर रहे हैं एक परीक्षक खाते के रूप में सूचीबद्ध है की जाँच करें। अधिक जानकारी के लिए लॉग देखें।</string>
+	<string name="gamehelper_license_failed">लाइसेंस जाँच विफल हुई।</string>
+	<string name="gamehelper_unknown_error">अज्ञात त्रुटि।</string>
+	<string name="sign_in">साइन इन करें</string>
+	<string name="store_description">एक नया मोड़ के साथ सुरंग भेदी पोत गेम पर आधारित खेल है पहेली। हम यह भी MineCraft विषय है क्योंकि हम मूल खेल प्यार करता हूँ!
+
+अस्वीकरण: इस खेल स्वतंत्र रूप से Microsoft और Mojang से विकसित की है। यह खेल भी Minecraft खेल समान विषय से अलग करने के लिए संबंधित नहीं है।
+
+खेल तीन खेल मोड में शामिल हैं:
+        -मूल खेल के प्रेमियों के लिए क्लासिक।
+        -साहसिक कार्य को बहुत बड़ी खोज को मैप कहाँ हम छुपा खजाने के नक्शे के माध्यम से। आप चार रहता है और उन्हें भोजन की खोज द्वारा की भरपाई कर सकते हैं। सभी छुपे हुए टाइल को खोलने के लिए आपका लक्ष्य है, लेकिन यह आसान नहीं होगा।
+        -करने से पहले समय बाहर चलाता है बचाव अपने दोस्त को बचाने के लिए आपके पास नक्शे में कहीं खो दिया है। जल्दी करो!
+
+अन्य सुविधाएँ:
+        -गूगल प्ले - के माध्यम से Highsores प्रतिस्पर्धा बुद्धि अपने दोस्तों
+        -पिंच से ज़ूम करना
+        -एकाधिक विषयों
+        -हताशा नि: शुल्क</string>
+	<string name="translated_by">तुम्हारा नाम</string>
+	<string name="menu_calibrate">स्पर्श कैलिब्रेट करें</string>
+	<string name="reset_calibration">डिफ़ॉल्ट पुनर्स्थापित करें</string>
+	<string name="calibrate_click">स्पर्श पार</string>
+	<string name="theme_minecraft">Minecraft</string>
+	<string name="theme_classic">क्लासिक</string>
+	<string name="settings_gameplay">खेल खेल</string>
+	<string name="settings_global">वैश्विक</string>
+	<string name="settings_show_grid">ग्रिड दिखाएँ</string>
+	<string name="settings_show_grid_explanation">काले लोहे के तार ग्रिड टाईल्स स्पष्ट रूप से इंगित करने के लिए दिखाया जाएगा</string>
+	<string name="settings_vibrate">छूने पर कंपन</string>
+	<string name="settings_vibrate_explanation">बैटरी जीवन को बचाने के लिए कंपन प्रतिक्रिया बंद करें</string>
+	<string name="settings_calibrate_touch">स्पर्श इनपुट कैलिब्रेट करें</string>
+	<string name="settings_other">अन्य</string>
+	<string name="settings_help">सहायता और अकसर किये गए सवाल</string>
+	<string name="settings_theme">थीम</string>
+	<string name="settings_theme_summary">खेल में एक से अधिक विषयों की बात आती है</string>
+	<string name="settings_contribute">योगदान</string>
+	<string name="settings_rate_app">दर app</string>
+	<string name="settings_rate_app_summary">यदि आप app की तरह, हमारे android बाजार पर एक 5 स्टार रेटिंग देता है:)</string>
+	<string name="settings_spread_the_word">शब्द फैलाओ</string>
+	<string name="settings_spread_the_word_summary">सामाजिक मीडिया के माध्यम से इस अनुप्रयोग के बारे में अपने दोस्तों को बताओ!</string>
+	<string name="settings_premium">प्रीमियम खरीदें</string>
+	<string name="settings_premium_summary">यदि आप वास्तव में इस app की तरह, हमें कॉफी का एक कप मिलता है। बदले में, आप दो नए विषयों और कोई अधिक विज्ञापन मिल जाएगा</string>
+	<string name="settings_information">जानकारी</string>
+	<string name="settings_tutorial">ट्यूटोरियल</string>
+	<string name="settings_tutorial_summary">खुला कैसे खेलने के लिए पर ट्यूटोरियल गाइड</string>
+	<string name="settings_bug">किसी बग की रिपोर्ट करें</string>
+	<string name="settings_bug_summary">एक खेल में एक बग रिपोर्ट या एक सुधार संबंधी सुझाव देने के लिए यहाँ क्लिक करें।</string>
+	<string name="settings_webpage">वेब पेज</string>
+	<string name="settings_webpage_summary">क्रेडिट, योगदान और अन्य जानकारी हमारी वेबसाइट पर पाया जा सकता है।</string>
+	<string name="settings_show_badges">बैज दिखाएँ</string>
+	<string name="settings_show_badges_explanation">आप बैज संवाद दिखने से छिपा सकते हैं</string>
+	<string name="settings_language_explanation">स्थानीय भाषा सेटिंग्स पर ध्यान न दें और अपनी पसंद की भाषा का उपयोग करें</string>
+	<string name="settings_highscore">सर्वोच्चअंक</string>
+	<string name="settings_login">गूगल खाते से प्रवेश</string>
+	<string name="settings_login_explanation">गूगल लीडरबोर्ड अपने उच्चतम स्कोर को ट्रैक करने के लिए का उपयोग करें</string>
+	<string name="settings_logout">साइन आउट करें</string>
+	<string name="settings_logout_explanation">आपके स्कोर की ट्रैकिंग बंद हो जाएँगे। इसे बहाल किया जाएगा एक बार आप फिर से साइन इन करें</string>
+	<string name="settings_in_progress">प्रगति में। आप सेटिंग्स अब छोड़ सकते हैं।</string>
+	<string name="badge_e1_title">फावड़ा के दाईं ओर का उपयोग कर</string>
+	<string name="badge_e1_message">आप आराम से पर पहले 200 अंक अर्जित किए हैं।</string>
+	<string name="badge_e2_title">तुम्हें पता है कुदाल से मिट्टी खुरपना का उपयोग कैसे करें</string>
+	<string name="badge_e2_message">आप आराम से पर पहले 1000 अंक अर्जित किए हैं।</string>
+	<string name="badge_m1_title">दिग्गी दिग्गी छेद</string>
+	<string name="badge_m1_message">आप मध्यम पर पहले 200 अंक अर्जित किए हैं।</string>
+	<string name="badge_m2_title">पहले घर के लिए पर्याप्त पत्थर</string>
+	<string name="badge_m2_message">आप मध्यम पर पहले 1000 अंक अर्जित किए हैं।</string>
+	<string name="badge_m3_title">वहाँ नहीं है ज्यादा छोड़ दिया यहाँ</string>
+	<string name="badge_m3_message">आप मध्यम पर पहला 20000 अंक अर्जित किए हैं।</string>
+	<string name="badge_h1_title">आप बेहतर हो रही है</string>
+	<string name="badge_h1_message">आप हार्ड पर पहले 200 अंक अर्जित किए हैं।</string>
+	<string name="badge_h2_title">यह एक गहरे छेद है</string>
+	<string name="badge_h2_message">आप हार्ड पर पहले 2000 अंक अर्जित किए हैं।</string>
+	<string name="badge_h3_title">आप अब एक महल का निर्माण कर सकते हैं!</string>
+	<string name="badge_h3_message">आप हार्ड पर पहले 5000 अंक अर्जित किए हैं।</string>
+	<string name="badge_h4_title">पायदान पर गर्व होगा</string>
+	<string name="badge_h4_message">आप हार्ड पर पहला 20000 अंक अर्जित किए हैं।</string>
+	<string name="badge_to_arms_title">हथियारों के लिए!</string>
+	<string name="badge_to_arms_message">तुमने एक डायमंड तलवार</string>
+	<string name="badge_tnt_title">/ स्टीव 46 1 दे</string>
+	<string name="badge_tnt_message">आप एक लता को मार डाला और बारूद के लिए अपने पहले टीएनटी मिल गया।</string>
+	<string name="badge_lucky_loot_title">गियर ऊपर!</string>
+	<string name="badge_lucky_loot_message">एक हीरा तलवार। भाग्यशाली आप</string>
+	<string name="badge_gold_fever_title">रिच!</string>
+	<string name="badge_gold_fever_message">आप सोने से भरे सीने पाया</string>
+	<string name="badge_treasure_hunt_title">खजाने का नक्शा</string>
+	<string name="badge_treasure_hunt_message">आप नक्शे को बेरोज़गार स्थान पाया।</string>
+	<string name="badge_zombie_slayer_title">ज़ोंबी हत्यारा</string>
+	<string name="badge_zombie_slayer_message">20 लाश को मार डालो।</string>
+	<string name="badge_braveness_title">Braveness</string>
+	<string name="badge_braveness_message">आप 5 Enderman आँखों में stared और कहानी बताने के लिए ज़िन्दा</string>
+	<string name="badge_diamond_title">हीरा गियर</string>
+	<string name="badge_diamond_message">आप शिल्प पूर्ण हीरे गियर के लिए पर्याप्त हीरे इकट्ठा</string>
+	<string name="badge_boom_title">बूम!!</string>
+	<string name="badge_boom_message">एक समर्थक की तरह खनन: टीएनटी के साथ</string>
+	<string name="badge_honeydew_appetite_title">हनी ड्यू भूख</string>
+	<string name="badge_honeydew_appetite_message">आप 20 pies अभी तक कर रहे हैं। Num num num</string>
+	<string name="badge_addictive_title">Minecraft के रूप में रूप में नशे की लत</string>
+	<string name="badge_addictive_message">आप 20 + खेल जीत गए!</string>
+	<string name="badge_quick_title">एक त्वरित खान में काम करनेवाला!</string>
+	<string name="badge_quick_message">आप प्रति सेकंड से अधिक 2 अंक एकत्र। इसे रख लो।</string>
+	<string name="badge_adventurer_title">एक साहसी!</string>
+	<string name="badge_adventurer_message">आप अपनी पहली मुश्किल खेल पूरा हो गया।</string>
+	<string name="badge_lord_of_unknown_title">अज्ञात के यहोवा</string>
+	<string name="badge_lord_of_unknown_message">आप पूरी दुनिया का पता लगाया है। एक वास्तव में एक अद्भुत उपलब्धि!</string>
+	<string name="badge_pure_awesome_title">शुद्ध भययोग्य!</string>
+	<string name="badge_pure_awesome_message">एक अनंत खदान पर हार्ड का पता लगाया। सबसे दुर्लभ उपलब्धि</string>
+
+</resources>

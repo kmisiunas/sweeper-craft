@@ -1,0 +1,202 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+	<string name="app_name">マインスイーパクラフト</string>
+	<string name="app_name_full">マインスイーパクラフト</string>
+
+	<string name="continue_game">ゲームを続ける</string>
+	<string name="new_game">新しいゲーム</string>
+	<string name="settings">設定</string>
+	<string name="high_score">ハイスコア</string>
+	<string name="map_size">地図のサイズ。</string>
+	<string name="game_mode">ゲームモード:</string>
+	<string name="difficulty">難易度:</string>
+	<string name="start_game">ゲームを開始!</string>
+
+	<string-array name="game_modes">
+		<item>アドベンチャー</item>
+		<item>レスキュー</item>
+		<item>クラシック</item>
+	</string-array>
+	<string-array name="map_sizes">
+		<item>小</item>
+		<item>中</item>
+		<item>大</item>
+		<item>インフィニット</item>
+	</string-array>
+	<string-array name="difficulties">
+		<item>簡単</item>
+		<item>中級</item>
+		<item>ハード</item>
+	</string-array>
+
+	<string name="mode_adventure_exp">あなたの目標は、すべてのタイルを開くことです。あなたは、4 つの命を持っています。宝物とマップに隠されている生活があります。</string>
+	<string name="mode_rescue_exp">あなたの目標は、特別な目的のタイルを見つけることです。時間はあなたのスコアを奪います。スコアが 0 になった場合、あなたは失われます。</string>
+	<string name="mode_classic_exp">古典的な掃海艇のゲーム</string>
+	<string name="loading">読み込んでいます。お待ちください。。。</string>
+	<string name="mine">オープン</string>
+	<string name="flag">マーク</string>
+	<string name="protect_button">保護します。</string>
+	<string name="won_adventure">勝利しました!</string>
+	<string name="won_adventure_extended">すべての牌がオープン</string>
+	<string name="won_rescue">勝利しました!</string>
+	<string name="won_rescue_extended">特別なタイルを見つけた</string>
+	<string name="won_classic">勝利しました!</string>
+	<string name="won_classic_extended">すべての牌がオープン</string>
+	<string name="lost_out_of_time">時間が尽きた</string>
+	<string name="lost_out_of_time_extended">あなたの時間がなくなった。高速でなければなりません。</string>
+	<string name="lost_died">あなたが死んだ</string>
+	<string name="lost_died_zombie"></string>
+	<string name="lost_died_creeper"></string>
+	<string name="lost_died_enderman"></string>
+	<string name="lost_died_rabbit"></string>
+	<string name="mistake_flag">間違ったタイルをマーク</string>
+	<string name="found_zombie">一つの命が失われました。</string>
+	<string name="found_creeper">二つの命が失われました。</string>
+	<string name="found_enderman">3 つの命が失われました。</string>
+	<string name="ate_pie">一つの命を得た</string>
+	<string name="ate_steak">3 生命を得た</string>
+	<string name="found_gold">+5 ポイント</string>
+	<string name="found_diamond">任意のタイルを開く</string>
+	<string name="found_treasure_sword">任意のタイルを開く</string>
+	<string name="found_treasure_map">新しい領域を発見</string>
+	<string name="found_treasure_gold">多くのポイント</string>
+	<string name="found_treasure_empty">何も</string>
+	<string name="found_sword">任意のタイルを開く</string>
+	<string name="explosives_boom">ブーム!</string>
+	<string name="found_goal">特別な目的のタイルのインクつぼ</string>
+	<string name="uncovered_all_tiles">すべてのタイルを明らかにします。</string>
+	<string name="diamond_sword_kill_zombie"></string>
+	<string name="diamond_sword_kill_creeper"></string>
+	<string name="diamond_sword_kill_enderman"></string>
+	<string name="diamond_sword_mine_rock"></string>
+	<string name="guide">ガイド</string>
+	<string name="guide_next">次</string>
+	<string name="guide_skip">スキップ</string>
+	<string name="guide_finish">[完了]</string>
+	<string name="guide_title_first">ガイド: 最初の手順</string>
+	<string name="guide_title_mode_classic">ガイド: クラシック モード</string>
+	<string name="guide_title_mode_with_food">食品モードでガイド。</string>
+	<string name="guide_title_mode_adventure">ガイド: アドベンチャー モード</string>
+	<string name="guide_title_final">ガイド: 頑張ってください!</string>
+	<string name="please_review_this_app">このアプリを確認してください。</string>
+	<string name="review_this_app_explained">このアプリが好きなら 5 つ星評価と Android マーケットにコメントを与えることによって私たちをやる気できます。ありがとう！</string>
+	<string name="button_later">後で</string>
+	<string name="button_review_now">今すぐ確認!</string>
+	<string name="tweet_share_title">共有</string>
+	<string name="highscores_go_online">このためオンラインする必要があります。</string>
+	<string name="highscores_sign_in">クリックすると、Google を使用してサインイン</string>
+	<string name="google_services_sign_in">ハイスコアは、Google のサーバーにオンラインで保存されます。この機能を使用するのにはログインする必要があります。</string>
+	<string name="sign_in_failed">サインインに失敗しました。ネットワーク接続を確認してやり直してください。</string>
+	<string name="app_misconfigured">アプリケーションの構成が正しくありません。パッケージ名と署名証明書がデベロッパー コンソールで作成したクライアント ID を一致することを確認します。また、アプリケーションはまだ公開されていない場合は、サインインしようとしているアカウントがテスター アカウントとして表示されていることを確認します。詳細についてはログを参照してください。</string>
+	<string name="license_failed">ライセンス確認に失敗しました。</string>
+	<string name="unknown_error">不明なエラー。</string>
+	<string name="gamehelper_sign_in_failed">サインインに失敗しました。ネットワーク接続を確認してやり直してください。</string>
+	<string name="gamehelper_app_misconfigured">アプリケーションの構成が正しくありません。パッケージ名と署名証明書がデベロッパー コンソールで作成したクライアント ID を一致することを確認します。また、アプリケーションはまだ公開されていない場合は、サインインしようとしているアカウントがテスター アカウントとして表示されていることを確認します。詳細についてはログを参照してください。</string>
+	<string name="gamehelper_license_failed">ライセンス確認に失敗しました。</string>
+	<string name="gamehelper_unknown_error">不明なエラー。</string>
+	<string name="sign_in">サインイン</string>
+	<string name="store_description">新たな工夫とマインスイーパーのゲームに基づいてパズルゲームします。我々 はまた我々 は元のゲームが大好きなので MineCraft のテーマを持って!
+
+免責事項: このゲームは独自に開発したマイクロソフトと新しくしたから。このゲームは似たようなテーマから離れて Minecraft のゲームに無関係もです。
+
+ゲームには、3 つのゲームモードが含まれます。
+        -オリジナルのマインスイーパ ゲームの愛好家のための古典的な。
+        -冒険探検非常に大きな我々 隠された場所をマップ、マップを通じて宝物。4 つの命を持っているし、食品の発見によってそれらを補充することができます。あなたの目標は、すべての隠されたタイルが、簡単なことはありません。
+        時間がなくなる前に地図どこか救助あなたの友人を保存する必要を失った。急いで!
+
+他の機能:
+        -Google Play - を介して Highsores 競うウィットお友達
+        ズームするピンチ
+        -複数のテーマ
+        -欲求不満の無料</string>
+	<string name="translated_by">お名前 *</string>
+	<string name="menu_calibrate">タッチをキャリブレーションします。</string>
+	<string name="reset_calibration">既定値を復元します。</string>
+	<string name="calibrate_click">十字架をタッチします。</string>
+	<string name="theme_minecraft">Minecraft</string>
+	<string name="theme_classic">クラシック</string>
+	<string name="settings_gameplay">ゲームをプレイ</string>
+	<string name="settings_global">グローバル</string>
+	<string name="settings_show_grid">グリッドの表示</string>
+	<string name="settings_show_grid_explanation">タイルを明確に示すに黒線のグリッドが表示されます。</string>
+	<string name="settings_vibrate">タッチで振動します。</string>
+	<string name="settings_vibrate_explanation">バッテリ寿命を節約する振動フィードバックをオフにします。</string>
+	<string name="settings_calibrate_touch">タッチ入力をキャリブレーションします。</string>
+	<string name="settings_other">その他</string>
+	<string name="settings_help">ヘルプとよくある質問</string>
+	<string name="settings_theme">テーマ</string>
+	<string name="settings_theme_summary">ゲームは、複数のテーマ</string>
+	<string name="settings_contribute">貢献</string>
+	<string name="settings_rate_app">アプリを評価します。</string>
+	<string name="settings_rate_app_summary">アプリを好きなら私たちは android マーケットで 5 つ星評価を与える:)</string>
+	<string name="settings_spread_the_word">言葉を広める</string>
+	<string name="settings_spread_the_word_summary">社会的なメディアを介してこのアプリについてあなたの友人を言いなさい!</string>
+	<string name="settings_premium">プレミアムを購入します。</string>
+	<string name="settings_premium_summary">あなたは本当にこのアプリが好き、私たちのコーヒーのカップを得る。2 つのテーマおよびないより多くの広告を得る見返りに、</string>
+	<string name="settings_information">情報</string>
+	<string name="settings_tutorial">チュートリアル</string>
+	<string name="settings_tutorial_summary">再生する方法を開いてチュートリアル ガイド</string>
+	<string name="settings_bug">バグを報告します。</string>
+	<string name="settings_bug_summary">ゲームのバグの報告や改善提案を作成するには、ここをクリックします。</string>
+	<string name="settings_webpage">Web ページ</string>
+	<string name="settings_webpage_summary">クレジット、貢献およびその他の情報は、当社のウェブサイトで見つけることが.</string>
+	<string name="settings_show_badges">バッジを表示します。</string>
+	<string name="settings_show_badges_explanation">バッジが表示されなくダイアログを非表示にすることができます。</string>
+	<string name="settings_language_explanation">ローカル言語設定を無視し、好みの言語を使用</string>
+	<string name="settings_highscore">ハイスコア</string>
+	<string name="settings_login">Google を使用してサインイン</string>
+	<string name="settings_login_explanation">Google リーダーを使用してあなたの最高のスコアを追跡するには</string>
+	<string name="settings_logout">サインアウトします。</string>
+	<string name="settings_logout_explanation">あなたのスコアの追跡は無効になります。もう一度サインインしたら復元されます。</string>
+	<string name="settings_in_progress">中では。今の設定を保存しておくことができます。</string>
+	<string name="badge_e1_title">シャベルの右端を使用してください。</string>
+	<string name="badge_e1_message">あなたは簡単に最初の 200 ポイントを獲得しました。</string>
+	<string name="badge_e2_title">つるはしを使用する方法を知っています。</string>
+	<string name="badge_e2_message">あなたは簡単に最初の 1000 ポイントを獲得しました。</string>
+	<string name="badge_m1_title">Diggy diggy 穴</string>
+	<string name="badge_m1_message">あなたは、メディア上の最初の 200 ポイントを獲得しました。</string>
+	<string name="badge_m2_title">最初の家のために十分な石</string>
+	<string name="badge_m2_message">あなたは、メディア上の最初の 1000 ポイントを獲得しました。</string>
+	<string name="badge_m3_title">多くがない左ここ</string>
+	<string name="badge_m3_message">あなたは、メディア上の最初の 20000 ポイントを獲得しました。</string>
+	<string name="badge_h1_title">良くなっている場合</string>
+	<string name="badge_h1_message">あなたは、ハードの最初の 200 ポイントを獲得しました。</string>
+	<string name="badge_h2_title">それは深い穴です。</string>
+	<string name="badge_h2_message">あなたは、ハードの最初の 2000 ポイントを獲得しました。</string>
+	<string name="badge_h3_title">今、城を構築することができます!</string>
+	<string name="badge_h3_message">あなたは、ハードの最初の 5000 ポイントを獲得しました。</string>
+	<string name="badge_h4_title">ノッチは誇りに思うだろう</string>
+	<string name="badge_h4_message">あなたは、ハードの最初の 20000 ポイントを獲得しました。</string>
+	<string name="badge_to_arms_title">腕に!</string>
+	<string name="badge_to_arms_message">ダイヤモンドの剣を作った</string>
+	<string name="badge_tnt_title">スティーブ 46 1/</string>
+	<string name="badge_tnt_message">あなたはつるを殺したし、のあなたの最初の TNT 火薬を得た。</string>
+	<string name="badge_lucky_loot_title">ギア!</string>
+	<string name="badge_lucky_loot_message">ダイヤモンドの剣。幸運なあなた</string>
+	<string name="badge_gold_fever_title">リッチ!</string>
+	<string name="badge_gold_fever_message">金の箱を発見します。</string>
+	<string name="badge_treasure_hunt_title">宝の地図</string>
+	<string name="badge_treasure_hunt_message">未踏の場所に地図を発見しました。</string>
+	<string name="badge_zombie_slayer_title">ゾンビ特効</string>
+	<string name="badge_zombie_slayer_message">20 ゾンビを殺します。</string>
+	<string name="badge_braveness_title">鯔</string>
+	<string name="badge_braveness_message">あなたは目に 5 エンダーマンを見つめていたし、話をする住んでいた</string>
+	<string name="badge_diamond_title">ダイヤモンド ギア</string>
+	<string name="badge_diamond_message">クラフト フルダイヤモンド ギアに十分なダイヤモンドを収集します。</string>
+	<string name="badge_boom_title">ブーム!</string>
+	<string name="badge_boom_message">プロのようなマイニング: TNT と</string>
+	<string name="badge_honeydew_appetite_title">甘露食欲</string>
+	<string name="badge_honeydew_appetite_message">これまでのところ 20 パイがあります。Num num num</string>
+	<string name="badge_addictive_title">Minecraft としては習慣性</string>
+	<string name="badge_addictive_message">あなたは 20 + ゲームを獲得!</string>
+	<string name="badge_quick_title">クイック マイナー!</string>
+	<string name="badge_quick_message">1 秒あたり 2 点以上を収集したとします。それを維持します。</string>
+	<string name="badge_adventurer_title">冒険!</string>
+	<string name="badge_adventurer_message">あなたはあなたの最初の困難なゲームを完了しました。</string>
+	<string name="badge_lord_of_unknown_title">未知の主</string>
+	<string name="badge_lord_of_unknown_message">全体の世界を探検し。本当に驚くべき偉業!</string>
+	<string name="badge_pure_awesome_title">純粋な素晴らしい!</string>
+	<string name="badge_pure_awesome_message">ハードの鉱山で無限を探検します。最も稀な達成</string>
+
+</resources>

@@ -1,0 +1,273 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Сапёр Крафт</string>
+    <string name="app_name_full">Сапёр Крафт</string>
+
+    <!-- Main Menu -->
+
+    <string name="continue_game">Продолжить игру</string>
+    <string name="new_game">Новая Игра</string>
+    <string name="settings">Параметры</string>
+    <string name="high_score">Счёт</string>
+
+    <!-- New Game Activity -->
+
+    <string name="map_size">Размер карты:</string>
+    <string name="game_mode">Режим игры:</string>
+    <string name="difficulty">Сложность:</string>
+    <string name="start_game">Начать игру!</string>
+    <string-array name="game_modes">
+        <item>Aвантюра</item>
+        <item>Cпасать</item>
+        <item>Классический</item>
+    </string-array>
+    <string-array name="map_sizes">
+        <item>Маленький</item>
+        <item>Средний</item>
+        <item>Большой</item>
+        <item>Бесконечный</item>
+    </string-array>
+    <string-array name="difficulties">
+        <item>Легко</item>
+        <item>Нормально</item>
+        <item>Сложно</item>
+    </string-array>
+    <string name="mode_adventure_exp">режим дает забавные особенности, которые вы можете взаимодействовать с (продукты питания, мечи и сокровищ).</string>
+    <string name="mode_rescue_exp">Ваш друг потерялся в шахте! Ваша цель заключается в том, чтобы найти специальные плитки, скрытые в карте прежде, чем ваш счет достигнет нуля. У вас есть сокровища, скрытые в карту, чтобы помочь вам.</string>
+    <string name="mode_classic_exp">И \&quot;классический\&quot; дает вам 1 жизнь и любой враг вас убивает - это классический сапер.</string>
+    <string name="loading">Загрузка. Пожалуйста подождите...</string>
+
+
+    <!-- Game -->
+
+    <string name="mine">Копать</string>
+    <string name="flag">Флаг</string>
+    <string name="protect_button">Защита</string>
+
+    <!-- Game: Interactions -->
+
+    <string name="won_adventure">Вы выиграли!</string>
+    <string name="won_adventure_extended">Вы раскопали эту шахту. Идите и постройте что-нибудь восхитительное!</string>
+    <string name="won_rescue">Вы выиграли!</string>
+    <string name="won_rescue_extended">Вы спасли вашего друга. Прекрасно!</string>
+    <string name="won_classic">Вы выиграли!</string>
+    <string name="won_classic_extended">Вы раскопали эту шахту. Идите и постройте что-нибудь восхитительное!</string>
+
+    <string name="lost_out_of_time">Вы бежите из времени</string>
+    <string name="lost_out_of_time_extended">Ваш друг морили голодом ждет вас. Спешите в следующий раз!</string>
+    <string name="lost_died">Упс... Вы умерли</string>
+    <string name="lost_died_zombie">Зомби съели ваши восхитительные мозги!</string>
+    <string name="lost_died_creeper">Тссс... бум!</string>
+    <string name="lost_died_enderman">Вы не должны были смотрел на Enderman</string>
+    <string name="lost_died_rabbit">и все ваши выещи были съедены гигантским кроликом!</string>
+
+
+    <string name="mistake_flag">Ой! Флаг в неправильном месте</string>
+    <string name="found_zombie">Зомби хочет ваш мозг</string>
+    <string name="found_creeper">бум! Рептилия ползли вверх на вас</string>
+    <string name="found_enderman">Вы не должны иметь пристальный взгляд на Enderman</string>
+    <string name="ate_pie">Вы нашли торт. Это было очень мило.</string>
+    <string name="ate_steak">Вы нашли говядины и был праздник!</string>
+    <string name="found_gold">Вы становитесь богатым!</string>
+    <string name="found_diamond">Сбор еще один бриллиант руды, чтобы получить меч.</string>
+    <string name="found_treasure_sword">Вы нашли меч!</string>
+    <string name="found_treasure_map">Вы нашли карту!Районе, недалеко от вас была раскрыта.</string>
+    <string name="found_treasure_gold">Он был полон золота!</string>
+    <string name="found_treasure_empty">Грудь была пуста. не повезло.</string>
+    <string name="found_sword">Вы нашли меч!</string>
+    <string name="explosives_boom">Бум!</string>
+    <string name="found_goal">Вы нашли вашего друга</string>
+    <string name="uncovered_all_tiles">Вы исследовали весь мой!</string>
+
+    <string name="diamond_sword_kill_zombie">Ты убил зомби. Он был не матч для вас.</string>
+    <string name="diamond_sword_kill_creeper">Ты убил лианы и сделал TNT из пороха она упала.</string>
+    <string name="diamond_sword_kill_enderman">Вы уничтожили Enderman с мечом.</string>
+    <string name="diamond_sword_mine_rock">Меч не киркой, что он сломался.</string>
+
+
+
+    <!-- Game: Tutorial -->
+
+    <string name="guide">Руководство</string>
+    <string name="guide_next">Cледующий</string>
+    <string name="guide_skip">Пропускать</string>
+    <string name="guide_finish">Заканчивать</string>
+    <string name="guide_title_first">Руководство: Первые шаги</string>
+    <string name="guide_title_mode_classic">Руководство: Классический режим</string>
+    <string name="guide_title_mode_with_food">Руководство: С Режим питания</string>
+    <string name="guide_title_mode_adventure">Руководство: Приключения режим</string>
+    <string name="guide_title_final">Руководство: Удачи!</string>
+
+    <!-- Social -->
+
+    <string name="please_review_this_app">Пожалуйста, ознакомьтесь с этим приложением</string>
+    <string name="review_this_app_explained">Если вам понравилось это приложение вы можете мотивировать разработку, дав 5 звезд и оставив отзыв в Маркете. Спасибо!</string>
+    <string name="button_later">Позже</string>
+    <string name="button_review_now">Ознакомится сейчас!</string>
+
+    <string name="tweet_share_title">Share</string>
+    <string name="tweet_message">Got [score] while playing www.minecraft-sweeper.com on Android. Beat that!</string>
+    <string name="tweet_message_rescue">I rescued Honeydew in [minutes] on an Android game www.minecraft-sweeper.com</string>
+    <string name="tweet_message_share">Try a new puzzle game for Android: www.minecraft-sweeper.com</string>
+
+
+
+    <!-- HighScore -->
+
+    <string name="highscores_go_online">Вы должны быть в сети</string>
+    <string name="highscores_sign_in">Нажмите, чтобы войти с помощью Google</string>
+    <string name="google_services_sign_in">HighScores хранятся онлайн на серверах Google. Вам нужно будет войти в систему для использования этой функции.</string>
+
+
+
+    <!-- Google Login -->
+
+    <string name="sign_in_failed">Не удалось выполнить вход. Проверьте сетевое подключение и повторите попытку.</string>
+    <string name="app_misconfigured">Приложение неправильно настроено. Проверьте, что имя пакета и сертификат подписи соответствуют идентификатор клиента, созданный в консоли разработчика. Кроме того если приложение еще не опубликован, проверьте, что учетная запись, которую вы пытаетесь для входа указан в качестве тестера счета. Просмотреть журналы для получения дополнительной информации.</string>
+    <string name="license_failed">Ошибка проверки лицензии.</string>
+    <string name="unknown_error">Неизвестная ошибка.</string>
+    <string name="gamehelper_sign_in_failed">Не удалось выполнить вход. Проверьте сетевое подключение и повторите попытку.</string>
+    <string name="gamehelper_app_misconfigured">todo</string>
+    <string name="gamehelper_license_failed">Ошибка проверки лицензии.</string>
+    <string name="gamehelper_unknown_error">Неизвестная ошибка.</string>
+    <string name="sign_in">Войти</string>
+
+
+    <!-- Google Play Store -->
+
+    <string name="store_description">
+        Puzzle game based on minesweeper game with a new twist. We also have MineCraft theme since we love the original game!
+
+        Disclaimer: This game is developed independently from Microsoft and Mojang. This game is also not related to the Minecraft game apart from similar theme.
+
+        The game include three game modes:
+        - Classic for the lovers of original minesweeper game.
+        - Adventure explore very large map where we hidden treasures through the map. You have four lives and can replenish them by discovering food. Your goal is to open all the hidden tiles, but it will not be easy.
+        - Rescue you have to save your friend lost somewhere in the map before the time runs out. Hurry!
+
+        Other features:
+        - Highsores via Google Play - compete wit your friends
+        - Pinch to zoom
+        - Multiple themes
+        - Frustration free
+
+    </string>
+
+    <string name="translated_by">User contributions + automatic</string>
+
+
+
+
+    <!-- ===== Settings ===== -->
+
+
+    <string name="menu_calibrate">Calibrate touch</string>
+    <string name="reset_calibration">Restore default</string>
+    <string name="calibrate_click">Touch the cross</string>
+    <string name="theme_minecraft">Minecraft</string>
+    <string name="theme_classic">Classic</string>
+
+    <string name="settings_gameplay">Игра</string>
+    <string name="settings_global">Глобальный</string>
+    <string name="settings_show_grid">Показать сетку</string>
+    <string name="settings_show_grid_explanation">будет показано, что Черная проволочная сетка четко плитки</string>
+    <string name="settings_vibrate">Вибрируйте на ощупь</string>
+    <string name="settings_vibrate_explanation">Отключение вибрации обратной связи для экономии заряда аккумулятора</string>
+    <string name="settings_calibrate_touch">Калибровка сенсорного ввода</string>
+    <string name="settings_other">Другие</string>
+    <string name="settings_help">Справка</string>
+    <string name="settings_theme">Тема</string>
+    <string name="settings_theme_summary">Игра поставляется в нескольких темах</string>
+    <string name="settings_contribute">Содействие</string>
+    <string name="settings_rate_app">Оцените приложение</string>
+    <string name="settings_rate_app_summary">Если вы любите app, дает нам 5 звезд на android market:)</string>
+    <string name="settings_spread_the_word">Спрэд слово</string>
+    <string name="settings_spread_the_word_summary">Расскажите своим друзьям об этом приложении через социальные сети!</string>
+    <string name="settings_premium">Купить премиум</string>
+    <string name="settings_premium_summary">Если вам действительно нравится это приложение, получите нам чашку кофе. В свою очередь вы получите две новые темы и не больше объявлений</string>
+    <string name="settings_information">Информация</string>
+    <string name="settings_tutorial">Учебник</string>
+    <string name="settings_tutorial_summary">Открыть учебник руководство о том, как играть</string>
+    <string name="settings_bug">Сообщить об ошибке</string>
+    <string name="settings_bug_summary">Нажмите здесь, чтобы сообщить об ошибке в игре или сделать предложение улучшения.</string>
+    <string name="settings_webpage">Веб-страница</string>
+    <string name="settings_webpage_summary">Кредиты, вклады и другую информацию можно найти на нашем сайте.</string>
+    <string name="settings_show_badges">Показать значки</string>
+    <string name="settings_show_badges_explanation">Вы можете скрыть значки диалоговое окно Отображение</string>
+
+    <string name="settings_language_explanation">Игнорировать местные языковые параметры и использовать язык по вашему выбору</string>
+
+    <string name="settings_highscore">HighScore</string>
+    <string name="settings_login">Войдите в Google</string>
+    <string name="settings_login_explanation">Используйте таблицу лидеров Google для отслеживания ваши высокие баллы</string>
+    <string name="settings_logout">Выйти из системы</string>
+    <string name="settings_logout_explanation">Отслеживать ваши баллы будут отключены. Он будет восстановлен после входа снова</string>
+    <string name="settings_in_progress">В ходе работы. Вы можете оставить настройки сейчас.</string>
+
+
+    <string name="settings_about">About</string>
+    <string name="settings_about_summary">Game version: [versionName] ([versionCode]). Developed by Karolis Misiunas with lots of help from others. We are independent developers and not affiliated to Mojang or Microsoft. </string>
+
+
+
+    <!-- ===== Badges ===== -->
+
+    <string name="badge_e1_title">Используя правый конец лопатой</string>
+    <string name="badge_e1_message">Вы заработали первые 200 точек на Easy.</string>
+    <string name="badge_e2_title">Вы знаете, как использовать кирку</string>
+    <string name="badge_e2_message">Вы заработали первые 1000 точек на Easy.</string>
+    <string name="badge_m1_title">Diggy diggy отверстие</string>
+    <string name="badge_m1_message">Вы заработали первые 200 точек на носителе.</string>
+    <string name="badge_m2_title">Достаточно камня для первого дома</string>
+    <string name="badge_m2_message">Вы заработали первые 1000 точек на носителе.</string>
+    <string name="badge_m3_title">Существует не много осталось здесь</string>
+    <string name="badge_m3_message">Вы заработали первые 20000 точек на носителе.</string>
+    <string name="badge_h1_title">Вы получаете лучше</string>
+    <string name="badge_h1_message">Вы заработали первые 200 точек на жестком.</string>
+    <string name="badge_h2_title">Это глубокая дыра</string>
+    <string name="badge_h2_message">Вы заработали первые 2000 точек на жестком.</string>
+    <string name="badge_h3_title">Теперь можно построить замок!</string>
+    <string name="badge_h3_message">Вы заработали первые 5000 точек на жестком.</string>
+    <string name="badge_h4_title">Выемка будет гордиться</string>
+    <string name="badge_h4_message">Вы заработали первые 20000 точек на жестком.</string>
+
+
+    <!--  Action Badges -->
+
+    <string name="badge_to_arms_title">К оружию!</string>
+    <string name="badge_to_arms_message">Вы сделали Алмазный меч</string>
+    <string name="badge_tnt_title">/ Дайте Стив 46 1</string>
+    <string name="badge_tnt_message">Вы убили лианы и получил порох для вашего первого ТНТ.</string>
+    <string name="badge_lucky_loot_title">Шасси!</string>
+    <string name="badge_lucky_loot_message">Алмазный меч. Повезло вам</string>
+    <string name="badge_gold_fever_title">Богатые!</string>
+    <string name="badge_gold_fever_message">Вы нашли сундук, полный золота</string>
+    <string name="badge_treasure_hunt_title">Карта сокровищ</string>
+    <string name="badge_treasure_hunt_message">Вы нашли карту неизведанное место.</string>
+    <string name="badge_zombie_slayer_title">Зомби убийца</string>
+    <string name="badge_zombie_slayer_message">Убить 20 зомби.</string>
+    <string name="badge_braveness_title">Смелость</string>
+    <string name="badge_braveness_message">Вы смотрели 5 Enderman в глаза и жил, чтобы рассказать историю</string>
+    <string name="badge_diamond_title">Алмаз передач</string>
+    <string name="badge_diamond_message">Вы собрать достаточно алмазов для судов полный алмаз передач</string>
+    <string name="badge_boom_title">Бум!</string>
+    <string name="badge_boom_message">Добыча ресурсов как профессионал: с ТНТ</string>
+    <string name="badge_honeydew_appetite_title">Хонайдью аппетит</string>
+    <string name="badge_honeydew_appetite_message">Вы пока 20 пирожков. Num num num</string>
+    <string name="badge_addictive_title">Как привыкание, как Minecraft</string>
+    <string name="badge_addictive_message">Вы выиграли 20 + игры!</string>
+    <string name="badge_quick_title">Быстрый Шахтер!</string>
+    <string name="badge_quick_message">Вы собрали > 2 очка за секунду. Держите его вверх.</string>
+    <string name="badge_adventurer_title">Искатель приключений!</string>
+    <string name="badge_adventurer_message">Вы завершили ваш первый трудная игра.</string>
+    <string name="badge_lord_of_unknown_title">Лорд неизвестно</string>
+    <string name="badge_lord_of_unknown_message">Вы изучили весь мир. Поистине удивительное достижение!</string>
+    <string name="badge_pure_awesome_title">Чистая Awesome!</string>
+    <string name="badge_pure_awesome_message">Исследуемые бесконечные шахты на жестком. Наиболее редкие достижения</string>
+
+
+
+
+
+</resources>

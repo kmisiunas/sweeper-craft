@@ -1,0 +1,202 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+	<string name="app_name">รถกวาด หัตถกรรม</string>
+	<string name="app_name_full">รถกวาด หัตถกรรม</string>
+
+	<string name="continue_game">เล่นเกมต่อ</string>
+	<string name="new_game">เกมใหม่</string>
+	<string name="settings">การตั้งค่า</string>
+	<string name="high_score">คะแนนสูงสุด</string>
+	<string name="map_size">ขนาดแผนที่:</string>
+	<string name="game_mode">โหมดเกม:</string>
+	<string name="difficulty">ความยาก:</string>
+	<string name="start_game">เริ่มเกม</string>
+
+    <string-array name="game_modes">
+        <item>การผจญภัย</item>
+        <item>กู้ภัย</item>
+        <item>คลาสสิก</item>
+    </string-array>
+    <string-array name="map_sizes">
+        <item>ขนาดเล็ก</item>
+        <item>กลาง</item>
+        <item>ใหญ่</item>
+        <item>ไม่มีที่สิ้นสุด</item>
+    </string-array>
+    <string-array name="difficulties">
+        <item>ง่าย</item>
+        <item>ระดับกลาง</item>
+        <item>ฮาร์ด</item>
+    </string-array>
+
+	<string name="mode_adventure_exp">เป้าหมายของคุณคือการ เปิดไพ่ทั้งหมด สี่ชีวิตคุณได้ มีสมบัติและชีวิตที่ซ่อนอยู่ในแผนที่</string>
+	<string name="mode_rescue_exp">เป้าหมายของคุณคือการ หากระเบื้องพิเศษเป้าหมาย เวลาใช้เก็บคะแนนของคุณ คุณจะหลวม ถ้าคะแนนถึงศูนย์</string>
+	<string name="mode_classic_exp">เกมคลาสสิกเกม minesweeper</string>
+	<string name="loading">โหลด กรุณารอสักครู่</string>
+	<string name="mine">เปิด</string>
+	<string name="flag">ทำเครื่องหมาย</string>
+	<string name="protect_button">ปกป้อง</string>
+	<string name="won_adventure">คุณชนะ</string>
+	<string name="won_adventure_extended">กระเบื้องทั้งหมดเปิดอยู่</string>
+	<string name="won_rescue">คุณชนะ</string>
+	<string name="won_rescue_extended">คุณพบไพ่พิเศษ</string>
+	<string name="won_classic">คุณชนะ</string>
+	<string name="won_classic_extended">กระเบื้องทั้งหมดเปิดอยู่</string>
+	<string name="lost_out_of_time">เวลาวิ่งออกมา</string>
+	<string name="lost_out_of_time_extended">เวลาวิ่งออกมา คุณต้องรวดเร็ว</string>
+	<string name="lost_died">คุณตาย</string>
+	<string name="lost_died_zombie"></string>
+	<string name="lost_died_creeper"></string>
+	<string name="lost_died_enderman"></string>
+	<string name="lost_died_rabbit"></string>
+	<string name="mistake_flag">คุณทำเครื่องหมายเป็นกระเบื้องไม่ถูกต้อง</string>
+	<string name="found_zombie">คุณสูญเสียหนึ่งชีวิต</string>
+	<string name="found_creeper">คุณหายไปสองชีวิต</string>
+	<string name="found_enderman">คุณหายไปสามชีวิต</string>
+	<string name="ate_pie">คุณได้รับหนึ่งชีวิต</string>
+	<string name="ate_steak">คุณได้รับสามชีวิต</string>
+	<string name="found_gold">แต้ม + 5</string>
+	<string name="found_diamond">เปิดไพ่ใด ๆ</string>
+	<string name="found_treasure_sword">เปิดไพ่ใด ๆ</string>
+	<string name="found_treasure_map">เปิดพื้นที่ใหม่</string>
+	<string name="found_treasure_gold">จุดเพิ่มเติม</string>
+	<string name="found_treasure_empty">ไม่มีอะไร</string>
+	<string name="found_sword">เปิดไพ่ใด ๆ</string>
+	<string name="explosives_boom">บูม</string>
+	<string name="found_goal">จำหน่ายเครื่องดื่มกระเบื้องพิเศษเป้าหมาย</string>
+	<string name="uncovered_all_tiles">คุณเปิดไพ่ทั้งหมด</string>
+	<string name="diamond_sword_kill_zombie"></string>
+	<string name="diamond_sword_kill_creeper"></string>
+	<string name="diamond_sword_kill_enderman"></string>
+	<string name="diamond_sword_mine_rock"></string>
+	<string name="guide">คำแนะนำ</string>
+	<string name="guide_next">ถัดไป</string>
+	<string name="guide_skip">ข้าม</string>
+	<string name="guide_finish">เสร็จสิ้น</string>
+	<string name="guide_title_first">คู่มือ: ขั้นตอนแรก</string>
+	<string name="guide_title_mode_classic">คู่มือ: โหมดคลาสสิก</string>
+	<string name="guide_title_mode_with_food">คู่มือ: มีโหมดอาหาร</string>
+	<string name="guide_title_mode_adventure">คู่มือ: โหมดผจญภัย</string>
+	<string name="guide_title_final">คู่มือ: โชคดี</string>
+	<string name="please_review_this_app">โปรดตรวจสอบ app นี้</string>
+	<string name="review_this_app_explained">ถ้าคุณชอบ app นี้ คุณสามารถจูงใจเราให้ 5 ดาวและข้อคิดเห็นในตลาดหุ่นยนต์ ขอบคุณ!</string>
+	<string name="button_later">ในภายหลัง</string>
+	<string name="button_review_now">รีวิวตอนนี้</string>
+	<string name="tweet_share_title">ใช้ร่วมกัน</string>
+	<string name="highscores_go_online">คุณต้องออนไลน์นี้</string>
+	<string name="highscores_sign_in">คลิกเพื่อลงชื่อเข้าใช้ Google</string>
+	<string name="google_services_sign_in">คะแนนสูงสุดจะเก็บไว้ออนไลน์บนเซิร์ฟเวอร์ของ Google คุณจะต้องเข้าสู่ระบบเพื่อใช้คุณลักษณะนี้</string>
+	<string name="sign_in_failed">การลงชื่อเข้าใช้ล้มเหลว กรุณาตรวจสอบการเชื่อมต่อเครือข่าย แล้วลองอีกครั้ง</string>
+	<string name="app_misconfigured">โปรแกรมประยุกต์ถูกกำหนดไว้ ตรวจสอบว่า ชื่อแพคเกจและเซ็นชื่อรับรองตรงกับหมายเลขของไคลเอนต์ที่สร้างในคอนโซลสำหรับนักพัฒนา ถ้าโปรแกรมประยุกต์ไม่ได้เผยแพร่ ตรวจสอบว่า บัญชีที่คุณกำลังพยายามลงชื่อเข้าใช้อยู่เป็นบัญชีทดสอบด้วย ดูแฟ้มบันทึกสำหรับข้อมูลเพิ่มเติม</string>
+	<string name="license_failed">ตรวจสอบใบอนุญาตล้มเหลว</string>
+	<string name="unknown_error">ข้อผิดพลาดที่ไม่รู้จัก</string>
+	<string name="gamehelper_sign_in_failed">การลงชื่อเข้าใช้ล้มเหลว กรุณาตรวจสอบการเชื่อมต่อเครือข่าย แล้วลองอีกครั้ง</string>
+	<string name="gamehelper_app_misconfigured">โปรแกรมประยุกต์ถูกกำหนดไว้ ตรวจสอบว่า ชื่อแพคเกจและเซ็นชื่อรับรองตรงกับหมายเลขของไคลเอนต์ที่สร้างในคอนโซลสำหรับนักพัฒนา ถ้าโปรแกรมประยุกต์ไม่ได้เผยแพร่ ตรวจสอบว่า บัญชีที่คุณกำลังพยายามลงชื่อเข้าใช้อยู่เป็นบัญชีทดสอบด้วย ดูแฟ้มบันทึกสำหรับข้อมูลเพิ่มเติม</string>
+	<string name="gamehelper_license_failed">ตรวจสอบใบอนุญาตล้มเหลว</string>
+	<string name="gamehelper_unknown_error">ข้อผิดพลาดที่ไม่รู้จัก</string>
+	<string name="sign_in">เข้าสู่ระบบ</string>
+	<string name="store_description">ปริศนาเกม minesweeper เกมกับบิดใหม่ เรายังมีธีม MineCraft เพราะเรารักเกมเดิม
+
+คำเตือน: เกมนี้พัฒนาโดยอิสระจาก Microsoft และ Mojang เกมนี้จะยังไม่เกี่ยวข้องกับเกม Minecraft นอกเหนือจากชุดรูปแบบที่คล้ายกัน
+
+เกมรวมสามโหมดเกม:
+        -แบบคลาสสิคสำหรับคนรักของเกม minesweeper เดิม
+        -ผจญภัยสำรวจใหญ่แผนที่เราซ่อนสมบัติผ่านแผนที่ คุณมีสี่ชีวิต และสามารถเติมเต็มชีวิต โดยการค้นพบอาหาร เป้าหมายของคุณคือการ เปิดไพ่ซ่อนอยู่ทั้งหมด แต่มันจะไม่ง่าย
+        -คุณต้องบันทึกเพื่อนกู้ภัยหายไว้ในแผนที่ก่อนเวลาจะหมด รีบ
+
+คุณสมบัติอื่น ๆ:
+        -Highsores ผ่าน Google Play - แข่งขันวิทย์เพื่อนของคุณ
+        -หยิกเพื่อซูม
+        -หลายธีม
+        -แห้ว</string>
+	<string name="translated_by">ชื่อของเธอ</string>
+	<string name="menu_calibrate">ปรับเทียบสัมผัส</string>
+	<string name="reset_calibration">คืนค่าเริ่มต้น</string>
+	<string name="calibrate_click">แตะกางเขน</string>
+	<string name="theme_minecraft">Minecraft</string>
+	<string name="theme_classic">คลาสสิก</string>
+	<string name="settings_gameplay">เล่นเกม</string>
+	<string name="settings_global">ทั่วโลก</string>
+	<string name="settings_show_grid">แสดงเส้นตาราง</string>
+	<string name="settings_show_grid_explanation">เส้นสายสีดำจะแสดงให้ชัดเจนกระเบื้อง</string>
+	<string name="settings_vibrate">สั่นเมื่อสัมผัส</string>
+	<string name="settings_vibrate_explanation">ปิดการสั่นเตือนเพื่อประหยัดแบตเตอรี่</string>
+	<string name="settings_calibrate_touch">ปรับเทียบสัมผัส</string>
+	<string name="settings_other">อื่น ๆ</string>
+	<string name="settings_help">ช่วยเหลือและ F.A.Q.</string>
+	<string name="settings_theme">ชุดรูปแบบ</string>
+	<string name="settings_theme_summary">เกมมาในหลายรูปแบบ</string>
+	<string name="settings_contribute">มีส่วนร่วม</string>
+	<string name="settings_rate_app">ป</string>
+	<string name="settings_rate_app_summary">ถ้าคุณชอบแอ ให้เรา 5 ดาวใน android market:)</string>
+	<string name="settings_spread_the_word">บอกต่อ</string>
+	<string name="settings_spread_the_word_summary">แจ้งเพื่อนของคุณเกี่ยวกับ app นี้ผ่านสื่อสังคมออนไลน์</string>
+	<string name="settings_premium">ซื้อพรีเมี่ยม</string>
+	<string name="settings_premium_summary">ถ้าคุณชอบ app นี้ รับเราจิบกาแฟ ในทางกลับกัน คุณจะได้ธีมใหม่ที่สองและไม่มีโฆษณาเพิ่มเติม</string>
+	<string name="settings_information">ข้อมูล</string>
+	<string name="settings_tutorial">กวดวิชา</string>
+	<string name="settings_tutorial_summary">เปิดคู่มือสอนวิธีการเล่น</string>
+	<string name="settings_bug">รายงานจุดบกพร่อง</string>
+	<string name="settings_bug_summary">คลิกที่นี่เพื่อรายงานข้อผิดพลาดในเกม หรือให้ข้อเสนอแนะการปรับปรุง</string>
+	<string name="settings_webpage">เว็บเพจ</string>
+	<string name="settings_webpage_summary">เครดิต เงินทุน และข้อมูลอื่น ๆ ที่สามารถพบบนเว็บไซต์ของเรา</string>
+	<string name="settings_show_badges">แสดงป้าย</string>
+	<string name="settings_show_badges_explanation">คุณสามารถซ่อนป้ายกล่องโต้ตอบปรากฏขึ้น</string>
+	<string name="settings_language_explanation">ละเว้นการตั้งค่าภาษาท้องถิ่น และใช้ภาษาที่คุณเลือก</string>
+	<string name="settings_highscore">คะแนนสูงสุด</string>
+	<string name="settings_login">ลงชื่อเข้าใช้ ด้วย Google</string>
+	<string name="settings_login_explanation">ใช้ลีดเดอร์ Google ติดตามคะแนนของคุณสูงสุด</string>
+	<string name="settings_logout">ลงชื่อออก</string>
+	<string name="settings_logout_explanation">ติดตามคะแนนของคุณจะถูกปิด มันจะถูกคืนค่าเมื่อคุณลงชื่อเข้าใช้อีกครั้ง</string>
+	<string name="settings_in_progress">กำลังดำเนินการ คุณสามารถปล่อยให้การตั้งค่าในขณะนี้</string>
+	<string name="badge_e1_title">ใช้ขวาสุดของพลั่ว</string>
+	<string name="badge_e1_message">คุณได้รับ 200 คะแนนแรกในง่าย</string>
+	<string name="badge_e2_title">คุณรู้วิธีการใช้ pickaxe</string>
+	<string name="badge_e2_message">คุณได้รับ 1000 จุดแรกในง่าย</string>
+	<string name="badge_m1_title">Diggy diggy หลุม</string>
+	<string name="badge_m1_message">คุณได้รับ 200 คะแนนแรกบนสื่อกลาง</string>
+	<string name="badge_m2_title">หินพอสำหรับบ้านหลังแรก</string>
+	<string name="badge_m2_message">คุณได้รับ 1000 จุดแรกบนสื่อกลาง</string>
+	<string name="badge_m3_title">มีไม่มากเหลือที่นี่</string>
+	<string name="badge_m3_message">คุณได้รับจุดแรก 20000 บนสื่อกลาง</string>
+	<string name="badge_h1_title">คุณได้รับดีกว่า</string>
+	<string name="badge_h1_message">คุณได้รับ 200 คะแนนแรกบนฮาร์ดดิสก์</string>
+	<string name="badge_h2_title">เป็นหลุมลึก</string>
+	<string name="badge_h2_message">คุณได้รับ 2000 คะแนนแรกบนฮาร์ดดิสก์</string>
+	<string name="badge_h3_title">ขณะนี้คุณสามารถสร้างปราสาท</string>
+	<string name="badge_h3_message">คุณได้รับ 5000 จุดแรกบนฮาร์ดดิสก์</string>
+	<string name="badge_h4_title">รอยจะต้องภาคภูมิใจ</string>
+	<string name="badge_h4_message">คุณได้รับจุดแรก 20000 บนฮาร์ดดิสก์</string>
+	<string name="badge_to_arms_title">แผ่นดิน</string>
+	<string name="badge_to_arms_message">ท่านดาบเพชร</string>
+	<string name="badge_tnt_title">/ ให้สตีฟ 46 1</string>
+	<string name="badge_tnt_message">คุณฆ่าเป็นไม้เลื้อย และมีดินปืนภายหลังแรก</string>
+	<string name="badge_lucky_loot_title">เกียร์ขึ้น</string>
+	<string name="badge_lucky_loot_message">ดาบเพชร โชคดีคุณ</string>
+	<string name="badge_gold_fever_title">รวย</string>
+	<string name="badge_gold_fever_message">คุณพบอกเต็มทอง</string>
+	<string name="badge_treasure_hunt_title">แผนที่ขุมทรัพย์</string>
+	<string name="badge_treasure_hunt_message">คุณพบแผนที่การสำรวจตำแหน่ง</string>
+	<string name="badge_zombie_slayer_title">ฆ่าซอมบี้</string>
+	<string name="badge_zombie_slayer_message">ฆ่าซอมบี้ 20</string>
+	<string name="badge_braveness_title">Braveness</string>
+	<string name="badge_braveness_message">คุณจ้อง 5 Enderman เข้าตา และอาศัยการบอกเล่าเรื่องราว</string>
+	<string name="badge_diamond_title">เพชรเกียร์</string>
+	<string name="badge_diamond_message">คุณเก็บเพชรพอไปเกียร์เพชรเต็มฝีมือ</string>
+	<string name="badge_boom_title">บูม!!!</string>
+	<string name="badge_boom_message">การทำเหมืองแร่อย่างมืออาชีพ: กับทีเอ็นที</string>
+	<string name="badge_honeydew_appetite_title">กระหายน้ำหวาน</string>
+	<string name="badge_honeydew_appetite_message">คุณจะพาย 20 จน Num num num</string>
+	<string name="badge_addictive_title">เป็นเสพติดเป็น Minecraft</string>
+	<string name="badge_addictive_message">คุณชนะ 20 + เกม</string>
+	<string name="badge_quick_title">ขุดด่วน</string>
+	<string name="badge_quick_message">คุณรวบรวมมากกว่า 2 จุดต่อวินาที ให้มันได้</string>
+	<string name="badge_adventurer_title">การผจญภัย</string>
+	<string name="badge_adventurer_message">คุณสมบูรณ์ยากเกมแรก</string>
+	<string name="badge_lord_of_unknown_title">เจ้าของไม่รู้จัก</string>
+	<string name="badge_lord_of_unknown_message">คุณได้สำรวจโลกทั้งหมด ความสำเร็จที่น่าตื่นเต้น</string>
+	<string name="badge_pure_awesome_title">บริสุทธิ์น่ากลัว</string>
+	<string name="badge_pure_awesome_message">สำรวจอนันต์เหมืองบนฮาร์ดดิสก์ ความสำเร็จที่สุดหายาก</string>
+
+</resources>

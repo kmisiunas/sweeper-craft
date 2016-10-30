@@ -1,0 +1,282 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+
+    <string name="app_name">Sweeper Craft</string>
+
+    <!-- Main Menu -->
+
+    <string name="continue_game">Spiel fortsetzen</string>
+    <string name="new_game">Neues Spiel</string>
+    <string name="settings">Einstellungen</string>
+    <string name="high_score">Highscores</string>
+
+
+    <!-- New Game Activity -->
+
+    <string name="map_size">Spielfeldgröße:</string>
+    <string name="game_mode">Spielmodus:</string>
+    <string name="difficulty">Schwierigkeit:</string>
+    <string name="start_game">Spiel starten!</string>
+    <string-array name="game_modes">
+        <item>Adventure</item>
+        <item>Rescue</item>
+        <item>Klassisch</item>
+    </string-array>
+    <string-array name="map_sizes">
+        <item>Klein</item>
+        <item>Mittel</item>
+        <item>Groß</item>
+        <item>Unendlich</item>
+    </string-array>
+    <string-array name="difficulties">
+        <item>Leicht</item>
+        <item>Mittel</item>
+        <item>Schwer</item>
+    </string-array>
+
+    <string name="mode_adventure_exp">\&quot;Adventure\&quot; modus gibt Ihnen Spaß, mit denen Sie interagieren können (Lebensmittel, Schwerter und Schätze).</string>
+    <string name="mode_rescue_exp">Ihr Freund verlor in der Mine! Ihr Ziel ist, finden eine spezielle Kachel in der Karte versteckt, bevor Ihre Punktzahl Null erreicht. Sie haben in der Karte, um Ihnen helfen, versteckte Schätze.</string>
+    <string name="mode_classic_exp">Im \&quot;Klassisch\&quot;-Modus hast du nur ein Leben, somit ist jeder Gegner tödlich - eben der klassische Minesweeper-Modus.</string>
+    <string name="loading">Lädt. Bitte warten...</string>
+
+
+
+    <!-- Game -->
+
+    <string name="mine">Abbauen</string>
+    <string name="flag">Fahne</string>
+    <string name="protect_button">Schützen</string>
+
+    <!-- Game: Interactions -->
+
+
+    <string name="won_adventure">Du hast gewonnen!</string>
+    <string name="won_adventure_extended">Du hast diese Mine ausgebeutet. Geh und bau etwas Luxuriöses!</string>
+    <string name="won_rescue">Honeydew!</string>
+    <string name="won_rescue_extended">Sie rettete Ihr Freund. Gut gemacht!</string>
+    <string name="won_classic">Du hast gewonnen!</string>
+    <string name="won_classic_extended">Du hast diese Mine ausgebeutet. Geh und bau etwas Luxuriöses!</string>
+
+    <string name="lost_out_of_time">Ausführen von out of time</string>
+    <string name="lost_out_of_time_extended">Dein Freund ausgehungert warten auf Sie. Beeilen Sie sich das nächste Mal!</string>
+    <string name="lost_died">Ups.. du bist gestorben</string>
+    <string name="lost_died_zombie">Ein Zombie aß Ihre leckeren Gehirne!</string>
+    <string name="lost_died_creeper">pssss... boom!</string>
+    <string name="lost_died_enderman">Sie sollten nicht auf die Enderman haben starrte</string>
+    <string name="lost_died_rabbit">und dein ganzes Zeug wurde von einem riesigen Hasen gefressen!</string>
+
+
+
+    <string name="mistake_flag">Autsch! Flagge an einem falschen Ort</string>
+
+    <string name="found_zombie">Zombie will Ihr Gehirn</string>
+    <string name="found_creeper">Psss... Boom! Schlingpflanze schlich auf Sie</string>
+    <string name="found_enderman">Sie sollten keinen Blick auf die Enderman</string>
+    <string name="ate_pie">Köstliche Torte</string>
+    <string name="ate_steak">ahlzeit restauriert Ihre Vitalität</string>
+    <string name="found_gold">Sie sind reich!</string>
+    <string name="found_diamond">Sie sammelte ein Diamant</string>
+    <string name="found_treasure_sword">You found a sword!</string>
+    <string name="found_treasure_map">Sie haben eine Karte! Ein Gebiet in der Nähe von Ihnen aufgedeckt wurde.</string>
+    <string name="found_treasure_gold">Es war voller Gold!</string>
+    <string name="found_treasure_empty">Die Brust war leer. Pech.</string>
+    <string name="found_sword">Du hast eine Diamantspitzhacke gecraftet!</string>
+    <string name="explosives_boom">Boom!</string>
+    <string name="found_goal">Sie fand Ihre Freundin</string>
+    <string name="uncovered_all_tiles">Sie erforscht der gesamte mine!</string>
+
+
+    <string name="diamond_sword_kill_zombie">Sie töteten einen Zombie. Er war kein Spiel für Sie.</string>
+    <string name="diamond_sword_kill_creeper">Sie töteten einen Kriechgang und machte einen TNT aus dem Schießpulver sie fallen gelassen.</string>
+    <string name="diamond_sword_kill_enderman">Sie erschlug einen Enderman mit einem Schwert.</string>
+    <string name="diamond_sword_mine_rock">Schwert ist nicht eine Spitzhacke, damit es brach.</string>
+
+
+
+    <!-- Game: Tutorial -->
+
+    <string name="guide_next">Nächste</string>
+    <string name="guide_skip">Überspringen</string>
+    <string name="guide_finish">Beenden</string>
+    <string name="guide_title_first">Handbuch: Erste Schritte</string>
+    <string name="guide_title_mode_classic">Handbuch: klassischen Modus</string>
+    <string name="guide_title_mode_with_food">Handbuch: Mit Food-Modus</string>
+    <string name="guide_title_mode_adventure">Handbuch: Abenteuer-Modus</string>
+    <string name="guide_title_final">Handbuch: Viel Glück!</string>
+
+    <!-- Social -->
+
+    <string name="please_review_this_app">Bitte bewerte diese App</string>
+    <string name="review_this_app_explained">Wenn du diese App gut findest, motiviere uns, indem du eine 5-Sterne Bewertung und einen Kommentar im Android Market abgibst. Danke!</string>
+    <string name="button_later">Später</string>
+    <string name="button_review_now">Jetzt bewerten!</string>
+
+    <string name="tweet_share_title">Teilen via...</string>
+    <string name="tweet_message">Got [score] while playing www.minecraft-sweeper.com on Android. Beat that!</string>
+    <string name="tweet_message_rescue">I rescued Honeydew in [minutes] on an Android game www.minecraft-sweeper.com</string>
+    <string name="tweet_message_share">Try a new puzzle game for Android: www.minecraft-sweeper.com</string>
+
+
+
+    <!-- HighScore -->
+
+    <string name="highscores_go_online">Sie müssen online sein</string>
+    <string name="highscores_sign_in">Klicken Sie, um mit Google anmelden</string>
+    <string name="google_services_sign_in">Highscores werden auf Google-Servern online gehalten. Sie müssen sich einloggen um diese Funktion zu nutzen.</string>
+
+
+
+    <!-- Google Login -->
+
+    <string name="sign_in_failed">Fehler beim anmelden. Bitte überprüfen Sie Ihre Netzwerkverbindung und versuchen Sie es erneut.</string>
+    <string name="app_misconfigured">Die Anwendung ist falsch konfiguriert. Überprüfen Sie den Paketnamen und Signaturzertifikat die Client-ID Developer Console gegründet Abgleich. Auch, wenn die Anwendung noch nicht veröffentlicht ist, überprüfen Sie, dass das Konto, das, dem Sie versuchen anmelden mit, als Tester Konto aufgeführt ist. Siehe Protokolle für weitere Informationen.</string>
+    <string name="license_failed">Lizenz-Überprüfung fehlgeschlagen ist.</string>
+    <string name="unknown_error">Unbekannter Fehler.</string>
+    <string name="gamehelper_sign_in_failed">Fehler beim anmelden. Bitte überprüfen Sie Ihre Netzwerkverbindung und versuchen Sie es erneut.</string>
+    <string name="gamehelper_app_misconfigured">Die Anwendung ist falsch konfiguriert. Überprüfen Sie den Paketnamen und Signaturzertifikat die Client-ID Developer Console gegründet Abgleich. Auch, wenn die Anwendung noch nicht veröffentlicht ist, überprüfen Sie, dass das Konto, das, dem Sie versuchen anmelden mit, als Tester Konto aufgeführt ist. Siehe Protokolle für weitere Informationen.</string>
+    <string name="gamehelper_license_failed">Lizenz-Überprüfung fehlgeschlagen ist.</string>
+    <string name="gamehelper_unknown_error">Unbekannter Fehler.</string>
+
+    <string name="sign_in">Sign In</string>
+
+
+
+    <!-- Google Play Store -->
+
+    <string name="store_description">
+        Puzzle-Spiel basierend auf Minesweeper-Spiel mit einer neuen Variante. Wir haben auch MineCraft Thema, da wir das originale-Spiel lieben!
+
+        Haftungsausschluss: Dieses Spiel ist unabhängig von Microsoft und Mojang entwickelt. Dieses Spiel ist das Minecraft Spiel abgesehen von ähnlichen Thema auch nicht verwandt.
+
+        Das Spiel beinhalten drei Spiel-Modi:
+        -Klassiker für die Liebhaber der original Minesweeper-Spiel.
+        -Abenteuer zu erkunden sehr große Karte wo wir versteckte Schätze auf der Karte. Sie haben vier Leben und können sie durch die Entdeckung Essen wieder aufzufüllen. Ihr Ziel ist es, alle versteckten Fliesen zu öffnen, aber es wird nicht leicht sein.
+        -Du musst deinen Freund zu retten Rettung verloren irgendwo in der Karte, bevor die Zeit abläuft. Beeilen Sie sich!
+
+        Weitere Features:
+        -Highsores über Google Play - konkurrieren mit Ihren Freunden
+        -Pinch zoom
+        -Mehrere Themen
+        -Frust frei
+    </string>
+
+    <string name="translated_by">Automatic + user contributions</string>
+
+
+
+
+    <!-- ===== Settings ===== -->
+
+
+    <string name="menu_calibrate">Calibrate touch</string>
+    <string name="reset_calibration">Restore default</string>
+    <string name="calibrate_click">Touch the cross</string>
+
+    <string name="theme_minecraft">Minecraft</string>
+    <string name="theme_classic">Classic</string>
+
+
+    <string name="settings_gameplay">Spiel zu spielen</string>
+    <string name="settings_global">Globale</string>
+    <string name="settings_show_grid">Raster anzeigen</string>
+    <string name="settings_show_grid_explanation">schwarzer Drahtgitter erscheint deutlich Fliesen</string>
+    <string name="settings_vibrate">Vibrieren auf touch</string>
+    <string name="settings_vibrate_explanation">Schalten Sie Vibrations-Feedback, um die Batterie zu schonen</string>
+    <string name="settings_calibrate_touch">Touch-Eingabe zu kalibrieren</string>
+    <string name="settings_other">Andere</string>
+    <string name="settings_help">Hilfe und FAQ</string>
+    <string name="settings_theme">Thema</string>
+    <string name="settings_theme_summary">Spiel ist in mehrere Themen</string>
+    <string name="settings_contribute">Einen Beitrag leisten</string>
+    <string name="settings_rate_app">Bitte bewerte diese App</string>
+    <string name="settings_rate_app_summary">Wenn du diese App gut findest, motiviere uns, indem du eine 5-Sterne Bewertung und einen Kommentar im Android Market abgibst. Danke!</string>
+    <string name="settings_spread_the_word">Das Wort zu verbreiten</string>
+    <string name="settings_spread_the_word_summary">Erzählen Sie Ihren Freunden über diese app über social Media!</string>
+    <string name="settings_premium">Kaufen Premium</string>
+    <string name="settings_premium_summary">Wenn Sie wirklich diese app gefällt uns eine Tasse Kaffee bekommen. Im Gegenzug erhalten Sie zwei neue Themen und keine Werbung mehr</string>
+    <string name="settings_information">Informationen</string>
+    <string name="settings_tutorial">Tutorial</string>
+    <string name="settings_tutorial_summary">Offenen Referentenhandbuch zum spielen</string>
+    <string name="settings_bug">Einen Bug melden</string>
+    <string name="settings_bug_summary">Klicken Sie hier, um einen Fehlerbericht in ein Spiel oder einen Verbesserungsvorschlag zu machen.</string>
+    <string name="settings_webpage">Webseite</string>
+    <string name="settings_webpage_summary">Kredite, Beiträge und weitere Infos finden Sie auf unserer Website.</string>
+    <string name="settings_show_badges">Zeigen Abzeichen</string>
+    <string name="settings_show_badges_explanation">Abzeichen-Dialog erscheinen können ausgeblendet werden.</string>
+    <!--<string name="settings_language">Wählen Sie Sprache</string>-->
+    <string name="settings_language_explanation">Ignorieren Sie lokalen Spracheinstellungen und verwenden Sprache Ihrer Wahl</string>
+    <string name="settings_highscore">Highscore</string>
+    <string name="settings_login">Melden Sie sich mit Google</string>
+    <string name="settings_login_explanation">Google Leaderboard zu verwenden, um Ihre höchsten Punktzahlen verfolgen</string>
+    <string name="settings_logout">Melden Sie sich ab</string>
+    <string name="settings_logout_explanation">Überwachung Ihrer Partituren wird deaktiviert. Es wird wiederhergestellt werden, nachdem Sie sich wieder anmelden</string>
+    <string name="settings_in_progress">Im Gange. Jetzt lassen Sie die Einstellungen.</string>
+
+
+    <!--<string name="settings_about">About</string>-->
+    <!--<string name="settings_about_summary">Game version: [versionName] ([versionCode]). Developed by Karolis Misiunas with lots of help from others. We are independent developers and not affiliated to Mojang or Microsoft. </string>-->
+
+
+
+    <!-- ===== Badges ===== -->
+
+
+
+    <!--  Action Badges -->
+
+    <string name="badge_e1_title">Mit dem richtigen Ende des Schaufel</string>
+    <string name="badge_e1_message">Sie verdient die ersten 200 Punkte auf Easy.</string>
+    <string name="badge_e2_title">Sie wissen, wie man die Spitzhacke zu verwenden</string>
+    <string name="badge_e2_message">Sie verdient die ersten 1000 Punkte auf Easy.</string>
+    <string name="badge_m1_title">Diggy diggy Loch</string>
+    <string name="badge_m1_message">Sie verdient die ersten 200 Punkte auf Medium.</string>
+    <string name="badge_m2_title">Genügend Stein für das erste Haus</string>
+    <string name="badge_m2_message">Sie verdient die ersten 1000 Punkte auf Medium.</string>
+    <string name="badge_m3_title">Es bleibt nicht viel übrig hier</string>
+    <string name="badge_m3_message">Sie verdient die ersten 20000 Punkte auf Medium.</string>
+    <string name="badge_h1_title">Sie werden immer besser</string>
+    <string name="badge_h1_message">Sie verdient die ersten 200 Punkte auf Hard.</string>
+    <string name="badge_h2_title">Es ist ein tiefes Loch</string>
+    <string name="badge_h2_message">Sie verdient die ersten 2000 Punkte auf Hard.</string>
+    <string name="badge_h3_title">Sie können jetzt eine Burg zu bauen!</string>
+    <string name="badge_h3_message">Sie verdient die ersten 5000 Punkte auf Hard.</string>
+    <string name="badge_h4_title">Kerbe würde stolz sein.</string>
+    <string name="badge_h4_message">Sie verdient die ersten 20000 Punkte auf Hard.</string>
+    <string name="badge_to_arms_title">Zu den Waffen!</string>
+    <string name="badge_to_arms_message">Sie bildeten ein Diamantschwert</string>
+    <string name="badge_tnt_title">/ give Steve 46 1</string>
+    <string name="badge_tnt_message">Sie tötete eine Schlingpflanze und bekam Schießpulver für Ihre erste TNT.</string>
+    <string name="badge_lucky_loot_title">Rüste dich!</string>
+    <string name="badge_lucky_loot_message">Ein Diamant-Schwert. Lucky man</string>
+    <string name="badge_gold_fever_title">Rich!</string>
+    <string name="badge_gold_fever_message">Du hast Truhe voller Gold gefunden</string>
+    <string name="badge_treasure_hunt_title">Schatzkarte</string>
+    <string name="badge_treasure_hunt_message">Sie eine Karte an unerforschten Standort gefunden.</string>
+    <string name="badge_zombie_slayer_title">Zombie slayer</string>
+    <string name="badge_zombie_slayer_message">20 Zombies zu töten.</string>
+    <string name="badge_braveness_title">Tapferkeit</string>
+    <string name="badge_braveness_message">Sie starrte 5 Enderman in die Augen und lebte, um die Geschichte zu erzählen</string>
+    <string name="badge_diamond_title">Diamant-Ausrüstung</string>
+    <string name="badge_diamond_message">Sie sammeln genug Diamanten, um Handwerk voller Diamanten Getriebe</string>
+    <string name="badge_boom_title">Boom!</string>
+    <string name="badge_boom_message">Bergbau, wie ein Profi: mit TNT</string>
+    <string name="badge_honeydew_appetite_title">Honigtau Appetit</string>
+    <string name="badge_honeydew_appetite_message">Sie sind bisher 20 Torten. NUM Num num</string>
+    <string name="badge_addictive_title">So süchtig wie Minecraft</string>
+    <string name="badge_addictive_message">Sie haben mehr als 20 Spiele gewonnen!</string>
+    <string name="badge_quick_title">Eine schnelle Bergmann!</string>
+    <string name="badge_quick_message">Sie sammelte > 2 Punkte pro Sekunde. Weiter so.</string>
+    <string name="badge_adventurer_title">Ein Abenteurer!</string>
+    <string name="badge_adventurer_message">Sie absolvierte Ihre erste schwierige Spiel.</string>
+    <string name="badge_lord_of_unknown_title">Herr der unbekannten</string>
+    <string name="badge_lord_of_unknown_message">Sie haben die ganze Welt erkundet. Eine wirklich tolle Leistung!</string>
+    <string name="badge_pure_awesome_title">Reine genial!</string>
+    <string name="badge_pure_awesome_message">Erkundet einer unendliche mir auf Hard. Die meisten seltenen Erfolg</string>
+
+
+
+
+
+
+</resources>

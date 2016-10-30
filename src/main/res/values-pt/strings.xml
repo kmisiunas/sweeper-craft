@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+	<string name="continue_game">Continuar o jogo</string>
+	<string name="new_game">Novo jogo</string>
+	<string name="settings">Configurações</string>
+	<string name="high_score">Highscores</string>
+	<string name="map_size">Tamanho do mapa:</string>
+	<string name="game_mode">Modo de jogo:</string>
+	<string name="difficulty">Dificuldade:</string>
+	<string name="start_game">Comece o jogo!</string>
+	<string name="mode_adventure_exp">Seu objetivo é abrir todas as telhas. Você tem quatro vidas. Há tesouros e vidas escondidas no mapa.</string>
+	<string name="mode_rescue_exp">Seu objetivo é encontrar a telha objetivo especial. Tempo leva embora a sua pontuação. Você vai perder, se a contagem chegar a zero.</string>
+	<string name="mode_classic_exp">Jogo clássico campo minado</string>
+	<string name="loading">A carregar. Aguarde...</string>
+	<string name="mine">Aberto</string>
+	<string name="flag">Mark</string>
+	<string name="protect_button">Proteger</string>
+	<string name="won_adventure">Você ganhou!</string>
+	<string name="won_adventure_extended">Todas as peças estão abertas</string>
+	<string name="won_rescue">Você ganhou!</string>
+	<string name="won_rescue_extended">Você encontrou a telha especial</string>
+	<string name="won_classic">Você ganhou!</string>
+	<string name="won_classic_extended">Todas as peças estão abertas</string>
+	<string name="lost_out_of_time">Tempo acabou</string>
+	<string name="lost_out_of_time_extended">Seu tempo acabou. Você deve ser mais rápido.</string>
+	<string name="lost_died">Você morreu</string>
+	<string name="lost_died_zombie"></string>
+	<string name="lost_died_creeper"></string>
+	<string name="lost_died_enderman"></string>
+	<string name="lost_died_rabbit"></string>
+	<string name="mistake_flag">Você marcou um azulejo errado</string>
+	<string name="found_zombie">Você perdeu uma vida</string>
+	<string name="found_creeper">Você perdeu duas vidas</string>
+	<string name="found_enderman">Você perdeu três vidas</string>
+	<string name="ate_pie">Você ganhou uma vida</string>
+	<string name="ate_steak">Você ganhou vida três</string>
+	<string name="found_gold">+ 5 pontos</string>
+	<string name="found_diamond">Abra qualquer telha</string>
+	<string name="found_treasure_sword">Abra qualquer telha</string>
+	<string name="found_treasure_map">Nova área descoberta</string>
+	<string name="found_treasure_gold">Mais pontos</string>
+	<string name="found_treasure_empty">Nada</string>
+	<string name="found_sword">Abra qualquer telha</string>
+	<string name="explosives_boom">Bum!</string>
+	<string name="found_goal">Fonte da telha especial gol</string>
+	<string name="uncovered_all_tiles">Você descobriu todas as telhas</string>
+	<string name="diamond_sword_kill_zombie"></string>
+	<string name="diamond_sword_kill_creeper"></string>
+	<string name="diamond_sword_kill_enderman"></string>
+	<string name="diamond_sword_mine_rock"></string>
+	<string name="guide">Guia</string>
+	<string name="guide_next">Na próxima</string>
+	<string name="guide_skip">Skip</string>
+	<string name="guide_finish">Acabamento</string>
+	<string name="guide_title_first">Guia: Primeiros passos</string>
+	<string name="guide_title_mode_classic">Guia: Modo clássico</string>
+	<string name="guide_title_mode_with_food">Guia: Com alimentos de modo</string>
+	<string name="guide_title_mode_adventure">Guia: Modo de aventura</string>
+	<string name="guide_title_final">Guia: Boa sorte!</string>
+	<string name="please_review_this_app">Por favor, reveja este app</string>
+	<string name="review_this_app_explained">Se você gosta deste app você pode motivar-nos, dando uma classificação de 5 estrelas e um comentário no Android Market. Obrigado!</string>
+	<string name="button_later">Mais tarde</string>
+	<string name="button_review_now">Revisão agora!</string>
+	<string name="tweet_share_title">Compartilhar</string>
+	<string name="highscores_go_online">Você deve estar on-line para este</string>
+	<string name="highscores_sign_in">Clique para assinar no usando o Google</string>
+	<string name="google_services_sign_in">Highscores são mantidos on-line em servidores do Google. Você precisará fazer o login para usar este recurso.</string>
+	<string name="sign_in_failed">Não conseguiram entrar. Por favor, verifique sua conexão de rede e tente novamente.</string>
+	<string name="app_misconfigured">O aplicativo está configurado incorretamente. Verifique que o nome do pacote e o certificado de assinatura correspondem a ID de cliente criada no Console do desenvolvedor. Além disso, se o aplicativo ainda não está publicado, verifique se a conta que você está tentando assinar em com está listada como uma conta do testador. Consulte os logs para obter mais informações.</string>
+	<string name="license_failed">Verificação da licença falhada.</string>
+	<string name="unknown_error">Erro desconhecido.</string>
+	<string name="gamehelper_sign_in_failed">Não conseguiram entrar. Por favor, verifique sua conexão de rede e tente novamente.</string>
+	<string name="gamehelper_app_misconfigured">O aplicativo está configurado incorretamente. Verifique que o nome do pacote e o certificado de assinatura correspondem a ID de cliente criada no Console do desenvolvedor. Além disso, se o aplicativo ainda não está publicado, verifique se a conta que você está tentando assinar em com está listada como uma conta do testador. Consulte os logs para obter mais informações.</string>
+	<string name="gamehelper_license_failed">Verificação da licença falhada.</string>
+	<string name="gamehelper_unknown_error">Erro desconhecido.</string>
+	<string name="sign_in">Entrar</string>
+	<string name="store_description">Quebra-cabeça jogo baseado no jogo campo minado, com uma nova reviravolta. Temos também tema de MineCraft, desde que nós amamos o jogo original!
+
+Disclaimer: Este jogo é desenvolvido independentemente pela Microsoft e Mojang. Este jogo também não está relacionado para o jogo Minecraft além de tema semelhante.
+
+O jogo inclui três modos de jogo:
+        -Clássico para os amantes do jogo campo minado original.
+        -Aventura explorar muito grande mapa onde estamos escondidos tesouros através do mapa. Você tem quatro vidas e pode se alojará descobrindo a comida. Seu objetivo é abrir todas as peças escondidas, mas não será fácil.
+        -Resgate que você tem que salvar seu amigo perdido em algum lugar no mapa antes que o tempo se esgote. Despacha-te!
+
+Outras características:
+        -Highsores via Google Play - competir sagacidade seus amigos
+        -Pitada de zoom
+        -Vários temas
+        -Frustração-livre</string>
+	<string name="translated_by">Seu nome</string>
+	<string name="menu_calibrate">Calibrar o touch</string>
+	<string name="reset_calibration">Restaurar padrão</string>
+	<string name="calibrate_click">Toque a Cruz</string>
+	<string name="theme_minecraft">Minecraft</string>
+	<string name="theme_classic">Clássico</string>
+	<string name="settings_gameplay">Jogo do jogo</string>
+	<string name="settings_global">Global</string>
+	<string name="settings_show_grid">Mostrar grade</string>
+	<string name="settings_show_grid_explanation">grade de fio preto será mostrado para indicar claramente as telhas</string>
+	<string name="settings_vibrate">Vibrar no touch</string>
+	<string name="settings_vibrate_explanation">desativar o efeito de vibração para salvar a vida da bateria</string>
+	<string name="settings_calibrate_touch">Calibrar a entrada por toque</string>
+	<string name="settings_other">Outros</string>
+	<string name="settings_help">Ajuda e perguntas frequentes</string>
+	<string name="settings_theme">Tema</string>
+	<string name="settings_theme_summary">Jogo vem em vários temas</string>
+	<string name="settings_contribute">Contribuir</string>
+	<string name="settings_rate_app">Taxa da app</string>
+	<string name="settings_rate_app_summary">Se você gosta do app, dá-em uma classificação de 5 estrelas no android market:)</string>
+	<string name="settings_spread_the_word">Espalhar a palavra</string>
+	<string name="settings_spread_the_word_summary">Diga aos seus amigos sobre este app via mídia social!</string>
+	<string name="settings_premium">Comprar Premium</string>
+	<string name="settings_premium_summary">Se você realmente gosta deste app, buscar uma xícara de café. Em troca, você terá dois temas novos e sem mais anúncios</string>
+	<string name="settings_information">Informações</string>
+	<string name="settings_tutorial">Tutorial</string>
+	<string name="settings_tutorial_summary">Abrir guia tutorial sobre como jogar</string>
+	<string name="settings_bug">Reportar um bug</string>
+	<string name="settings_bug_summary">Clique aqui para reportar um bug em um jogo ou fazer uma sugestão de melhoria.</string>
+	<string name="settings_webpage">Página da Web</string>
+	<string name="settings_webpage_summary">Créditos, contribuições e outras informações podem ser encontrados em nosso site.</string>
+	<string name="settings_show_badges">Mostrar emblemas</string>
+	<string name="settings_show_badges_explanation">Você pode se esconder de diálogo distintivos de aparecer</string>
+	<string name="settings_language_explanation">Ignorar as configurações de idioma local e usar a linguagem de sua escolha</string>
+	<string name="settings_highscore">Highscore</string>
+	<string name="settings_login">Inscreva-se com Google</string>
+	<string name="settings_login_explanation">Usar Google Leaderboard para acompanhar sua pontuação mais alta</string>
+	<string name="settings_logout">Cadastre-se para fora</string>
+	<string name="settings_logout_explanation">Rastreamento de sua pontuação será desligado. Ele será restaurado uma vez que você entrar novamente</string>
+	<string name="settings_in_progress">Em andamento. Você pode deixar as configurações agora.</string>
+	<string name="badge_e1_title">Usando a extremidade direita da pá</string>
+	<string name="badge_e1_message">Você ganhou os primeiros 200 pontos no Easy.</string>
+	<string name="badge_e2_title">Você sabe como usar a picareta</string>
+	<string name="badge_e2_message">Você ganhou os primeiros 1000 pontos no Easy.</string>
+	<string name="badge_m1_title">Diggy buraco diggy</string>
+	<string name="badge_m1_message">Você ganhou os primeiros 200 pontos na média.</string>
+	<string name="badge_m2_title">Bastante pedra para a primeira casa</string>
+	<string name="badge_m2_message">Você ganhou os primeiros 1000 pontos na média.</string>
+	<string name="badge_m3_title">Não restou muito aqui</string>
+	<string name="badge_m3_message">Você ganhou a primeira 20000 pontos na média.</string>
+	<string name="badge_h1_title">Você está melhorando</string>
+	<string name="badge_h1_message">Você ganhou os primeiros 200 pontos em Hard.</string>
+	<string name="badge_h2_title">É um buraco fundo</string>
+	<string name="badge_h2_message">Você ganhou os primeiros 2000 pontos em Hard.</string>
+	<string name="badge_h3_title">Agora, você pode construir um castelo!</string>
+	<string name="badge_h3_message">Você ganhou os primeiros 5000 pontos em Hard.</string>
+	<string name="badge_h4_title">Entalhe ficaria orgulhoso</string>
+	<string name="badge_h4_message">Você ganhou os primeiros pontos 20000 em Hard.</string>
+	<string name="badge_to_arms_title">Às armas!</string>
+	<string name="badge_to_arms_message">Você fez uma espada de diamante</string>
+	<string name="badge_tnt_title">/ dar steve 46 1</string>
+	<string name="badge_tnt_message">Você matou uma trepadeira e tem pólvora para seu primeiro TNT.</string>
+	<string name="badge_lucky_loot_title">Preparem-se!</string>
+	<string name="badge_lucky_loot_message">Uma espada de diamante. Sorte você</string>
+	<string name="badge_gold_fever_title">Rico!</string>
+	<string name="badge_gold_fever_message">Você achou um baú cheio de ouro</string>
+	<string name="badge_treasure_hunt_title">Mapa do tesouro</string>
+	<string name="badge_treasure_hunt_message">Você encontrou um mapa para localização inexplorada.</string>
+	<string name="badge_zombie_slayer_title">Matador de zumbis</string>
+	<string name="badge_zombie_slayer_message">Mate 20 zumbis.</string>
+	<string name="badge_braveness_title">Bravura</string>
+	<string name="badge_braveness_message">Você olhou Enderman 5 nos olhos e viveu para contar a história</string>
+	<string name="badge_diamond_title">Engrenagem de diamante</string>
+	<string name="badge_diamond_message">Você coletar diamantes suficientes para engrenagem de diamante cheio de ofício</string>
+	<string name="badge_boom_title">Bum!!!</string>
+	<string name="badge_boom_message">Mineração como um profissional: com TNT</string>
+	<string name="badge_honeydew_appetite_title">Apetite de melada</string>
+	<string name="badge_honeydew_appetite_message">Você está 20 tortas até agora. Num num num</string>
+	<string name="badge_addictive_title">Tão viciante como Minecraft</string>
+	<string name="badge_addictive_message">Você ganhou 20 + jogos!</string>
+	<string name="badge_quick_title">Um mineiro rápido!</string>
+	<string name="badge_quick_message">Você coletou mais de 2 pontos por segundo. Continue assim.</string>
+	<string name="badge_adventurer_title">Um aventureiro!</string>
+	<string name="badge_adventurer_message">Você completou seu primeiro jogo difícil.</string>
+	<string name="badge_lord_of_unknown_title">Senhor do desconhecido</string>
+	<string name="badge_lord_of_unknown_message">Você tem explorado o mundo inteiro. Um feito verdadeiramente surpreendente!</string>
+	<string name="badge_pure_awesome_title">Pura incrível!</string>
+	<string name="badge_pure_awesome_message">Exploraram um infinito meu rígido. A realização mais rara</string>
+
+</resources>

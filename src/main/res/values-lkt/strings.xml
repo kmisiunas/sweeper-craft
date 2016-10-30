@@ -1,8 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 
+    <!-- Simplified english -->
+
     <string name="app_name">Sweeper Craft</string>
-    <string name="app_name_full">Sweeper Craft</string>
 
     <!-- Main Menu -->
 
@@ -33,59 +34,59 @@
         <item>Medium</item>
         <item>Hard</item>
     </string-array>
-    <string name="mode_adventure_exp">The mine is filled with hidden treasures: swords to kill the monsters and food to heal you. You start with 4 lives.</string>
-    <string name="mode_rescue_exp">Honeydew got lost in the mine! Your goal is to find a special tile hidden in the map before your score reaches zero. You have treasures hidden in the map to help you on the way.</string>
-    <string name="mode_classic_exp">Good old minesweeper. One life, no treasures.</string>
+    <string name="mode_adventure_exp">Your goal is to open all the tiles. You have four lives. There are treasures and lives hidden in the map.</string>
+    <string name="mode_rescue_exp">Your goal is to find the special goal tile. Time takes away your score. You will loose, if score reaches zero.</string>
+    <string name="mode_classic_exp">Classic minesweeper game</string>
     <string name="loading">Loading. Please wait...</string>
 
 
     <!-- Game -->
 
-    <string name="mine">Mine</string>
-    <string name="flag">Flag</string>
+    <string name="mine">Open</string>
+    <string name="flag">Mark</string>
     <string name="protect_button">Protect</string>
 
     <!-- Game: Interactions -->
 
     <string name="won_adventure">You Won!</string>
-    <string name="won_adventure_extended">You emptied the mine. Go and build something great!</string>
-    <string name="won_rescue">Honeydew!</string>
-    <string name="won_rescue_extended">You rescued your friend. Well done!</string>
+    <string name="won_adventure_extended">All the tiles are open</string>
+    <string name="won_rescue">You Won!</string>
+    <string name="won_rescue_extended">You found the special tile</string>
     <string name="won_classic">You Won!</string>
-    <string name="won_classic_extended">That was a classy(ic) game.</string>
+    <string name="won_classic_extended">All the tiles are open</string>
 
-    <string name="lost_out_of_time">Sooo Slooow</string>
-    <string name="lost_out_of_time_extended">Your friend starved waiting for you. Hurry the next time!</string>
-    <string name="lost_died">Whoops.. you died</string>
-    <string name="lost_died_zombie">A zombie ate your delicious brains!</string>
-    <string name="lost_died_creeper">pssss... boom!</string>
-    <string name="lost_died_enderman">You shouldn\'t have gazed upon the Enderman</string>
-    <string name="lost_died_rabbit">and all your stuff got eaten by a giant rabbit!</string>
+    <string name="lost_out_of_time">Time ran out</string>
+    <string name="lost_out_of_time_extended">Your time ran out. You must be faster.</string>
+    <string name="lost_died">You died</string>
+    <string name="lost_died_zombie"></string>
+    <string name="lost_died_creeper"></string>
+    <string name="lost_died_enderman"></string>
+    <string name="lost_died_rabbit"></string>
 
 
 
-    <string name="mistake_flag">Ouch! Flag in a wrong place</string>
-    <string name="found_zombie">Zombie wantz your brainzz</string>
-    <string name="found_creeper">Psss... boom! Creeper crept up on you</string>
-    <string name="found_enderman">Ouch... should not have gaze upon the Enderman</string>
-    <string name="ate_pie">Delicious pie. Yum!</string>
-    <string name="ate_steak">Meal restored your vitality</string>
-    <string name="found_gold">Getting rich</string>
-    <string name="found_diamond">You collected one diamond</string>
-    <string name="found_treasure_sword">You found a sword!</string>
-    <string name="found_treasure_map">You found a treasure map!</string>
-    <string name="found_treasure_gold">You found a treasure!</string>
-    <string name="found_treasure_empty">The chest was empty. unlucky.</string>
-    <string name="found_sword">Go slay the monsters!</string>
+    <string name="mistake_flag">You marked a wrong tile</string>
+    <string name="found_zombie">You lost one life</string>
+    <string name="found_creeper">You lost two lives</string>
+    <string name="found_enderman">You lost three lives</string>
+    <string name="ate_pie">You gained one life</string>
+    <string name="ate_steak">You gained three life</string>
+    <string name="found_gold">+5 points</string>
+    <string name="found_diamond">Open any tile</string>
+    <string name="found_treasure_sword">Open any tile</string>
+    <string name="found_treasure_map">New area uncovered</string>
+    <string name="found_treasure_gold">More points</string>
+    <string name="found_treasure_empty">Nothing</string>
+    <string name="found_sword">Open any tile</string>
     <string name="explosives_boom">Boom!</string>
-    <string name="found_goal">Honeydew! you found him</string>
-    <string name="uncovered_all_tiles">You explored the entire mine!</string>
+    <string name="found_goal">Fount the special goal tile</string>
+    <string name="uncovered_all_tiles">You uncovered all the tiles</string>
 
 
-    <string name="diamond_sword_kill_zombie">You killed a zombie. He was no match for you.</string>
-    <string name="diamond_sword_kill_creeper">You killed a creeper and made a TNT out of the gunpowder it dropped.</string>
-    <string name="diamond_sword_kill_enderman">You slayed an Enderman with a sword.</string>
-    <string name="diamond_sword_mine_rock">Sword is not a pickaxe, thus it broke.</string>
+    <string name="diamond_sword_kill_zombie"></string>
+    <string name="diamond_sword_kill_creeper"></string>
+    <string name="diamond_sword_kill_enderman"></string>
+    <string name="diamond_sword_mine_rock"></string>
 
 
     <!-- Game: Tutorial -->
@@ -108,9 +109,9 @@
     <string name="button_review_now">Review now!</string>
 
     <string name="tweet_share_title">Share</string>
-    <string name="tweet_message">Got [score] while playing www.SweeperCraft.com on Android. Beat that!</string>
-    <string name="tweet_message_rescue">I rescued Honeydew in [minutes] on an Android game www.SweeperCraft.com</string>
-    <string name="tweet_message_share">Try a new puzzle game for Android: www.SweeperCraft.com</string>
+    <string name="tweet_message">Got [score] while playing www.minecraft-sweeper.com on Android. Beat that!</string>
+    <string name="tweet_message_rescue">I rescued Honeydew in [minutes] on an Android game www.minecraft-sweeper.com</string>
+    <string name="tweet_message_share">Try a new puzzle game for Android: www.minecraft-sweeper.com</string>
 
 
 
@@ -139,20 +140,20 @@
     <!-- Google Play Store -->
 
     <string name="store_description">
-Puzzle game based on minesweeper game with a new twist. We also have MineCraft theme since we love the original game!
+        Puzzle game based on minesweeper game with a new twist. We also have MineCraft theme since we love the original game!
 
-Disclaimer: This game is developed independently from Microsoft and Mojang. This game is also not related to the Minecraft game apart from similar theme.
+        Disclaimer: This game is developed independently from Microsoft and Mojang. This game is also not related to the Minecraft game apart from similar theme.
 
-The game include three game modes:
- - Classic for the lovers of original minesweeper game.
- - Adventure explore very large map where we hidden treasures through the map. You have four lives and can replenish them by discovering food. Your goal is to open all the hidden tiles, but it will not be easy.
- - Rescue you have to save your friend lost somewhere in the map before the time runs out. Hurry!
+        The game include three game modes:
+        - Classic for the lovers of original minesweeper game.
+        - Adventure explore very large map where we hidden treasures through the map. You have four lives and can replenish them by discovering food. Your goal is to open all the hidden tiles, but it will not be easy.
+        - Rescue you have to save your friend lost somewhere in the map before the time runs out. Hurry!
 
-Other features:
- - Highsores via Google Play - compete wit your friends
- - Pinch to zoom
- - Multiple themes
- - Frustration free
+        Other features:
+        - Highsores via Google Play - compete wit your friends
+        - Pinch to zoom
+        - Multiple themes
+        - Frustration free
 
     </string>
 
@@ -288,43 +289,6 @@ Other features:
     <string name="badge_pure_awesome_title">Pure Awesome!</string>
     <string name="badge_pure_awesome_message">Explored an Infinite mine on Hard. The most rare achievement</string>
 
-
-    <!-- don't translate -->
-
-    <string name="settings_language">Choose language</string>
-    <string-array name="settings_language_list">
-        <item>Automatic</item>
-        <item>English</item>
-        <item>Simple English</item>
-        <item>German</item>
-        <item>Russian</item>
-        <item>French</item>
-        <item>Spanish</item>
-        <item>Portuguese</item>
-        <item>Dutch</item>
-        <item>Korean</item>
-        <item>Japanese</item>
-        <item>Hindi</item>
-        <item>Thai</item>
-        <item>Chinese</item>
-    </string-array>
-    <string-array name="settings_language_values">
-        <item>Automatic</item>
-        <item>en</item>
-        <item>lkt</item>
-        <item>de</item>
-        <item>ru</item>
-        <item>fr</item>
-        <item>es</item>
-        <item>pt</item>
-        <item>nl</item>
-        <item>ko</item>
-        <item>ja</item>
-        <item>hi</item>
-        <item>th</item>
-        <item>zh</item>
-    </string-array>
-    <string name="settings_language_default">Automatic</string>
 
 
 </resources>

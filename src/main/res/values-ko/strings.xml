@@ -1,0 +1,202 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+	<string name="app_name">스위퍼 공예</string>
+	<string name="app_name_full">스위퍼 공예</string>
+
+	<string name="continue_game">게임을 계속</string>
+	<string name="new_game">새로운 게임</string>
+	<string name="settings">설정</string>
+	<string name="high_score">최고 점수</string>
+	<string name="map_size">지도 크기:</string>
+	<string name="game_mode">게임 모드:</string>
+	<string name="difficulty">어려움:</string>
+	<string name="start_game">게임을 시작!</string>
+
+	<string-array name="game_modes">
+		<item>모험</item>
+		<item>구조</item>
+		<item>클래식</item>
+	</string-array>
+	<string-array name="map_sizes">
+		<item>소형</item>
+		<item>중간</item>
+		<item>대형</item>
+		<item>무한</item>
+	</string-array>
+	<string-array name="difficulties">
+		<item>쉬운</item>
+		<item>중급</item>
+		<item>하드</item>
+	</string-array>
+
+	<string name="mode_adventure_exp">당신의 목표는 모든 타일. 당신은 4 개의 생활. 보물 및 생활 지도에 숨겨져 있다.</string>
+	<string name="mode_rescue_exp">귀하의 목표는 특별 한 목표 타일을 찾는 것입니다. 시간 점수가 떨어져 걸립니다. 점수는 0에 도달 하는 경우에, 당신은 풀 것 이다.</string>
+	<string name="mode_classic_exp">고전적인 지뢰 찾기 게임</string>
+	<string name="loading">로드 중입니다. 잠시만 기다려 주십시오...</string>
+	<string name="mine">오픈</string>
+	<string name="flag">마크</string>
+	<string name="protect_button">보호</string>
+	<string name="won_adventure">당신이 겼 어!</string>
+	<string name="won_adventure_extended">모든 타일은 오픈</string>
+	<string name="won_rescue">당신이 겼 어!</string>
+	<string name="won_rescue_extended">특별 한 타일을 발견</string>
+	<string name="won_classic">당신이 겼 어!</string>
+	<string name="won_classic_extended">모든 타일은 오픈</string>
+	<string name="lost_out_of_time">시간 뛰 쳐</string>
+	<string name="lost_out_of_time_extended">당신의 시간이 뛰 쳐. 당신은 빨리 해야 합니다.</string>
+	<string name="lost_died">당신은 죽 었 다</string>
+	<string name="lost_died_zombie"></string>
+	<string name="lost_died_creeper"></string>
+	<string name="lost_died_enderman"></string>
+	<string name="lost_died_rabbit"></string>
+	<string name="mistake_flag">잘못 된 타일 표시</string>
+	<string name="found_zombie">하나의 생명을 잃 었</string>
+	<string name="found_creeper">2 목숨을 잃 었</string>
+	<string name="found_enderman">3 목숨을 잃 었</string>
+	<string name="ate_pie">하나의 생명을 얻은</string>
+	<string name="ate_steak">3 생명을 얻은</string>
+	<string name="found_gold">+ 5 포인트</string>
+	<string name="found_diamond">어떤 타일을 엽니다</string>
+	<string name="found_treasure_sword">어떤 타일을 엽니다</string>
+	<string name="found_treasure_map">새로운 지역 발견</string>
+	<string name="found_treasure_gold">더 많은 포인트</string>
+	<string name="found_treasure_empty">아무것도</string>
+	<string name="found_sword">어떤 타일을 엽니다</string>
+	<string name="explosives_boom">붐!</string>
+	<string name="found_goal">원천 특별 한 목표 타일</string>
+	<string name="uncovered_all_tiles">당신이 모든 타일을 발견</string>
+	<string name="diamond_sword_kill_zombie"></string>
+	<string name="diamond_sword_kill_creeper"></string>
+	<string name="diamond_sword_kill_enderman"></string>
+	<string name="diamond_sword_mine_rock"></string>
+	<string name="guide">가이드</string>
+	<string name="guide_next">다음</string>
+	<string name="guide_skip">건너뛰기</string>
+	<string name="guide_finish">완료</string>
+	<string name="guide_title_first">가이드: 첫 번째 단계</string>
+	<string name="guide_title_mode_classic">가이드: 클래식 모드</string>
+	<string name="guide_title_mode_with_food">가이드: 음식 모드와</string>
+	<string name="guide_title_mode_adventure">모험 모드 가이드:</string>
+	<string name="guide_title_final">가이드: 행운을 빌어요!</string>
+	<string name="please_review_this_app">이 애플 리 케이이 션을 검토 하십시오</string>
+	<string name="review_this_app_explained">이 애플 리 케이이 션을 같은 경우 당신은 5 별 등급 및 안 드 로이드 마켓에 코멘트를 제공 함으로써 우리 동기 부여 수 있습니다. 감사합니다!</string>
+	<string name="button_later">나중</string>
+	<string name="button_review_now">지금 검토!</string>
+	<string name="tweet_share_title">공유</string>
+	<string name="highscores_go_online">이 대 한 온라인 수 있어야 합니다.</string>
+	<string name="highscores_sign_in">Google을 사용 하 여 로그인 클릭</string>
+	<string name="google_services_sign_in">최고 점수는 Google 서버에서 온라인 유지 됩니다. 이 기능을 사용 하려면 로그인 해야 합니다.</string>
+	<string name="sign_in_failed">에 로그인 하지 못했습니다. 네트워크 연결을 확인 하 고 다시 시도 하십시오.</string>
+	<string name="app_misconfigured">응용 프로그램이 잘못 구성. 패키지 이름 및 서명 인증서 개발자 콘솔에서 만든 클라이언트 ID 일치 하는지 확인 하십시오. 또한, 응용 프로그램은 아직 게시 되지 않으면 계정에 로그인 하려고 하는 테스터의 계정으로 나열 되어 있는지 확인 합니다. 자세한 내용은 로그를 참조 하십시오.</string>
+	<string name="license_failed">라이센스 확인 하지 못했습니다.</string>
+	<string name="unknown_error">알 수 없는 오류가 발생 했습니다.</string>
+	<string name="gamehelper_sign_in_failed">에 로그인 하지 못했습니다. 네트워크 연결을 확인 하 고 다시 시도 하십시오.</string>
+	<string name="gamehelper_app_misconfigured">응용 프로그램이 잘못 구성. 패키지 이름 및 서명 인증서 개발자 콘솔에서 만든 클라이언트 ID 일치 하는지 확인 하십시오. 또한, 응용 프로그램은 아직 게시 되지 않으면 계정에 로그인 하려고 하는 테스터의 계정으로 나열 되어 있는지 확인 합니다. 자세한 내용은 로그를 참조 하십시오.</string>
+	<string name="gamehelper_license_failed">라이센스 확인 하지 못했습니다.</string>
+	<string name="gamehelper_unknown_error">알 수 없는 오류가 발생 했습니다.</string>
+	<string name="sign_in">로그인</string>
+	<string name="store_description">새로운 트위스트와 함께 지뢰 찾기 게임에 따라 게임 퍼즐. 우리는 또한 우리가 사랑 하는 원래 게임 이후 MineCraft 테마가 있다!
+
+면책 조항:이 게임은 개발 하지 독립적으로 마이크로소프트와 Mojang에서. 이 게임도 비슷한 테마를 제외 하 고 Minecraft 게임에 관련이 없습니다.
+
+게임 3 게임 모드를 포함:
+        -원래 지뢰 찾기 게임의 연인에 대 한 고전.
+        -모험 탐험 매우 큰 지도 어디 우리가 숨겨진 보물 지도 통해. 4 생활 했으며 음식을 발견 하 여 그들을 보충 하실 수 있습니다. 당신의 목표는 모든 숨겨진된 타일, 하지만 그것은 쉽지 않을 것 이다.
+        -당신은 시간이 다 떨어지기 전에 지도에 어딘가에 잃어버린 친구를 저장 해야 하는 구조. 서둘러!
+
+다른 특징:
+        -구글 플레이-통해 Highsores 경쟁 위트 친구
+        -핀치 확대/축소
+        -여러 테마
+        -좌절 무료</string>
+	<string name="translated_by">사용자 이름</string>
+	<string name="menu_calibrate">터치 보정</string>
+	<string name="reset_calibration">기본값 복원</string>
+	<string name="calibrate_click">터치 십자가</string>
+	<string name="theme_minecraft">마인</string>
+	<string name="theme_classic">클래식</string>
+	<string name="settings_gameplay">게임 플레이</string>
+	<string name="settings_global">글로벌</string>
+	<string name="settings_show_grid">그리드 표시</string>
+	<string name="settings_show_grid_explanation">블랙 와이어 그리드를 명확 하 게 타일을 나타내는 표시 됩니다.</string>
+	<string name="settings_vibrate">터치에 진동</string>
+	<string name="settings_vibrate_explanation">배터리 수명을 절약 하 진동 피드백을 해제</string>
+	<string name="settings_calibrate_touch">터치 입력을 보정</string>
+	<string name="settings_other">다른</string>
+	<string name="settings_help">도움말 및 자주 묻는 질문</string>
+	<string name="settings_theme">테마</string>
+	<string name="settings_theme_summary">여러 테마에서 게임이 온다</string>
+	<string name="settings_contribute">기여</string>
+	<string name="settings_rate_app">응용 프로그램을 평가</string>
+	<string name="settings_rate_app_summary">응용 프로그램을 좋아한다면, 우리에 게 안 드 로이드 마켓에 5 별 등급:)</string>
+	<string name="settings_spread_the_word">단어를 확산</string>
+	<string name="settings_spread_the_word_summary">소셜 미디어를 통해이 응용 프로그램에 대 한 당신의 친구에 게!</string>
+	<string name="settings_premium">프리미엄 구매</string>
+	<string name="settings_premium_summary">만약 당신이 정말이 애플 리 케이이 션 처럼 우리 한 잔의 커피. 두 개의 새로운 테마와 더 많은 광고를 얻을 것 이다</string>
+	<string name="settings_information">정보</string>
+	<string name="settings_tutorial">자습서</string>
+	<string name="settings_tutorial_summary">재생 하는 방법에 오픈 튜토리얼 가이드</string>
+	<string name="settings_bug">버그를 보고</string>
+	<string name="settings_bug_summary">여기를 클릭 게임에 버그를 보고 하거나 개선 제안.</string>
+	<string name="settings_webpage">웹 페이지</string>
+	<string name="settings_webpage_summary">크레딧, 기부금 및 기타 정보는 우리의 웹사이트에서 찾을 수 있습니다.</string>
+	<string name="settings_show_badges">배지를 표시</string>
+	<string name="settings_show_badges_explanation">배지 대화 상자가 표시 되지 않도록 숨길 수 있습니다.</string>
+	<string name="settings_language_explanation">현지 언어 설정을 무시 하 고 당신의 선택의 언어를 사용 하 여</string>
+	<string name="settings_highscore">최고 점수</string>
+	<string name="settings_login">Google 로그인</string>
+	<string name="settings_login_explanation">Google 리더를 사용 하 여 가장 높은 점수를 추적</string>
+	<string name="settings_logout">로그 아웃</string>
+	<string name="settings_logout_explanation">귀하의 추적 해제 될 것입니다. 일단 당신이 다시 로그인 복원 됩니다.</string>
+	<string name="settings_in_progress">진행. 지금 설정을 남길 수 있습니다.</string>
+	<string name="badge_e1_title">삽의 오른쪽 끝을 사용 하 여</string>
+	<string name="badge_e1_message">당신은 쉬운에 첫 200 포인트 적립.</string>
+	<string name="badge_e2_title">곡 괭이 사용 하는 방법을 알으십시오</string>
+	<string name="badge_e2_message">당신은 쉬운에 첫 1000 포인트 적립.</string>
+	<string name="badge_m1_title">Diggy diggy 구멍</string>
+	<string name="badge_m1_message">당신은 매체에 첫 200 포인트 적립.</string>
+	<string name="badge_m2_title">첫 번째 집에 대 한 충분 한 돌</string>
+	<string name="badge_m2_message">당신은 중간에 첫 번째 1000 포인트 적립.</string>
+	<string name="badge_m3_title">저기 많은 왼쪽 여기</string>
+	<string name="badge_m3_message">당신은 중간에 첫 번째 20000 포인트 적립.</string>
+	<string name="badge_h1_title">당신은 잘 좋아지고 있다</string>
+	<string name="badge_h1_message">당신이 하드에 첫 200 포인트 적립.</string>
+	<string name="badge_h2_title">그것은 깊은 구멍</string>
+	<string name="badge_h2_message">당신이 하드에 첫 2000 포인트 적립.</string>
+	<string name="badge_h3_title">이제 성곽을 구축할 수 있습니다!</string>
+	<string name="badge_h3_message">당신이 하드에 처음 5000 포인트 적립.</string>
+	<string name="badge_h4_title">노치 자랑 스 러 울 것 이다</string>
+	<string name="badge_h4_message">당신이 하드에 첫 번째 20000 포인트 적립.</string>
+	<string name="badge_to_arms_title">무기!</string>
+	<string name="badge_to_arms_message">다이아몬드 칼을 만든</string>
+	<string name="badge_tnt_title">스티브 46 1 /</string>
+	<string name="badge_tnt_message">당신과 기를 죽인 첫 번째 TNT 화약 있어.</string>
+	<string name="badge_lucky_loot_title">기어 최대!</string>
+	<string name="badge_lucky_loot_message">다이아몬드 검입니다. 운이 좋은 당신</string>
+	<string name="badge_gold_fever_title">리치!</string>
+	<string name="badge_gold_fever_message">가슴 가득 황금을 발견</string>
+	<string name="badge_treasure_hunt_title">보물 지도</string>
+	<string name="badge_treasure_hunt_message">당신은 미개척된 위치 지도 발견.</string>
+	<string name="badge_zombie_slayer_title">좀비 슬 레이어</string>
+	<string name="badge_zombie_slayer_message">20 좀비를 죽 일.</string>
+	<string name="badge_braveness_title">Braveness</string>
+	<string name="badge_braveness_message">5 빠뜨릴 눈으로 응시 하 고 이야기를 살 았습니다.</string>
+	<string name="badge_diamond_title">다이아몬드 기어</string>
+	<string name="badge_diamond_message">공예 전체 다이아몬드 기어로 충분 한 다이아몬드를 수집</string>
+	<string name="badge_boom_title">붐!</string>
+	<string name="badge_boom_message">프로 처럼 광산: TNT와 함께</string>
+	<string name="badge_honeydew_appetite_title">젖과 식욕</string>
+	<string name="badge_honeydew_appetite_message">20 파이 지금까지 있습니다. Num num num</string>
+	<string name="badge_addictive_title">마인 이다</string>
+	<string name="badge_addictive_message">20 + 게임 원!</string>
+	<string name="badge_quick_title">빠른 광부!</string>
+	<string name="badge_quick_message">당신은 초당 2 점 이상의 수집. 그것을 계속.</string>
+	<string name="badge_adventurer_title">모험가!</string>
+	<string name="badge_adventurer_message">당신은 당신의 첫 번째 어려운 게임을 완료.</string>
+	<string name="badge_lord_of_unknown_title">알 수 없는 주 님</string>
+	<string name="badge_lord_of_unknown_message">전 세계를 탐험 했습니다. 정말 놀라운 성과!</string>
+	<string name="badge_pure_awesome_title">순수한 굉 장!</string>
+	<string name="badge_pure_awesome_message">탐험 한 무한 내 하드에. 가장 희소 한 공적</string>
+
+</resources>

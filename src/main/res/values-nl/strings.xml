@@ -1,0 +1,247 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Mijnenveger Craft</string>
+    <string name="app_name_full">Mijnenveger Craft</string>
+
+    <!-- Main Menu -->
+
+    <string name="continue_game">Doorgaan</string>
+    <string name="new_game">Nieuw spel</string>
+    <string name="settings">Instellingen</string>
+    <string name="high_score">Highscores</string>
+    <!-- Settings defined automatically by android? -->
+
+    <!-- New Game Activity -->
+
+    <string name="map_size">Map Grote:</string>
+    <string name="game_mode">Speltype:</string>
+    <string name="difficulty">Moeilijkheidsgraad:</string>
+    <string name="start_game">Het spel starten!</string>
+    <string-array name="game_modes">
+        <item>Avontuur</item>
+        <item>Red</item>
+        <item>Klassiek</item>
+    </string-array>
+    <string-array name="map_sizes">
+        <item>Klein</item>
+        <item>Gemiddeld</item>
+        <item>Groot</item>
+        <item>Oneindig</item>
+    </string-array>
+    <string-array name="difficulties">
+        <item>Makkelijk</item>
+        <item>Gemiddeld</item>
+        <item>Hard</item>
+    </string-array>
+    <string name="mode_adventure_exp">De mijn is gevuld met verborgen schatten: zwaarden om de monsters te doden en eten om hartjes terug te krijgen, En je begint met 4 levens</string>
+    <string name="mode_rescue_exp">JelleWho is verdwaald in de oude mijn! Jou doel is om hem te vinden in de map voor je score 0 is. Je speelt met verborgen schatten verstopt in de map die je helpen de weg te vinden.</string>
+    <string name="mode_classic_exp">Die goede oude mijnen veger. Een leven, geen schatten.</string>
+    <string name="loading">Laden. Even geduld...</string>
+
+
+    <!-- Game -->
+
+    <string name="mine">Mijn</string>
+    <string name="flag">Vlag</string>
+    <string name="protect_button">Bescherm</string>
+
+    <!-- Game: Interactions -->
+
+    <string name="won_adventure">Je hebt gewonnen!</string>
+    <string name="won_adventure_extended">Je hebt de hele mijn geleegd. Twitter naar @Jespertheend hierover!</string>
+    <string name="won_rescue">JelleWho!</string>
+    <string name="won_rescue_extended">Je hebt je vriend gevonden, goed gedaan!</string>
+    <string name="won_classic">Je hebt gewonnen!</string>
+    <string name="won_classic_extended">Dat was een klassiek spelletje.</string>
+
+    <string name="lost_out_of_time">Zooo langzaam</string>
+    <string name="lost_out_of_time_extended">Je vriend verhongerde tijdens het wachten op jouw. Schiet meer op de volgende keer!</string>
+    <string name="lost_died">oeps.. je ging dood</string>
+    <string name="lost_died_zombie">Een zombie at je smaakvolle brein!</string>
+    <string name="lost_died_creeper">pssss... boem!</string>
+    <string name="lost_died_enderman">Je moest niet de Enderman in zijn ogen kijken!</string>
+    <string name="lost_died_rabbit">En al je spullen werden opgegeten door een groot konijn!</string>
+
+
+
+    <string name="mistake_flag">Auw! Een vlag op de verkeerde plek</string>
+
+    <string name="found_zombie">Zombie wil jou hersenen</string>
+    <string name="found_creeper">Psss... boem! Een Creeper sluipte naar je toe</string>
+    <string name="found_enderman">Auw... Ik had niet naar die Enderman moeten kijken</string>
+    <string name="ate_pie">Heerlijke taart. Mmm</string>
+    <string name="ate_steak">Maaltijd hersteld je gezondheid</string>
+    <string name="found_gold">Je word rijk</string>
+    <string name="found_diamond">Je hebt een diamant verzameld</string>
+    <string name="found_treasure_sword">Je vindt een zwaard!</string>
+    <string name="found_treasure_map">Je vindt een kaart!</string>
+    <string name="found_treasure_gold">Je vindt een schat!</string>
+    <string name="found_treasure_empty">De kist was leeg. Ongelukkig.</string>
+    <string name="found_sword">Ga monsters om zeep helpen!</string>
+    <string name="explosives_boom">Boem!</string>
+    <string name="found_goal">JelleWie! Je hebt hem gevonden</string>
+    <string name="uncovered_all_tiles">Je hebt de hele mijn ontdekt!</string>
+    <string name="died">Je stierf.</string> <!-- unused -->
+
+    <string name="no0_diamond_ore">Je diamant  zwaard brak.</string>
+    <string name="no1_diamond_ore">Verzamel nog één diamant om een zwaard te maken.</string>
+    <string name="no2_diamond_ore">Je hebt een diamanten zwaard gemaakt!</string>
+    <string name="have_tnt">Je hebt een Creeper gedood en hiervan een TNT gekregen!! wees voorzichtig en blaas wat op.</string>
+    <string name="found_gold_ore">Je wordt rijk!</string>
+    <string name="treasure_map">Je vond een map! Een gebied dichtbij is nu geopend.</string>
+    <string name="treasure_gold">Het zat vol met goud!</string>
+    <string name="treasure_nether">...ren</string>
+
+    <string name="treasure_diamond_sword">Je vond een zwaard!</string>
+    <string name="found_beef">Je vond wat vlees en had een feestelijke maaltijd!</string>
+    <string name="found_cake">Je vond een lekker stuk taart.</string>
+
+
+    <string name="diamond_sword_kill_zombie">Je doodde een zombie. Hij was geen partij voor jou.</string>
+    <string name="diamond_sword_kill_creeper">Je doodde een Creeper en je hebt een TNT gemaakt van het buskruit dat hij achter liet</string>
+    <string name="diamond_sword_kill_enderman">Je slachtte een Enderman met een zwaard.</string>
+    <string name="diamond_sword_mine_rock">Het zwaard is niet een pikhouweel, waardoor het brak.</string>
+
+
+    <!-- Game: Tutorial -->
+
+    <string name="guide">Gids</string>
+    <string name="guide_next">volgende</string>
+    <string name="guide_skip">Overslaan</string>
+    <string name="guide_finish">Einde</string>
+    <string name="guide_title_first">Gids: Eerste stap</string>
+    <string name="guide_title_mode_classic">Gids: Klassieke mode</string>
+    <string name="guide_title_mode_with_food">Gids: Mode met voedsel</string>
+    <string name="guide_title_mode_adventure">Gids: Adventure Mode</string>
+    <string name="guide_title_final">Gids: Veel plezier!</string>
+
+    <!-- Social -->
+
+    <string name="please_review_this_app">Beoordeel deze applicatie</string>
+    <string name="review_this_app_explained">Als je deze app leuk vindt kun je ons motiveren door een 5 sterren achter te laten of/en een comment op de Android Market. Alvast bedankt als je dat doet!</string>
+    <string name="button_later">Later</string>
+    <string name="button_review_now">Beoordeel nu!</string>
+
+    <string name="tweet_share_title">deel</string>
+    <string name="tweet_message">Ik haalde [score] op het spel www.minecraft-sweeper.com op Android. Probeer dat maar eens te verslaan!</string>
+    <string name="tweet_message_rescue">Ik redde @JelleWho in [minutes] op een Android-spel www.minecraft-sweeper.com</string>
+    <string name="tweet_message_share">Probeer een nieuwe puzzel game voor Android: www.minecraft-sweeper.com</string>
+
+
+    <!-- Settings -->
+
+    <string name="menu_calibrate">Kalibreer het scherm</string>
+    <string name="reset_calibration">Standaard herstellen</string>
+    <string name="calibrate_click">Klik op het kruis</string>
+    <string name="theme_minecraft">Minecraft</string>
+    <string name="theme_classic">Klassiek</string>
+
+
+
+    <!-- HighScore -->
+
+    <string name="highscores_go_online">Je moet online zijn voor deze functie</string>
+    <string name="highscores_sign_in">Klik hier om in te loggen Via Google</string>
+    <string name="google_services_sign_in">High Scores worden online bijgehouden op de servers van Google. je moet ingelogd zijn om deze functie te gebruiken.</string>
+
+
+
+    <!-- Google Login -->
+
+    <string name="sign_in_failed">Mislukt om in te loggen. Controleer uw netwerkverbinding en probeer het opnieuw.</string>
+    <string name="app_misconfigured">De applicatie is niet goed geconfigureerd. Controleer of de naam van het pakket en het ondertekenen van het certificaat overeenkomen met de client-ID gemaakt in Developer Console. Ook als de aanvraag nog niet is gepubliceerd, controleer dan of het account probeer je aan te melden bij wordt vermeld als een tester account. Zie logs voor meer informatie.</string>
+    <string name="license_failed">Licentie controleren is mislukt.</string>
+    <string name="unknown_error">Onbekende fout.</string>
+    <string name="gamehelper_sign_in_failed">Mislukt om in te loggen. Controleer uw netwerkverbinding en probeer het opnieuw.</string>
+    <string name="gamehelper_app_misconfigured">De applicatie is niet goed geconfigureerd. Controleer of de naam van het pakket en het ondertekenen van het certificaat overeenkomen met de client-ID gemaakt in Developer Console. Ook als de aanvraag nog niet is gepubliceerd, controleer dan of het account probeer je aan te melden bij wordt vermeld als een tester account. Zie logs voor meer informatie.</string>
+    <string name="gamehelper_license_failed">Licentie controleren is mislukt</string>
+    <string name="gamehelper_unknown_error">Onbekende fout.</string>
+
+    <string name="sign_in">Log in</string>
+
+    <!--Where is it used?-->
+
+    <string name="title_activity_new_game">TeDoen</string>
+
+    <!-- Google Play Store -->
+
+    <string name="store_description">
+
+        Puzzel game gebaseerd op het spel Mijnenveger maar dan met een nieuwe twist. We hebben ook een MineCraft thema omdat MineCraft zo gaaf is!
+
+        Disclaimer: Dit spel is onafhankelijk ontwikkeld op basis van Microsoft en Mojang. Dit spel heeft evenmin betrekking op het spel Minecraft behalve het soortgelijke thema.
+
+        Het spel omvat drie spelmodus:
+        - Klassiek, voor de liefhebbers van de originele mijnenveger spel.
+        - Adventure verkennen, een zeer grote kaart waar we verborgen schatten door middel van de kaart. Je hebt vier levens en kan ze aanvullen door het vinden van voedsel. Je doel is om alle verborgen tegels te openen, maar het zal niet gemakkelijk zijn.
+        - Red, je moet je vriend redden die ergens verloren in de mijn verdwaald is geraakt. Red hem voordat hij verhongert. Haast je!
+
+        Andere kenmerken:
+        - Topscores via Google Play
+        - Speel tegen je vrienden
+        - Knijp om in te zoomen
+        - Meerdere thema\'s
+        - Frustratie vrij
+
+    </string>
+
+    <string name="translated_by">JelleWho</string>
+
+    <string name="settings_gameplay">Game play</string>
+
+    <string name="settings_zoom_default">128</string>
+    <string name="settings_global">Globaal</string>
+
+    <string name="settings_show_grid">Raster tonen</string>
+    <string name="settings_show_grid_explanation">Zwarte lijntjes in een raster wordt getoond om duidelijk aan te geven waar de tegels zijn</string>
+    <string name="settings_vibrate">Trillen bij aanraking</string>
+    <string name="settings_vibrate_explanation">Schakel trillen uit om batterij te besparen</string>
+    <string name="settings_calibrate_touch">Kalibreren aanrakingen</string>
+    <string name="settings_other">Andere dingen</string>
+    <string name="settings_help">Help en F.A.Q.</string>
+
+    <string name="settings_theme">Thema</string>
+    <string name="settings_theme_summary">Game komt in meerdere thema\'s</string>
+
+    <string name="settings_contribute">Draag bij</string>
+
+    <string name="settings_rate_app">Beoordeel de app</string>
+    <string name="settings_rate_app_summary">Als je de app leuk vindt, geeft ons dan 5-sterren op de Android market :)</string>
+
+    <string name="settings_spread_the_word">Vertel het verder</string>
+    <string name="settings_spread_the_word_summary"> Vertel je vrienden over deze app via social media!</string>
+
+    <string name="settings_premium"> Koop Premium </string>
+    <string name="settings_premium_summary">Als je deze app echt leuk vindt kun je ons een kopje koffie kopen. In ruil daarvoor krijg je twee nieuwe thema\'s en verwijderen we de advertenties voor jou.</string>
+
+    <string name="settings_information">Informatie</string>
+
+    <string name="settings_tutorial">Uitleg</string>
+    <string name="settings_tutorial_summary">Een handleiding van hoe je moet spelen</string>
+
+    <string name="settings_bug">Rapporteer een fout</string>
+    <string name="settings_bug_summary">Klik hier om een fout te melden over het spel of maak een suggestie.</string>
+
+    <string name="settings_webpage">Webpagina</string>
+    <string name="settings_webpage_summary">Credits, bijdragen en andere informatie kunt u op onze website vinden</string>
+
+    <string name="settings_show_badges">Toon badges</string>
+    <string name="settings_show_badges_explanation">Je kunt de badges melding verbergen</string>
+
+    <string name="settings_language_explanation">Negeer lokale taal instellingen en gebruik de taal van uw keuze</string>
+
+
+    <string name="settings_highscore">Highscore</string>
+    <string name="settings_login">Log in met Google</string>
+    <string name="settings_login_explanation">Gebruik Google Leaderboard om je hoogste scores bij te houden</string>
+    <string name="settings_logout">Log uit</string>
+    <string name="settings_logout_explanation">Het bijhouden van je scores word uitgeschakeld. Het wordt weer ingeschakeld wanneer u zich opnieuw aanmeldt </string>
+    <string name="settings_in_progress"> Bezig. je kunt de instellingen nu te verlaten.</string>
+
+
+    <string name="settings_about">Over</string>
+    <string name="settings_about_summary"> Game-versie: [versionName] ([versionCode]). Ontwikkeld door Karolis Misiunas met veel hulp van anderen. Wij zijn onafhankelijke ontwikkelaars en niet aangesloten bij Mojang of Microsoft.</string>
+
+
+</resources>
