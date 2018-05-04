@@ -27,5 +27,4 @@ Thanks for your help!
  - **Where can I report a bug?**  
    You can report a bug on the [issue tracking page](https://github.com/kmisiunas/sweeper-craft/issues) or via [email](mailto:support+mcs@misiunas.com).
  - **Is the project open source?**  
-   At the moment only, small parts of the code are available. In the past, people used the code to figure out how to cheat the highscore system. Therefore, I removed the code and also improved the security of the game (this is not a challenge - please don't hack the game). If you would like to contribute some code, please get in touch. 
-
+   Yes. Code is on GitHub
