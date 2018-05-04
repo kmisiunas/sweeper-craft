@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <style name="Theme.ApplicationTheme"
+           parent="@android:style/Theme.NoTitleBar">
+    </style>
+
+    <!--<style name="TutorialTheme"-->
+           <!--parent="@android:Theme.AppCompat">-->
+        <!--<item name="android:windowActionBar">false</item>-->
+    <!--</style>-->
+
+
+    <style name="Theme.Transparent" parent="android:Theme">
+        <item name="android:windowIsTranslucent">true</item>
+        <item name="android:windowBackground">@android:color/transparent</item>
+        <item name="android:windowContentOverlay">@null</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowIsFloating">false</item>
+        <item name="android:backgroundDimEnabled">false</item>
+    </style>
+
+    <style name="Theme.Menu" parent="android:Theme">
+        <item name="android:windowBackground">@drawable/menu_background_repeat</item>
+        <item name="android:windowContentOverlay">@null</item>
+        <item name="android:windowNoTitle">true</item>
+    </style>
+
+    <style name="main_activity_button">
+        <item name="android:layout_height">50dp</item>
+        <item name="android:layout_width">280dp</item>
+        <item name="android:layout_marginTop">10dp</item>
+        <item name="android:layout_marginBottom">10dp</item>
+        <item name="android:textSize">22dp</item>
+        <item name="android:background">@drawable/tool_button</item>
+    </style>
+
+    <style name="score_view_normal">
+        <item name="android:textAppearance">?android:attr/textAppearanceMedium</item>
+        <item name="android:textColor">@color/score_normal</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <style name="score_view_warning">
+        <item name="android:textAppearance">?android:attr/textAppearanceLarge</item>
+        <item name="android:textColor">@color/score_warning</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+
+
+    <style name="menu_style">
+        <item name="android:layout_height">50dp</item>
+        <item name="android:layout_width">280dp</item>
+        <item name="android:layout_marginTop">10dp</item>
+        <item name="android:layout_marginBottom">10dp</item>
+        <item name="android:textSize">22dp</item>
+        <item name="android:background">@drawable/tool_button</item>
+    </style>
+
+    <style name="menu_style_spinner" parent="android:Widget.Spinner">
+        <item name="android:layout_height">50dp</item>
+        <item name="android:layout_width">280dp</item>
+        <item name="android:layout_marginTop">10dp</item>
+        <item name="android:layout_marginBottom">10dp</item>
+        <item name="android:textSize">22dp</item>
+        <item name="android:background">@drawable/bg_spinner</item>
+    </style>
+
+    <style name="tooltip">
+        <item name="android:textSize">18sp</item>
+        <!--<item name="android:lineSpacingExtra">5dp</item>-->
+        <item name="backgroundColor">#cb3015</item>
+        <!--<item name="colorBackground">#cb3015</item>-->
+        <item name="cornerRadius">7dp</item>
+        <item name="android:padding">5dp</item>
+        <item name="dismissOnClick">true</item>
+    </style>
+
+</resources>

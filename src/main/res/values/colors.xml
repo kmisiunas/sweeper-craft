@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#000000</color>
+    <color name="White">#ffffff</color>
+    <color name="dark_grey">#3D3D3D</color>
+    <color name="dark_gold">#bca50a</color>
+    <color name="yellow">#fdce2d</color>
+    <color name="score_normal">#fdce2d</color>
+    <color name="score_warning">#dd1919</color>
+    <color name="button_unselected">#ffffff</color>
+    <color name="button_selected">#66e329</color>
+    <!-- V1.4.1 -->
+    <color name="hs_current_game">#66e32911</color>
+    <color name="hs_current_game_text">#66e329</color>
+    <!-- v2.0 -->
+    <color name="user_score_background_green">#606CE024</color>
+    <color name="user_score_background_orange">#60FCB417</color>
+    <!-- v2.1 -->
+    <!-- Tool Buttons in game -->
+	<color name="button_border">#424241</color>
+	<color name="button_shade_light">#F0EEEC</color>
+	<color name="button_shade_dark">#B0AEAD</color>
+	<color name="button_shade_light_selected">#E8C79B</color>
+	<color name="button_shade_dark_selected">#E3A654</color>
+    <!-- Tooltip -->
+    <color name="tooltip_bg">#fdce2d</color>
+</resources>

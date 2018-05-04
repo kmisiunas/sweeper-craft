@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+Google Play game services IDs.
+Save this file as res/values/games-ids.xml in your project.
+-->
+<resources>
+    <string name="app_id">181348035390</string>
+    <string name="package_name">com.misiunas.mcs</string>
+    <string name="leaderboard_classic_easy">CgkIvta9yaMFEAIQAQ</string>
+    <string name="leaderboard_classic_medium">CgkIvta9yaMFEAIQAg</string>
+    <string name="leaderboard_classic_hard">CgkIvta9yaMFEAIQAw</string>
+    <string name="leaderboard_adventure_easy">CgkIvta9yaMFEAIQBA</string>
+    <string name="leaderboard_adventure_medium">CgkIvta9yaMFEAIQBQ</string>
+    <string name="leaderboard_adventure_hard">CgkIvta9yaMFEAIQBg</string>
+    <string name="leaderboard_rescue_easy">CgkIvta9yaMFEAIQBw</string>
+    <string name="leaderboard_rescue_medium">CgkIvta9yaMFEAIQCA</string>
+    <string name="leaderboard_rescue_hard">CgkIvta9yaMFEAIQCQ</string>
+</resources>

@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/main_frame"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    xmlns:tools="http://schemas.android.com/tools">
+
+    <FrameLayout
+        android:id="@+id/main_game_window"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent">
+
+        <!--todo remove this?-->
+        <RelativeLayout
+            android:id="@+id/container"
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"/>
+
+    </FrameLayout>
+
+    <FrameLayout
+        android:id="@+id/frameLayout2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <RelativeLayout
+            android:id="@+id/relativeLayout1"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+            <ImageView
+                android:id="@+id/imageLife1"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentLeft="true"
+                android:layout_alignParentTop="true"
+                android:layout_marginLeft="3dp"
+                android:layout_marginTop="2dp"
+                android:background="@drawable/heart_full" />
+
+            <ImageView
+                android:id="@+id/imageLife2"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentTop="true"
+                android:layout_marginLeft="3dp"
+                android:layout_marginTop="2dp"
+                android:layout_toRightOf="@+id/imageLife1"
+                android:background="@drawable/heart_full" />
+
+            <ImageView
+                android:id="@+id/imageLife3"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentTop="true"
+                android:layout_marginLeft="3dp"
+                android:layout_marginTop="2dp"
+                android:layout_toRightOf="@+id/imageLife2"
+                android:background="@drawable/heart_full" />
+
+            <ImageView
+                android:id="@+id/imageLife4"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentTop="true"
+                android:layout_marginLeft="3dp"
+                android:layout_marginTop="2dp"
+                android:layout_toRightOf="@+id/imageLife3"
+                android:background="@drawable/heart_full" />
+
+            <TextView
+                    android:id="@+id/scoreView"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_alignParentTop="true"
+                    android:layout_alignParentRight="true"
+                    android:layout_marginTop="1dp"
+                    android:layout_marginRight="6dp"
+                    style="@style/score_view_normal"
+                    android:text="0" />
+
+            <!--end game goes here -->
+            <include layout="@layout/game_over_message"/>
+
+        </RelativeLayout>
+    </FrameLayout>
+
+    <FrameLayout
+        android:id="@+id/frameLayout1"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="bottom">
+
+        <LinearLayout
+            android:id="@+id/linearLayout2"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+            <Button
+                android:id="@+id/button_mine"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_margin="1.5dp"
+                android:layout_weight="1"
+                android:background="@drawable/tool_button"
+                android:drawableLeft="@drawable/tool_mine"
+                android:text="@string/mine"
+                android:textColor="@color/button_border" />
+
+            <Button
+                android:id="@+id/button_flag"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_margin="1.5dp"
+                android:layout_weight="1"
+                android:background="@drawable/tool_button"
+                android:drawableLeft="@drawable/tool_flag"
+                android:text="@string/flag"
+                android:textColor="@color/button_border" />
+
+            <Button
+                android:id="@+id/button_explore"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_margin="1.5dp"
+                android:layout_weight="1"
+                android:background="@drawable/tool_button"
+                android:drawableLeft="@drawable/tool_explore"
+                android:enabled="false"
+                android:text="@string/protect_button"
+                android:textColor="@color/button_border" />
+        </LinearLayout>
+    </FrameLayout>
+
+</FrameLayout>

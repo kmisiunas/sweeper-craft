@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources  xmlns:tools="http://schemas.android.com/tools"
+            tools:ignore="TypographyDashes">
+
+    <!--Replace placeholder ID with your tracking ID-->
+    <string name="ga_trackingId" translatable="false">UA-4830476-6</string>
+
+
+    <string name="banner_ad_unit_id">ca-app-pub-5454624221267779/7881945841</string>
+
+
+    <!--Enable automatic activity tracking-->
+    <bool name="ga_autoActivityTracking">true</bool>
+
+    <!--Enable automatic exception tracking-->
+    <bool name="ga_reportUncaughtExceptions">true</bool>
+
+    <!-- Present in all applications -->
+    <string name="google_app_id_old" translatable="false">1:181348035390:android:4bda7ed44000e1fe</string>
+
+    <!-- Present in applications with the appropriate services configured -->
+    <!--<string name="gcm_defaultSenderId" translatable="false">1035469437089</string>-->
+    <string name="default_web_client_id_old" translatable="false">181348035390-hai4ftns0465l4m57kb87eelr8k8c7ul.apps.googleusercontent.com</string>
+    <string name="google_api_key_old" translatable="false">AIzaSyC2NhPL26jP4soxj6jvyV0Nh1Z5wkWBA8Y</string>
+    <string name="google_crash_reporting_api_key_old" translatable="false">AIzaSyC2NhPL26jP4soxj6jvyV0Nh1Z5wkWBA8Y</string>
+
+</resources>

@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="@drawable/menu_background"
+    android:orientation="vertical">
+
+    <RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+                    android:id="@+id/main_frame"
+                    android:orientation="vertical"
+                    android:layout_width="fill_parent"
+                    android:layout_height="fill_parent"
+                    xmlns:ads="http://schemas.android.com/apk/res-auto"
+                    android:background="@drawable/menu_background">
+
+    <!-- Begin Ad -->
+
+    <LinearLayout
+            android:id="@+id/linearLayoutAd"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:gravity="center_horizontal|center_vertical"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentTop="true"
+            android:background="@drawable/ad_background"
+            android:padding="2dp"
+            android:paddingBottom="3dp">
+
+        <com.google.android.gms.ads.AdView
+                android:id="@+id/adView"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerHorizontal="true"
+                ads:adSize="BANNER"
+                ads:adUnitId="@string/banner_ad_unit_id" />
+    </LinearLayout>
+
+    <!-- Begin Navigation Banner -->
+
+    <LinearLayout
+            android:id="@+id/linearLayoutHeader"
+            android:layout_width="match_parent"
+            android:orientation="vertical"
+            android:gravity="center_horizontal|center_vertical"
+            android:layout_alignParentLeft="true"
+            android:layout_below="@id/linearLayoutAd"
+            android:layout_height="60dp"
+            android:background="@drawable/title_background" >
+
+        <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="0dp"
+                android:text="@string/new_game"
+                android:textAppearance="?android:attr/textAppearanceLarge"
+                android:textColor="@color/White" />
+
+    </LinearLayout>
+
+    <ImageView
+            android:layout_below="@id/linearLayoutAd"
+            android:layout_alignParentLeft="true"
+            android:layout_marginLeft="10dp"
+            android:layout_marginTop="3dp"
+            android:layout_width="54dp"
+            android:layout_height="54dp"
+            android:scaleType="fitXY"
+            android:adjustViewBounds="true"
+            android:src="@drawable/ic_launcher_mcs"/>
+
+    <LinearLayout
+            android:id="@+id/linearLayoutHeaderShadow"
+            android:layout_width="match_parent"
+            android:orientation="vertical"
+            android:gravity="center_horizontal|center_vertical"
+            android:layout_alignParentLeft="true"
+            android:layout_below="@id/linearLayoutHeader"
+            android:paddingBottom="10dp"
+            android:layout_height="5dp"
+            android:background="@drawable/title_background_shadow" />
+
+    <!-- End Navigation Banner -->
+
+    <ScrollView
+        android:id="@+id/scrollView1"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_gravity="center"
+        android:layout_alignParentLeft="true"
+        android:layout_below="@id/linearLayoutHeaderShadow">
+
+        <LinearLayout
+            android:id="@+id/relativeLayout1"
+            android:orientation="vertical"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:gravity="center_horizontal">
+
+            <TextView
+                    android:id="@+id/textView2"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="10dp"
+                    android:layout_marginBottom="10dp"
+                    android:text="@string/game_mode"
+                    android:textAppearance="?android:attr/textAppearanceMedium"
+                    android:textColor="@color/black" />
+
+            <Spinner
+                    android:id="@+id/spinner_game_mode"
+                    android:layout_width="280dp"
+                    android:layout_height="wrap_content"
+                    android:entries="@array/game_modes"
+                    style="@style/menu_style_spinner"
+                    android:spinnerMode="dropdown" />
+
+            <TextView
+                    android:id="@+id/modeDescription"
+                    android:layout_width="280dp"
+                    android:layout_height="wrap_content"
+                    android:text="@string/mode_adventure_exp"
+                    android:textAppearance="?android:attr/textAppearanceSmall"
+                    android:textColor="@color/black"/>
+
+
+            <TextView
+                android:id="@+id/textView1"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/map_size"
+                android:textAppearance="?android:attr/textAppearanceMedium"
+                android:textColor="@color/black" />
+
+            <Spinner
+                android:id="@+id/spinner_map_size"
+                android:layout_width="280dp"
+                android:layout_height="wrap_content"
+                android:entries="@array/map_sizes"
+                style="@style/menu_style_spinner"
+                android:spinnerMode="dropdown"/>
+
+
+            <TextView
+                android:id="@+id/textView4"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/difficulty"
+                android:textAppearance="?android:attr/textAppearanceMedium"
+                android:textColor="@color/black" />
+
+            <Spinner
+                android:id="@+id/spinner_difficulty"
+                android:layout_width="280dp"
+                android:layout_height="wrap_content"
+                android:entries="@array/difficulties"
+                style="@style/menu_style_spinner"
+                android:spinnerMode="dropdown" />
+
+            <Button
+                android:id="@+id/button_start_game"
+                android:layout_width="280dp"
+                android:layout_height="50dp"
+                android:text="@string/start_game"
+                style="@style/menu_style"/>
+        </LinearLayout>
+    </ScrollView>
+
+    </RelativeLayout>
+
+</LinearLayout>

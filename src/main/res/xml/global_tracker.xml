@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="ga_trackingId" translatable="false">UA-4830476-6</string>
+    <!--Enable automatic activity tracking-->
+    <bool name="ga_autoActivityTracking">true</bool>
+
+    <!--Enable automatic exception tracking-->
+    <bool name="ga_reportUncaughtExceptions">true</bool>
+
+    <!-- End current session if app sleeps for a period of time -->
+    <integer name="ga_sessionTimeout">300</integer>
+
+    <string name="ga_sampleFrequency">100.0</string>
+
+    <!-- The screen names that will appear in reports -->
+    <screenName name="com.misiunas.mcs.game.GameActivity">Game</screenName>
+    <screenName name="com.misiunas.mcs.MainMenuActivity">Main Menu</screenName>
+    <screenName name="com.misiunas.mcs.SettingsActivity">Settings</screenName>
+    <screenName name="com.misiunas.mcs.NewGameFragment">New Game</screenName>
+    <screenName name="com.misiunas.mcs.TutorialActivity">Tutorial</screenName>
+    <screenName name="com.misiunas.mcs.badges.ShowBadgeActivity">Show Badge</screenName>
+    <screenName name="com.misiunas.mcs.NewGameActivity">New Game</screenName>
+
+</resources>

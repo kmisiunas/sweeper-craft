@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+    <PreferenceCategory
+            android:title="@string/settings_gameplay"
+            android:key="mcs.settings_gameplay">
+
+        <Preference
+                android:title="@string/settings_theme"
+                android:summary="@string/settings_theme_summary">
+            <intent
+                    android:action="android.intent.action.VIEW"
+                    android:targetPackage="com.misiunas.mcs"
+                    android:targetClass="com.misiunas.mcs.minor.ThemeSelectorActivity" />
+        </Preference>
+
+        <!--  HIGHSCORE -->
+        <Preference
+                android:title="@string/settings_login"
+                android:summary="@string/settings_login_explanation"
+                android:key="mcs.settings_login">
+        </Preference>
+
+        <ListPreference
+                android:key="mcs.settings_language"
+                android:title="@string/settings_language"
+                android:dialogTitle="@string/settings_language_explanation"
+                android:entries="@array/settings_language_list"
+                android:entryValues="@array/settings_language_values"
+                android:defaultValue="@string/settings_language_default" />
+
+        <CheckBoxPreference
+                android:key="mcs.settings_vibrate"
+                android:title="@string/settings_vibrate"
+                android:summary="@string/settings_vibrate_explanation"
+                android:defaultValue="true" />
+
+
+
+        <!--  OTHER -->
+        <PreferenceScreen
+            android:key="mcs.settings_other"
+            android:title="@string/settings_other"
+            android:persistent="false">
+
+            <CheckBoxPreference
+                    android:key="mcs.settings_show_grid"
+                    android:title="@string/settings_show_grid"
+                    android:summary="@string/settings_show_grid_explanation"
+                    android:defaultValue="false" />
+
+
+            <CheckBoxPreference
+                    android:key="mcs.settings_show_badges"
+                    android:title="@string/settings_show_badges"
+                    android:summary="@string/settings_show_badges_explanation"
+                    android:defaultValue="true" />
+
+            <Preference
+                    android:title="@string/settings_calibrate_touch"
+                    android:key="mcs.settings_calibrate_touch">
+                <intent
+                        android:action="android.intent.action.VIEW"
+                        android:targetPackage="com.misiunas.mcs"
+                        android:targetClass="com.misiunas.mcs.minor.CalibrationActivity" />
+            </Preference>
+
+        </PreferenceScreen>
+
+
+    </PreferenceCategory>
+
+    <!--  CONTRIBUTE -->
+
+
+    <PreferenceCategory
+            android:title="@string/settings_contribute"
+            android:key="mcs.contribute">
+
+        <Preference
+                android:title="@string/settings_rate_app"
+                android:summary="@string/settings_rate_app_summary" >
+            <intent android:action="android.intent.action.VIEW"
+                    android:data="market://details?id=com.misiunas.mcs" />
+        </Preference>
+        <Preference
+                android:key="mcs.settings_spread_the_word"
+                android:title="@string/settings_spread_the_word"
+                android:summary="@string/settings_spread_the_word_summary" >
+        </Preference>
+
+        <!--<Preference-->
+                <!--android:title="@string/settings_premium"-->
+                <!--android:summary="@string/settings_premium_summary" >-->
+
+        <!--</Preference>-->
+
+    </PreferenceCategory>
+
+    <!--  INFORMATION -->
+
+    <PreferenceCategory
+            android:title="@string/settings_information"
+            android:key="mcs.settings_information">
+
+        <Preference
+            android:title="@string/settings_tutorial"
+            android:summary="@string/settings_tutorial_summary">
+            <intent
+                    android:action="android.intent.action.VIEW"
+                    android:targetPackage="com.misiunas.mcs"
+                    android:targetClass="com.misiunas.mcs.minor.TutorialActivity" />
+        </Preference>
+
+        <Preference
+                android:title="@string/settings_bug"
+                android:summary="@string/settings_bug_summary">
+            <intent
+                    android:action="android.intent.action.VIEW"
+                    android:data="mailto:support+mcs@misiunas.com" />
+        </Preference>
+
+        <Preference
+                android:title="@string/settings_webpage"
+                android:summary="@string/settings_webpage_summary">
+            <intent
+                    android:action="android.intent.action.VIEW"
+                    android:data="http://minecraft-sweeper.com" />
+        </Preference>
+
+        <Preference
+                android:key="mcs.settings_about"
+                android:title="@string/settings_about"
+                android:summary="@string/settings_about_summary">
+        </Preference>
+
+
+    </PreferenceCategory>
+
+
+
+
+
+</PreferenceScreen>

@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              android:layout_width="fill_parent"
+              android:layout_height="fill_parent"
+              android:orientation="horizontal">
+
+
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/main_frame"
+    android:orientation="vertical"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    xmlns:ads="http://schemas.android.com/apk/res-auto"
+    android:background="@drawable/menu_background">
+
+    <!-- Begin Ad -->
+
+    <LinearLayout
+            android:id="@+id/linearLayoutAd"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:gravity="center_horizontal|center_vertical"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentTop="true"
+            android:background="@drawable/ad_background"
+            android:padding="3dp"
+            android:visibility="invisible">
+
+    <com.google.android.gms.ads.AdView
+            android:id="@+id/adView"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerHorizontal="true"
+            ads:adSize="BANNER"
+            ads:adUnitId="@string/banner_ad_unit_id" />
+    </LinearLayout>
+
+    <!-- Begin Navigation Banner -->
+
+    <LinearLayout
+        android:id="@+id/linearLayoutHeader"
+        android:layout_width="match_parent"
+        android:orientation="vertical"
+        android:gravity="center_horizontal|center_vertical"
+        android:layout_alignParentLeft="true"
+        android:layout_below="@id/linearLayoutAd"
+        android:layout_height="60dp"
+        android:background="@drawable/title_background" >
+
+        <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="0dp"
+                android:text="@string/app_name_full"
+                android:textAppearance="?android:attr/textAppearanceLarge"
+                android:textColor="@color/White" />
+
+    </LinearLayout>
+
+    <ImageView
+            android:layout_below="@id/linearLayoutAd"
+            android:layout_alignParentLeft="true"
+            android:layout_marginLeft="10dp"
+            android:layout_marginTop="3dp"
+            android:layout_width="54dp"
+            android:layout_height="54dp"
+            android:scaleType="fitXY"
+            android:adjustViewBounds="true"
+            android:src="@drawable/ic_launcher_mcs"/>
+
+    <LinearLayout
+            android:id="@+id/linearLayoutHeaderShadow"
+            android:layout_width="match_parent"
+            android:orientation="vertical"
+            android:gravity="center_horizontal|center_vertical"
+            android:layout_alignParentLeft="true"
+            android:layout_below="@id/linearLayoutHeader"
+            android:paddingBottom="10dp"
+            android:layout_height="5dp"
+            android:background="@drawable/title_background_shadow" />
+
+    <!-- End Navigation Banner -->
+
+    <ScrollView
+        android:id="@+id/scrollView1"
+        android:layout_marginTop="10dp"
+        android:layout_height="match_parent"
+        android:layout_width="match_parent"
+        android:layout_alignParentLeft="true"
+        android:layout_below="@id/linearLayoutHeaderShadow">
+
+        <LinearLayout
+            android:id="@+id/linearLayout3"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:gravity="center">
+
+            <Button
+                    android:text="@string/continue_game"
+                    android:enabled="false"
+                    android:id="@+id/button_continue"
+                    style="@style/menu_style" />
+
+            <Button
+                    android:text="@string/new_game"
+                    android:id="@+id/button_new_game"
+                    style="@style/menu_style" />
+
+
+            <Button
+                    android:text="@string/settings"
+                    android:id="@+id/button_settings"
+                    style="@style/menu_style" />
+
+            <Button
+                    android:id="@+id/button_score"
+                    android:text="@string/high_score"
+                    style="@style/menu_style"
+                    android:drawableLeft="@drawable/games_controller_grey"
+                    android:drawablePadding="-30sp"/>
+
+
+        </LinearLayout>
+    </ScrollView>
+
+
+
+
+
+</RelativeLayout>
+
+<FrameLayout
+android:id="@+id/second_fragment_holder"
+android:layout_width="0dp"
+android:layout_height="match_parent"
+android:layout_gravity="center_vertical"
+android:layout_weight="1"
+android:visibility="gone"/>
+</LinearLayout>
