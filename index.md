@@ -45,7 +45,7 @@ You can install game from Google Play Store
 However, after legal issue with Microsoft that went unresolved the game is not available on European Play store. Instead, you can install it directly via APK file. Download the game below and you can follow these [instructions](http://www.ubergizmo.com/how-to/how-to-install-apk-files-sideloading-on-android/) on  installing the APK files
 
 <ul class="actions">
-  <li><a href="https://dl.dropboxusercontent.com/u/12073958/MC-Sweeper-release.apk" class="button special icon fa-download">Download .APK file</a></li>
+  <li><a href="https://www.dropbox.com/s/xjdvz8dfn22lfzn/MC-Sweeper-release.apk?dl=1" class="button special icon fa-download">Download .APK file</a></li>
 </ul>
 
 
