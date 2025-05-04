@@ -10,7 +10,6 @@
     <string name="new_game">Nieuw spel</string>
     <string name="settings">Instellingen</string>
     <string name="high_score">Highscores</string>
-    <!-- Settings defined automatically by android? -->
 
     <!-- New Game Activity -->
 
@@ -66,7 +65,6 @@
 
 
     <string name="mistake_flag">Auw! Een vlag op de verkeerde plek</string>
-
     <string name="found_zombie">Zombie wil jou hersenen</string>
     <string name="found_creeper">Psss... boem! Een Creeper sluipte naar je toe</string>
     <string name="found_enderman">Auw... Ik had niet naar die Enderman moeten kijken</string>
@@ -82,21 +80,7 @@
     <string name="explosives_boom">Boem!</string>
     <string name="found_goal">JelleWie! Je hebt hem gevonden</string>
     <string name="uncovered_all_tiles">Je hebt de hele mijn ontdekt!</string>
-    <string name="died">Je stierf.</string> <!-- unused -->
-
-    <string name="no0_diamond_ore">Je diamant  zwaard brak.</string>
-    <string name="no1_diamond_ore">Verzamel nog één diamant om een zwaard te maken.</string>
-    <string name="no2_diamond_ore">Je hebt een diamanten zwaard gemaakt!</string>
-    <string name="have_tnt">Je hebt een Creeper gedood en hiervan een TNT gekregen!! wees voorzichtig en blaas wat op.</string>
-    <string name="found_gold_ore">Je wordt rijk!</string>
-    <string name="treasure_map">Je vond een map! Een gebied dichtbij is nu geopend.</string>
-    <string name="treasure_gold">Het zat vol met goud!</string>
-    <string name="treasure_nether">...ren</string>
-
-    <string name="treasure_diamond_sword">Je vond een zwaard!</string>
-    <string name="found_beef">Je vond wat vlees en had een feestelijke maaltijd!</string>
-    <string name="found_cake">Je vond een lekker stuk taart.</string>
-
+   
 
     <string name="diamond_sword_kill_zombie">Je doodde een zombie. Hij was geen partij voor jou.</string>
     <string name="diamond_sword_kill_creeper">Je doodde een Creeper en je hebt een TNT gemaakt van het buskruit dat hij achter liet</string>
@@ -128,16 +112,7 @@
     <string name="tweet_message_rescue">Ik redde @JelleWho in [minutes] op een Android-spel www.minecraft-sweeper.com</string>
     <string name="tweet_message_share">Probeer een nieuwe puzzel game voor Android: www.minecraft-sweeper.com</string>
 
-
-    <!-- Settings -->
-
-    <string name="menu_calibrate">Kalibreer het scherm</string>
-    <string name="reset_calibration">Standaard herstellen</string>
-    <string name="calibrate_click">Klik op het kruis</string>
-    <string name="theme_minecraft">Minecraft</string>
-    <string name="theme_classic">Klassiek</string>
-
-
+    
 
     <!-- HighScore -->
 
@@ -160,14 +135,10 @@
 
     <string name="sign_in">Log in</string>
 
-    <!--Where is it used?-->
-
-    <string name="title_activity_new_game">TeDoen</string>
 
     <!-- Google Play Store -->
 
     <string name="store_description">
-
         Puzzel game gebaseerd op het spel Mijnenveger maar dan met een nieuwe twist. We hebben ook een MineCraft thema omdat MineCraft zo gaaf is!
 
         Disclaimer: Dit spel is onafhankelijk ontwikkeld op basis van Microsoft en Mojang. Dit spel heeft evenmin betrekking op het spel Minecraft behalve het soortgelijke thema.
@@ -182,15 +153,25 @@
         - Speel tegen je vrienden
         - Knijp om in te zoomen
         - Meerdere thema\'s
-        - Frustratie vrij
-
+        - Frustratie vrij AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAadd a enter after this line
     </string>
 
-    <string name="translated_by">JelleWho</string>
+    <string name="translated_by">JelleWie</string>
+
+
+
+
+	<!-- Settings -->
+
+    
+    <string name="menu_calibrate">Kalibreer het scherm</string>
+    <string name="reset_calibration">Standaard herstellen</string>
+    <string name="calibrate_click">Klik op het kruis</string>
+    <string name="theme_minecraft">Minecraft</string>
+    <string name="theme_classic">Klassiek</string>
 
     <string name="settings_gameplay">Game play</string>
 
-    <string name="settings_zoom_default">128</string>
     <string name="settings_global">Globaal</string>
 
     <string name="settings_show_grid">Raster tonen</string>
@@ -242,6 +223,108 @@
 
     <string name="settings_about">Over</string>
     <string name="settings_about_summary"> Game-versie: [versionName] ([versionCode]). Ontwikkeld door Karolis Misiunas met veel hulp van anderen. Wij zijn onafhankelijke ontwikkelaars en niet aangesloten bij Mojang of Microsoft.</string>
+
+    
+    
+    <!-- ===== Badges ===== -->
+
+    <string name="badge_e1_title">De goede kant van de schep weten te gebruiken</string>
+    <string name="badge_e1_message">Je hebt je eerste 200 punten verdient op Makkelijk.</string>
+    <string name="badge_e2_title">Nu weet je hoe je een pickhouwel gebruikt</string>
+    <string name="badge_e2_message">Je hebt je eerste 1000 punten verdient op Makkelijk.</string>
+
+    <string name="badge_m1_title">Diggy diggy hole</string>
+    <string name="badge_m1_message">Je hebt je eerste 200 punten verdient op Gemiddeld.</string>
+    <string name="badge_m2_title">Genoeg steen voor je eerste huisje</string>
+    <string name="badge_m2_message">Je hebt je eerste 1000 punten verdient op Gemiddeld.</string>
+    <string name="badge_m3_title">Er is niet veel meer van over</string>
+    <string name="badge_m3_message">Je hebt je eerste 2000 punten verdient op Gemiddeld.</string>
+
+    <string name="badge_h1_title">Je wordt wel beter</string>
+    <string name="badge_h1_message">Je hebt je eerste 200 punten verdient op Hard.</string>
+    <string name="badge_h2_title">Dat is wel een diep gat</string>
+    <string name="badge_h2_message">Je hebt je eerste 2000 punten verdient op Hard.</string>
+    <string name="badge_h3_title">Je kunt nu wel een kasteel bouwen!</string>
+    <string name="badge_h3_message">Je hebt je eerste 5000 punten verdient op Hard.</string>
+    <string name="badge_h4_title">Notch zou trots op je zijn</string>
+    <string name="badge_h4_message">Je hebt je eerste 20000 punten verdient op Hard.</string>
+    
+    
+    
+    <!--  Action Badges -->
+    
+    
+    <string name="badge_to_arms_title">To Arms!</string>
+    <string name="badge_to_arms_message">You made a diamond sword</string>
+    <string name="badge_tnt_title">/give steve 46 1</string>
+    <string name="badge_tnt_message">You killed a creeper and got gunpowder for your first TNT.</string>
+    <string name="badge_lucky_loot_title">Gear up!</string>
+    <string name="badge_lucky_loot_message">A diamond sword. Lucky you </string>
+    <string name="badge_gold_fever_title">Rich!</string>
+    <string name="badge_gold_fever_message">You found chest full of gold</string>
+    <string name="badge_treasure_hunt_title">Treasure map</string>
+    <string name="badge_treasure_hunt_message">You found a map to unexplored location.</string>
+
+
+    <string name="badge_zombie_slayer_title">Zombie slayer</string>
+    <string name="badge_zombie_slayer_message">Kill 20 zombies.</string>
+    <string name="badge_braveness_title">Braveness</string>
+    <string name="badge_braveness_message">You stared 5 Enderman into the eyes and lived to tell the story</string>
+    <string name="badge_diamond_title">Diamond gear</string>
+    <string name="badge_diamond_message">You collect enough diamonds to craft full diamond gear</string>
+    <string name="badge_boom_title">Boom!!!</string>
+    <string name="badge_boom_message">Mining like a pro: with TNT</string>
+    <string name="badge_honeydew_appetite_title">Honeydew appetite</string>
+    <string name="badge_honeydew_appetite_message">You are 20 pies so far. Num num num</string>
+    <string name="badge_addictive_title">As addictive as Minecraft</string>
+    <string name="badge_addictive_message">You won 20+ games!</string>
+
+    <string name="badge_quick_title">A Quick Miner!</string>
+    <string name="badge_quick_message">You collected more than 2 points per second. Keep it up.</string>
+    <string name="badge_adventurer_title">An Adventurer!</string>
+    <string name="badge_adventurer_message">You completed your first difficult game.</string>
+    <string name="badge_lord_of_unknown_title">Lord of Unknown</string>
+    <string name="badge_lord_of_unknown_message">You have explored the entire world. A truly amazing achievement!</string>
+    <string name="badge_pure_awesome_title">Pure Awesome!</string>
+    <string name="badge_pure_awesome_message">Explored an Infinite mine on Hard. The most rare achievement</string>
+
+    
+    <!-- don't translate -->
+    
+    <string name="settings_language">Choose language</string>
+    <string-array name="settings_language_list">
+        <item>Automatic</item>
+        <item>English</item>
+        <item>Simple English</item>
+        <item>German</item>
+        <item>Russian</item>
+        <item>French</item>
+        <item>Spanish</item>
+        <item>Portuguese</item>
+        <item>Dutch</item>
+        <item>Korean</item>
+        <item>Japanese</item>
+        <item>Hindi</item>
+        <item>Thai</item>
+        <item>Chinese</item>
+    </string-array>
+    <string-array name="settings_language_values">
+        <item>Automatic</item>
+        <item>en</item>
+        <item>lkt</item>
+        <item>de</item>
+        <item>ru</item>
+        <item>fr</item>
+        <item>es</item>
+        <item>pt</item>
+        <item>nl</item>
+        <item>ko</item>
+        <item>ja</item>
+        <item>hi</item>
+        <item>th</item>
+        <item>zh</item>
+    </string-array>
+    <string name="settings_language_default">Automatic</string>
 
 
 </resources>
